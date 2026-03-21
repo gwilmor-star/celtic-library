@@ -1,0 +1,8 @@
+[
+  {"id": "deities-heroes", "name_en": "Deities & Heroes", "name_cy": "Duwiau ac Arwyr"},
+  {"id": "places-landscapes", "name_en": "Places & Landscapes", "name_cy": "Lleoedd a Thirweddau"},
+  {"id": "festivals-rituals", "name_en": "Festivals & Rituals", "name_cy": "Gwyliau a Defodau"},
+  {"id": "texts-manuscripts", "name_en": "Texts & Manuscripts", "name_cy": "Testunau a Llawysgrifau"},
+  {"id": "motifs-symbols", "name_en": "Motifs & Symbols", "name_cy": "Motiffau a Symbolau"},
+  {"id": "historical-context", "name_en": "Historical Context & Timelines", "name_cy": "Cyd-destun Hanesyddol"}
+]

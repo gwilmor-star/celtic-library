@@ -1,0 +1,13 @@
+{% if video %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ video.name }}",
+  "description": "{{ video.description }}",
+  "thumbnailUrl": "{{ video.thumbnail }}",
+  "uploadDate": "{{ video.uploadDate }}",
+  "contentUrl": "{{ video.url }}"
+}
+</script>
+{% endif %}

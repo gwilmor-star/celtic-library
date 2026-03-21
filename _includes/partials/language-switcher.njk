@@ -1,0 +1,9 @@
+<nav class="lang-switcher" aria-label="Language">
+  {% if lang == "en" %}
+    <span class="lang-active">EN</span>
+    <a href="{{ lang_alt_url | default('/cy/') }}" hreflang="cy">CY</a>
+  {% else %}
+    <a href="{{ lang_alt_url | default('/en/') }}" hreflang="en">EN</a>
+    <span class="lang-active">CY</span>
+  {% endif %}
+</nav>

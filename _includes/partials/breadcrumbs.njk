@@ -1,0 +1,33 @@
+{% if breadcrumbs %}
+<nav aria-label="Breadcrumb" class="breadcrumbs">
+  <span itemscope itemtype="https://schema.org/BreadcrumbList">
+    {% for crumb in breadcrumbs %}
+    <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      {% if loop.last %}
+        <span itemprop="name">{{ crumb.name }}</span>
+      {% else %}
+        <a itemprop="item" href="{{ crumb.url }}"><span itemprop="name">{{ crumb.name }}</span></a>
+      {% endif %}
+      <meta itemprop="position" content="{{ loop.index }}" />
+    </span>
+    {% endfor %}
+  </span>
+</nav>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {% for crumb in breadcrumbs %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "name": "{{ crumb.name }}",
+      "item": "{{ site.url }}{{ crumb.url }}"
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}

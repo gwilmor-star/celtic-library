@@ -1,0 +1,19 @@
+{% if schema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.org.name }}",
+    "url": "{{ site.org.url }}"
+  },
+  "inLanguage": "{{ lang | default('en') }}"
+}
+</script>
+{% endif %}

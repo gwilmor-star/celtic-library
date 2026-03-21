@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  <div class="site-wrapper">
+    <div class="cta">
+      {% if lang == "cy" %}
+        <p>Mae'r llyfrgell hon yn rhan o brosiect <a href="{{ site.org.url }}">{{ site.org.name }}</a> — adnodd am fytholeg Geltaidd wedi'i ysgrifennu gan {{ site.author.name }}.</p>
+      {% else %}
+        <p>This library is part of the <a href="{{ site.org.url }}">{{ site.org.name }}</a> project — a resource for Celtic mythology written by {{ site.author.name }}.</p>
+      {% endif %}
+    </div>
+    <p>&copy; {{ site.author.name }}. <a href="{{ site.org.url }}">{{ site.org.name }}</a></p>
+  </div>
+</footer>

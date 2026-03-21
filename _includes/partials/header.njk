@@ -1,0 +1,8 @@
+<header class="site-header">
+  <div class="site-wrapper">
+    <a class="site-title" href="/{{ lang | default('en') }}/">
+      {% if lang == "cy" %}{{ site.name_cy }}{% else %}{{ site.name }}{% endif %}
+    </a>
+    {% include "partials/language-switcher.njk" %}
+  </div>
+</header>

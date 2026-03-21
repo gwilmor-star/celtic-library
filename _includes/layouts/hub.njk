@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+---
+<article>
+  <h1>{{ title }}</h1>
+  {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+  <hr>
+  {{ content | safe }}
+  {% if cluster %}
+  <section>
+    <h2>{% if lang == 'cy' %}Tudalennau yn y Clwstwr Hwn{% else %}Pages in This Cluster{% endif %}</h2>
+    <ul class="cluster-list">
+      {# Entity pages in this cluster will be listed here #}
+    </ul>
+  </section>
+  {% endif %}
+</article>

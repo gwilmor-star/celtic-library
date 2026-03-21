@@ -1,0 +1,25 @@
+{
+  "name": "celtic-library",
+  "version": "1.0.0",
+  "description": "Bilingual (EN/CY) Q&amp;A library for Celtic Source — Eleventy + Cloudflare Pages",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwilmor-star/celtic-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gwilmor-star/celtic-library/issues"
+  },
+  "homepage": "https://github.com/gwilmor-star/celtic-library#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

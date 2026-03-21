@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ lang | default('en') }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} — {% endif %}{% if lang == 'cy' %}{{ site.name_cy }}{% else %}{{ site.name }}{% endif %}</title>
+  {% if description %}<meta name="description" content="{{ description }}">{% endif %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | replace('/en', '') | replace('/cy', '') }}">
+  <link rel="alternate" hreflang="cy" href="{{ site.url }}/cy{{ page.url | replace('/en', '') | replace('/cy', '') }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en{{ page.url | replace('/en', '') | replace('/cy', '') }}">
+  <link rel="stylesheet" href="/css/style.css">
+  {% include "partials/head-schema.njk" %}
+  {% include "partials/faq-schema.njk" %}
+  {% include "partials/video-schema.njk" %}
+</head>
+<body>
+  {% include "partials/header.njk" %}
+  <div class="site-wrapper">
+    {% include "partials/breadcrumbs.njk" %}
+    <main>
+      {{ content | safe }}
+    </main>
+  </div>
+  {% include "partials/footer.njk" %}
+</body>
+</html>
