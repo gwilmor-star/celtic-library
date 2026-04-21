@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Annwfn mean?"
-language: "en"
 slug: "what-does-annwfn-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
