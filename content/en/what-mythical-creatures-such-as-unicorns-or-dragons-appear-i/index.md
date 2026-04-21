@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What mythical creatures (such as unicorns or dragons) appear in Celtic folklore?"
-language: "en"
 slug: "what-mythical-creatures-such-as-unicorns-or-dragons-appear-i"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
