@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is the goddess Rhiannon?"
-language: "en"
 slug: "who-is-the-goddess-rhiannon"
 cluster: "deities-major-figures"
 type: "entity-page"
