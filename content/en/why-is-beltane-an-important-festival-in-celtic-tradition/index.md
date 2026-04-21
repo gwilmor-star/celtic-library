@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Why is Beltane an important festival in Celtic tradition?"
-language: "en"
 slug: "why-is-beltane-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
