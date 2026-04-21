@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Beltane mean?"
-language: "en"
 slug: "what-does-beltane-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
