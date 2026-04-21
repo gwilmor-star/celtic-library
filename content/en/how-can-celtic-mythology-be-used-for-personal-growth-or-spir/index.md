@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How can Celtic mythology be used for personal growth or spiritual practice?"
-language: "en"
 slug: "how-can-celtic-mythology-be-used-for-personal-growth-or-spir"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
