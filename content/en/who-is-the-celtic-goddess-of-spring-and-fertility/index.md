@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is the Celtic goddess of spring and fertility?"
-language: "en"
 slug: "who-is-the-celtic-goddess-of-spring-and-fertility"
 cluster: "deities-major-figures"
 type: "entity-page"
