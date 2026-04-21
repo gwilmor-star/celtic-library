@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is a Celtic legend?"
-language: "en"
 slug: "what-is-a-celtic-legend"
 cluster: "foundations-definitions"
 type: "entity-page"
