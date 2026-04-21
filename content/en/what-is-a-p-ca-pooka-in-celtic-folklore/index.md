@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is a púca (pooka) in Celtic folklore?"
-language: "en"
 slug: "what-is-a-p-ca-pooka-in-celtic-folklore"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
