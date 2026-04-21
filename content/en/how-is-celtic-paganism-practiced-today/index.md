@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How is Celtic paganism practiced today?"
-language: "en"
 slug: "how-is-celtic-paganism-practiced-today"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
