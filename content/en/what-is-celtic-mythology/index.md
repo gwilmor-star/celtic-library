@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is Celtic mythology?"
-language: "en"
 slug: "what-is-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
