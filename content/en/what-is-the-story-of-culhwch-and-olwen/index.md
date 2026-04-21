@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the story of Culhwch and Olwen?"
-language: "en"
 slug: "what-is-the-story-of-culhwch-and-olwen"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
