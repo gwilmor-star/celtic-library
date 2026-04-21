@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the Celtic creation myth?"
-language: "en"
 slug: "what-is-the-celtic-creation-myth"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
