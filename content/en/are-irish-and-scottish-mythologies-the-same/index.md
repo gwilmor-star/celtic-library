@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Are Irish and Scottish mythologies the same?"
-language: "en"
 slug: "are-irish-and-scottish-mythologies-the-same"
 cluster: "peoples-languages-geography"
 type: "entity-page"
