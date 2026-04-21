@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What are some recommended books or resources for learning Celtic mythology?"
-language: "en"
 slug: "what-are-some-recommended-books-or-resources-for-learning-ce"
 cluster: "foundations-definitions"
 type: "entity-page"
