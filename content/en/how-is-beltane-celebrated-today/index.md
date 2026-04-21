@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How is Beltane celebrated today?"
-language: "en"
 slug: "how-is-beltane-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
