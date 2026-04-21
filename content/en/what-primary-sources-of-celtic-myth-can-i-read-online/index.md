@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What primary sources of Celtic myth can I read online?"
-language: "en"
 slug: "what-primary-sources-of-celtic-myth-can-i-read-online"
 cluster: "foundations-definitions"
 type: "entity-page"
