@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How is Imbolc celebrated today?"
-language: "en"
 slug: "how-is-imbolc-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
