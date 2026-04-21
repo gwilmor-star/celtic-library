@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the story of Blodeuwedd?"
-language: "en"
 slug: "what-is-the-story-of-blodeuwedd"
 cluster: "deities-major-figures"
 type: "entity-page"
