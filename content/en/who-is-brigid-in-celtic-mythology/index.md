@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is Brigid in Celtic mythology?"
-language: "en"
 slug: "who-is-brigid-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
