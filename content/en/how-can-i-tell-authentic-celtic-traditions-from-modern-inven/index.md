@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How can I tell authentic Celtic traditions from modern inventions?"
-language: "en"
 slug: "how-can-i-tell-authentic-celtic-traditions-from-modern-inven"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
