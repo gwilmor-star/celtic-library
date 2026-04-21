@@ -6,16 +6,4 @@ layout: layouts/base.njk
   {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
   <hr>
   {{ content | safe }}
-  {% if cluster %}
-  <section>
-    <h2>{% if lang == 'cy' %}Tudalennau yn y Clwstwr Hwn{% else %}Pages in This Cluster{% endif %}</h2>
-    <ul class="cluster-list">
-      {% for entry in collections.all %}
-        {% if entry.data.cluster == cluster and entry.data.lang == lang %}
-        <li><a href="{{ entry.url }}">{{ entry.data.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </section>
-  {% endif %}
 </article>
