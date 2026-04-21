@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is Ogham writing and what was it used for?"
-language: "en"
 slug: "what-is-ogham-writing-and-what-was-it-used-for"
 cluster: "symbols-material-culture"
 type: "entity-page"
