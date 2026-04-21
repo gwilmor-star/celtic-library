@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Which are the Celtic nations?"
-language: "en"
 slug: "which-are-the-celtic-nations"
 cluster: "peoples-languages-geography"
 type: "entity-page"
