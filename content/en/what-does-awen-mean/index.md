@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Awen mean?"
-language: "en"
 slug: "what-does-awen-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
