@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Why is Lughnasadh an important festival in Celtic tradition?"
-language: "en"
 slug: "why-is-lughnasadh-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
