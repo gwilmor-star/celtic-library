@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What roles did druids, filid, and bards have in ancient Celtic society?"
-language: "en"
 slug: "what-roles-did-druids-filid-and-bards-have-in-ancient-celtic"
 cluster: "peoples-languages-geography"
 type: "entity-page"
