@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Are leprechauns part of Celtic mythology?"
-language: "en"
 slug: "are-leprechauns-part-of-celtic-mythology"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
