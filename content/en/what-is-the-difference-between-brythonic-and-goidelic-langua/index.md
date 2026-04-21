@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the difference between Brythonic and Goidelic languages?"
-language: "en"
 slug: "what-is-the-difference-between-brythonic-and-goidelic-langua"
 cluster: "peoples-languages-geography"
 type: "entity-page"
