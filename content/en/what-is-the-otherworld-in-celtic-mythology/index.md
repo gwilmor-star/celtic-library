@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the Otherworld in Celtic mythology?"
-language: "en"
 slug: "what-is-the-otherworld-in-celtic-mythology"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
