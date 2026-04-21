@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Is Wicca based on Celtic traditions?"
-language: "en"
 slug: "is-wicca-based-on-celtic-traditions"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
