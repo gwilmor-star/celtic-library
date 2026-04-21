@@ -30,5 +30,16 @@
     </main>
   </div>
   {% include "partials/footer.njk" %}
+  <aside class="community-footer">
+    <div class="site-wrapper">
+      {% if lang == "cy" %}
+        <p class="community-footer__heading">Ymunwch a'r gymuned</p>
+        <p>Mae Celtic Source yn brosiect cymunedol sy'n tyfu. Os ydych chi'n mwynhau'r cynnwys hwn, ystyriwch danysgrifio i'n <a href="https://www.youtube.com/@CelticSource">sianel YouTube</a> neu ein dilyn ar gyfryngau cymdeithasol.</p>
+      {% else %}
+        <p class="community-footer__heading">Join the community</p>
+        <p>Celtic Source is a growing community project. If you enjoy this content, consider subscribing to our <a href="https://www.youtube.com/@CelticSource">YouTube channel</a> or following us on social media.</p>
+      {% endif %}
+    </div>
+  </aside>
 </body>
 </html>
