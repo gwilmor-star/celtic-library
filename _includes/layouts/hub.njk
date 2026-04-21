@@ -10,9 +10,9 @@ layout: layouts/base.njk
   <section>
     <h2>{% if lang == 'cy' %}Tudalennau yn y Clwstwr Hwn{% else %}Pages in This Cluster{% endif %}</h2>
     <ul class="cluster-list">
-      {% for page in collections.all %}
-        {% if page.data.cluster == cluster and page.data.lang == lang and page.data.type == "entity-page" %}
-        <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+      {% for entry in collections.all %}
+        {% if entry.data.cluster == cluster and entry.data.lang == lang %}
+        <li><a href="{{ entry.url }}">{{ entry.data.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>

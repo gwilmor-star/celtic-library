@@ -27,9 +27,9 @@ description: A growing library of Q&A pages covering Celtic mythology, tradition
 <h2>All Pages</h2>
 
 <ul class="cluster-list">
-  {% for page in collections.all %}
-    {% if page.data.type == "entity-page" and page.data.lang == "en" %}
-    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+  {% for entry in collections.all %}
+    {% if entry.data.type == "entity-page" and entry.data.lang == "en" %}
+    <li><a href="{{ entry.url }}">{{ entry.data.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
