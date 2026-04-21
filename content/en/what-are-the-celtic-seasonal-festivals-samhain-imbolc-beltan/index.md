@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What are the Celtic seasonal festivals (Samhain, Imbolc, Beltane, Lughnasadh) and their significance?"
-language: "en"
 slug: "what-are-the-celtic-seasonal-festivals-samhain-imbolc-beltan"
 cluster: "symbols-material-culture"
 type: "entity-page"
