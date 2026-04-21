@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Is Halloween derived from the Celtic festival Samhain?"
-language: "en"
 slug: "is-halloween-derived-from-the-celtic-festival-samhain"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
