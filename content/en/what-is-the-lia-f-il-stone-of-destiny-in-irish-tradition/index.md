@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the Lia Fáil (Stone of Destiny) in Irish tradition?"
-language: "en"
 slug: "what-is-the-lia-f-il-stone-of-destiny-in-irish-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
