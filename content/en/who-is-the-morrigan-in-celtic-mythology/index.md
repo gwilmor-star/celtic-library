@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is the Morrigan in Celtic mythology?"
-language: "en"
 slug: "who-is-the-morrigan-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
