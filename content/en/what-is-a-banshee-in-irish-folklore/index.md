@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is a banshee in Irish folklore?"
-language: "en"
 slug: "what-is-a-banshee-in-irish-folklore"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
