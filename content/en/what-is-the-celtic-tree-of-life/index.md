@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the Celtic Tree of Life?"
-language: "en"
 slug: "what-is-the-celtic-tree-of-life"
 cluster: "symbols-material-culture"
 type: "entity-page"
