@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Do people still worship Celtic gods?"
-language: "en"
 slug: "do-people-still-worship-celtic-gods"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
