@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is a geis (plural geasa) in Celtic tradition?"
-language: "en"
 slug: "what-is-a-geis-plural-geasa-in-celtic-tradition"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
