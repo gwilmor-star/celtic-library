@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What Celtic rituals or practices were used for healing?"
-language: "en"
 slug: "what-celtic-rituals-or-practices-were-used-for-healing"
 cluster: "symbols-material-culture"
 type: "entity-page"
