@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is the Celtic god of war?"
-language: "en"
 slug: "who-is-the-celtic-god-of-war"
 cluster: "deities-major-figures"
 type: "entity-page"
