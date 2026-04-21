@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Are Celtic gods pagan and how do Celtic beliefs relate to Christianity?"
-language: "en"
 slug: "are-celtic-gods-pagan-and-how-do-celtic-beliefs-relate-to-ch"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
