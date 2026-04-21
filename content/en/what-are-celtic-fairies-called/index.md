@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What are Celtic fairies called?"
-language: "en"
 slug: "what-are-celtic-fairies-called"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
