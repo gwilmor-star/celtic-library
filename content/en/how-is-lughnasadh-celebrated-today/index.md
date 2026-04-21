@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How is Lughnasadh celebrated today?"
-language: "en"
 slug: "how-is-lughnasadh-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
