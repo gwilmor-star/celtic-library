@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is a Celtic cross?"
-language: "en"
 slug: "what-is-a-celtic-cross"
 cluster: "symbols-material-culture"
 type: "entity-page"
