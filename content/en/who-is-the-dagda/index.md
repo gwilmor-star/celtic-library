@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is the Dagda?"
-language: "en"
 slug: "who-is-the-dagda"
 cluster: "deities-major-figures"
 type: "entity-page"
