@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Why should I study Celtic mythology?"
-language: "en"
 slug: "why-should-i-study-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
