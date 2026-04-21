@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Was ogham used for divination or magic in Celtic tradition?"
-language: "en"
 slug: "was-ogham-used-for-divination-or-magic-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
