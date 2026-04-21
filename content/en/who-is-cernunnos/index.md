@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is Cernunnos?"
-language: "en"
 slug: "who-is-cernunnos"
 cluster: "deities-major-figures"
 type: "entity-page"
