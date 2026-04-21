@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the difference between Gaelic and Celtic?"
-language: "en"
 slug: "what-is-the-difference-between-gaelic-and-celtic"
 cluster: "peoples-languages-geography"
 type: "entity-page"
