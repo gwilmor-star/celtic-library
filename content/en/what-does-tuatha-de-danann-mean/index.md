@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Tuatha Dé Danann mean?"
-language: "en"
 slug: "what-does-tuatha-d-danann-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
