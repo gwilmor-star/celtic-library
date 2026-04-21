@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is Manannán mac Lir in Celtic mythology?"
-language: "en"
 slug: "who-is-manann-n-mac-lir-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
