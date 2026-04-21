@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who is Lugh in Celtic mythology?"
-language: "en"
 slug: "who-is-lugh-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
