@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Is King Arthur a figure from Celtic mythology?"
-language: "en"
 slug: "is-king-arthur-a-figure-from-celtic-mythology"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
