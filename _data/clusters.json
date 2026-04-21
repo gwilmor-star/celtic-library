@@ -1,8 +1,8 @@
 [
-  {"id": "deities-heroes", "name_en": "Deities & Heroes", "name_cy": "Duwiau ac Arwyr"},
-  {"id": "places-landscapes", "name_en": "Places & Landscapes", "name_cy": "Lleoedd a Thirweddau"},
-  {"id": "festivals-rituals", "name_en": "Festivals & Rituals", "name_cy": "Gwyliau a Defodau"},
-  {"id": "texts-manuscripts", "name_en": "Texts & Manuscripts", "name_cy": "Testunau a Llawysgrifau"},
-  {"id": "motifs-symbols", "name_en": "Motifs & Symbols", "name_cy": "Motiffau a Symbolau"},
-  {"id": "historical-context", "name_en": "Historical Context & Timelines", "name_cy": "Cyd-destun Hanesyddol"}
+  {"id": "deities-major-figures", "name_en": "Deities & Major Figures", "name_cy": "Duwiau a Ffigurau Mawr"},
+  {"id": "christianity-syncretism-historicity", "name_en": "Christianity, Syncretism & Historicity", "name_cy": "Cristnogaeth, Syncretiaeth a Hanesyddoldeb"},
+  {"id": "foundations-definitions", "name_en": "Foundations & Definitions", "name_cy": "Sylfeini a Diffiniadau"},
+  {"id": "mythic-cosmology-concepts", "name_en": "Mythic Cosmology & Concepts", "name_cy": "Cosmoleg a Chysyniadau Mythig"},
+  {"id": "peoples-languages-geography", "name_en": "Peoples, Languages & Geography", "name_cy": "Pobloedd, Ieithoedd a Daearyddiaeth"},
+  {"id": "symbols-material-culture", "name_en": "Symbols & Material Culture", "name_cy": "Symbolau a Diwylliant Materol"}
 ]

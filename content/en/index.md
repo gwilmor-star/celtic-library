@@ -16,10 +16,20 @@ description: A growing library of Q&A pages covering Celtic mythology, tradition
 
 <p>The library is bilingual: every page is available in both English and Welsh. Use the language toggle in the header to switch between the two.</p>
 
-<h2>Topic Clusters</h2>
+<h2>Browse by Topic</h2>
 
 <ul class="cluster-list">
   {% for cluster in clusters %}
   <li><a href="/en/{{ cluster.id }}/">{{ cluster.name_en }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>All Pages</h2>
+
+<ul class="cluster-list">
+  {% for page in collections.all %}
+    {% if page.data.type == "entity-page" and page.data.lang == "en" %}
+    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
