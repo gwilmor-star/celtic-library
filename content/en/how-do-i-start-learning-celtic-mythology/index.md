@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How do I start learning Celtic mythology?"
-language: "en"
 slug: "how-do-i-start-learning-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
