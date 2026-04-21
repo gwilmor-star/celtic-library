@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "How did Celtic mythology change after the arrival of Christianity?"
-language: "en"
 slug: "how-did-celtic-mythology-change-after-the-arrival-of-christi"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
