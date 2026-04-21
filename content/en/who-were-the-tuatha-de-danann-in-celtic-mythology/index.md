@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who were the Tuatha Dé Danann in Celtic mythology?"
-language: "en"
 slug: "who-were-the-tuatha-d-danann-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
