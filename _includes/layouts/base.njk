@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow">
   <title>{% if title %}{{ title }} — {% endif %}{% if lang == 'cy' %}{{ site.name_cy }}{% else %}{{ site.name }}{% endif %}</title>
   {% if description %}<meta name="description" content="{{ description }}">{% endif %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | replace('/en', '') | replace('/cy', '') }}">
@@ -14,6 +15,13 @@
   {% include "partials/video-schema.njk" %}
 </head>
 <body>
+  <div class="draft-banner" role="status">
+    {% if lang == "cy" %}
+      Mae'r llyfrgell hon yn cael ei datblygu — gall drafftiau gynnwys gwallau. Wedi gweld rhywbeth o'i le? <a href="mailto:gwilmor@gmail.com?subject=Celtic%20Source%20Library%20%E2%80%94%20adroddiad%20gwall">Dywedwch wrthym</a>.
+    {% else %}
+      This library is in active development — drafts may contain errors. Spot something wrong? <a href="mailto:gwilmor@gmail.com?subject=Celtic%20Source%20Library%20%E2%80%94%20error%20report">Tell us</a>.
+    {% endif %}
+  </div>
   {% include "partials/header.njk" %}
   <div class="site-wrapper">
     {% include "partials/breadcrumbs.njk" %}

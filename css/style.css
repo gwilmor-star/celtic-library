@@ -226,3 +226,25 @@ main {
 
   h1 { font-size: 1.75rem; }
 }
+
+/* Draft-mode banner */
+
+.draft-banner {
+  background-color: #f7e9c8;
+  color: #4a3a18;
+  border-bottom: 1px solid #e6d5a8;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.draft-banner a {
+  color: #4a3a18;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.draft-banner a:hover {
+  color: #2a4a36;
+}
