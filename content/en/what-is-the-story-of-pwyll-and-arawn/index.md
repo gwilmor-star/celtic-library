@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the story of Pwyll and Arawn?"
-language: "en"
 slug: "what-is-the-story-of-pwyll-and-arawn"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
