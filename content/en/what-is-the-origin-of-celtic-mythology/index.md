@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is the origin of Celtic mythology?"
-language: "en"
 slug: "what-is-the-origin-of-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
