@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who were the major gods and goddesses in Celtic mythology?"
-language: "en"
 slug: "who-were-the-major-gods-and-goddesses-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
