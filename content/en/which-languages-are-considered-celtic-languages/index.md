@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Which languages are considered Celtic languages?"
-language: "en"
 slug: "which-languages-are-considered-celtic-languages"
 cluster: "peoples-languages-geography"
 type: "entity-page"
