@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Samhain mean?"
-language: "en"
 slug: "what-does-samhain-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
