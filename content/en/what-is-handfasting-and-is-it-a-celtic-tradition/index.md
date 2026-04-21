@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What is handfasting and is it a Celtic tradition?"
-language: "en"
 slug: "what-is-handfasting-and-is-it-a-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
