@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Is Celtic mythology still practiced today?"
-language: "en"
 slug: "is-celtic-mythology-still-practiced-today"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
