@@ -10,14 +10,14 @@ dateModified: "2026-04-21"
 status: "draft"
 ---
 
-Yes, people still worship [Celtic gods](/en/who-were-the-major-gods-and-goddesses-in-celtic-mythology/) today, primarily through contemporary neo-pagan and reconstructionist religious movements that actively revere traditional Celtic deities alongside modern adaptations of ancient practices.
+Yes, people still worship Celtic gods today, primarily through contemporary neo-pagan and reconstructionist religious movements that actively revere traditional Celtic deities alongside modern adaptations of ancient practices.
 
 ## Key Facts
 - Celtic Reconstructionism emphasizes historical accuracy in reviving Celtic traditions and actively worships traditional Celtic deities
-- Modern Druidry movements incorporate [Celtic mythology](/en/what-is-celtic-mythology/) and deities into their spiritual practices, sitting on the eclectic end of the contemporary Pagan spectrum  
-- Neo-pagan communities practice forms of Celtic deity worship, with [Brigid](/en/who-is-brigid-in-celtic-mythology/) being particularly honored as a Celtic Fire Goddess of healing, inspiration and craft
+- Modern Druidry movements incorporate Celtic mythology and deities into their spiritual practices, sitting on the eclectic end of the contemporary Pagan spectrum  
+- Neo-pagan communities practice forms of Celtic deity worship, with Brigid being particularly honored as a Celtic Fire Goddess of healing, inspiration and craft
 - Ancient Celtic worship involved veneration of natural objects such as trees, waters, and stones, with evidence suggesting the Celts worshipped sun and natural phenomena
-- The [Tuatha De Danann](/en/who-were-the-tuatha-de-danann-in-celtic-mythology/), ancient Irish earth gods, were worshipped through offerings and sacrifices, particularly during festivals like Samain
+- The Tuatha De Danann, ancient Irish earth gods, were worshipped through offerings and sacrifices, particularly during festivals like Samain
 
 ## Q&A Sections
 
@@ -28,10 +28,10 @@ Celtic Reconstructionism (CR) represents one primary approach, emphasizing histo
 Modern practitioners reportedly draw upon archaeological evidence and ancient written sources to reconstruct Celtic religious systems, though the sources do not confirm specific methodologies (sources limited). Ancient Celtic worship involved veneration of natural objects such as trees, waters, and the sun, with the Celts believing in earth gods called the Tuatha De Danann who inhabited mounds and emerged to interact with mortals. Contemporary practitioners often incorporate seasonal festivals and nature-based rituals that echo these ancient practices, maintaining the Celtic tradition of seeing the divine in natural phenomena.
 
 ### What role did the Tuatha De Danann play in ancient Celtic worship?
-The Tuatha De Danann, meaning "Tribes of the Goddess Anu, or [Danu](/en/who-is-danu-in-celtic-mythology/)," were considered the earth gods of ancient Ireland. They were believed to inhabit natural or artificial mounds and beneath lakes and springs, possessing youth, beauty, and immortality. These deities received offerings and sacrifices during important festivals, particularly Samain, the great Celtic feast of the dead when various sacrifices were made to ancestral spirits and the Tuatha De Danann. Even after Christianization, belief in their existence persisted among the Irish, who continued to see them as real supernatural beings.
+The Tuatha De Danann, meaning "Tribes of the Goddess Anu, or Danu," were considered the earth gods of ancient Ireland. They were believed to inhabit natural or artificial mounds and beneath lakes and springs, possessing youth, beauty, and immortality. These deities received offerings and sacrifices during important festivals, particularly Samain, the great Celtic feast of the dead when various sacrifices were made to ancestral spirits and the Tuatha De Danann. Even after Christianization, belief in their existence persisted among the Irish, who continued to see them as real supernatural beings.
 
 ### How did ancient Celtic worship connect to natural elements?
-Ancient Celtic worship was deeply connected to natural elements, with evidence showing the Celts venerated rivers, seas, lakes, fountains, and particularly sacred trees. The [Druids](/en/what-roles-did-druids-filid-and-bards-have-in-ancient-celtic/) held oak trees and mistletoe in great religious veneration, often conducting sacred rites in oak groves. Sacred waters were also central to Celtic worship, with the Celts having a deity called Divona, or the river god, and making sacrificial offerings to fountains. This nature-based worship extended to stone monuments, with evidence suggesting ancient Celtic practitioners believed gods and spirits could inhabit stone images and sacred sites.
+Ancient Celtic worship was deeply connected to natural elements, with evidence showing the Celts venerated rivers, seas, lakes, fountains, and particularly sacred trees. The Druids held oak trees and mistletoe in great religious veneration, often conducting sacred rites in oak groves. Sacred waters were also central to Celtic worship, with the Celts having a deity called Divona, or the river god, and making sacrificial offerings to fountains. This nature-based worship extended to stone monuments, with evidence suggesting ancient Celtic practitioners believed gods and spirits could inhabit stone images and sacred sites.
 
 ## In-Depth Overview
 
@@ -42,7 +42,7 @@ Celtic Reconstructionism represents the most historically-focused approach to mo
 Modern Druidry sits on the eclectic end of the contemporary Pagan spectrum, incorporating Celtic mythology and deities into broader nature-based spiritual practices. Unlike Celtic Reconstructionism, modern Druidry often blends traditional Celtic elements with New Age movements and neo-shamanic practices. Contemporary Druid groups have been characterized as neo-tribes with elective membership, creating communities that honor Celtic deities while adapting ancient practices for modern spiritual needs. These groups often focus on seasonal festivals, nature worship, and the veneration of Celtic gods and goddesses within contemporary ritual frameworks.
 
 ### Neo-Pagan Celtic Worship
-Broader neo-pagan communities incorporate Celtic mythological figures into their worship practices, with particular attention to goddesses like Brigid. Brigid, honored as a Celtic Fire Goddess of healing, inspiration and craft, exemplifies how ancient Celtic deities maintain relevance in contemporary spiritual practice. Her worship demonstrates the continuity between ancient and modern Celtic religious expression, as she was adopted into [Christianity](/en/how-did-celtic-mythology-change-after-the-arrival-of-christi/) as Saint Brigid but continues to be venerated in her original form by neo-pagans. Modern practitioners often celebrate [Celtic seasonal festivals](/en/what-are-the-celtic-seasonal-festivals-samhain-imbolc-beltan/), maintaining ancient customs while adapting them to contemporary contexts (sources limited).
+Broader neo-pagan communities incorporate Celtic mythological figures into their worship practices, with particular attention to goddesses like Brigid. Brigid, honored as a Celtic Fire Goddess of healing, inspiration and craft, exemplifies how ancient Celtic deities maintain relevance in contemporary spiritual practice. Her worship demonstrates the continuity between ancient and modern Celtic religious expression, as she was adopted into Christianity as Saint Brigid but continues to be venerated in her original form by neo-pagans. Modern practitioners often celebrate Celtic seasonal festivals, maintaining ancient customs while adapting them to contemporary contexts (sources limited).
 
 ### Ancient Foundations of Celtic Worship
 Understanding contemporary Celtic god worship requires examining its ancient foundations, where the Celts worshipped the sun and natural objects such as trees and waters. Archaeological evidence suggests the ancient Celts maintained sophisticated religious systems centered on natural phenomena and divine beings inhabiting the landscape. The Tuatha De Danann, described as the earth gods of ancient Ireland, were believed to dwell within natural or artificial mounds and beneath lakes and springs, possessing supernatural attributes including youth, beauty, and immortality. These beings served as intermediaries between the mortal and divine realms, occasionally emerging to interact with humans through marriage, abduction, or participation in tribal conflicts.
@@ -89,7 +89,7 @@ Even after Christianization, belief in Celtic deities persisted among Celtic pop
 ## Sources & Further Reading
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [2] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [3] MacLeod, Sharon Paice, *[Celtic Myth](/en/what-is-a-celtic-myth/) and Religion* (McFarland 2012).
+- [3] MacLeod, Sharon Paice, *Celtic Myth and Religion* (McFarland 2012).
 - [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
 - [5] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).
 - [6] Celtic Reconstructionism - Wikipedia, https://en.wikipedia.org/wiki/Celtic_neopaganism
