@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "What does Imbolc mean?"
-language: "en"
 slug: "what-does-imbolc-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
