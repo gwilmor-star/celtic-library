@@ -1,6 +1,7 @@
 ---
+layout: layouts/page.njk
+lang: en
 title: "Who was Deirdre of the Sorrows and what happened to her?"
-language: "en"
 slug: "who-was-deirdre-of-the-sorrows-and-what-happened-to-her"
 cluster: "deities-major-figures"
 type: "entity-page"
