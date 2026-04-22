@@ -5,96 +5,105 @@ title: "Who is the goddess Rhiannon?"
 slug: "who-is-the-goddess-rhiannon"
 cluster: "deities-major-figures"
 type: "entity-page"
-datePublished: "2026-04-21"
-dateModified: "2026-04-21"
+datePublished: "2026-04-22"
+dateModified: "2026-04-22"
 status: "draft"
 ---
 
-Rhiannon is a goddess figure in Welsh mythology, appearing prominently in the First and Third Branches of the Mabinogion as a supernatural woman associated with horses, the Otherworld, and sovereignty.
+Rhiannon is a central figure in the Welsh Mabinogi, daughter of Hefaidd Hen, whose name derives from the Old Celtic *Rīgantona meaning "divine queen". She appears prominently in the First and Third Branches as a mysterious horsewoman with magical qualities, closely associated with horses and otherworldly powers.
 
 ## Key Facts
 
-- Her name derives from the Celtic goddess Rigantona, meaning "the Great, or Divine, Queen".
-- She possesses magical qualities and is closely associated with horses, leading scholars to connect her with the Celtic horse-goddess Epona.
-- Rhiannon appears as a central character in the medieval Welsh tales of the Mabinogion, specifically in the stories of Pwyll and later as the wife of Manawydan.
-- Her magical birds can wake the dead and send the living to sleep.
-- She endures the punishment of the Calumniated Wife theme, forced to act like a horse after being falsely accused of destroying her son.
+- Rhiannon's name derives from Old Celtic *Rīgantona meaning "divine queen," linking her to pre-Christian Celtic goddess traditions.
+- She appears as a supernatural horsewoman in the First Branch of the Mabinogi who can only be caught when she chooses to be overtaken.
+- After her son's mysterious disappearance, she is falsely accused of infanticide and forced to carry people on her back like a horse as penance.
+- She possesses magical birds that can wake the dead and send the living to sleep, which sing during the feast at Harlech in the Second Branch.
+- In the Third Branch, the widowed Rhiannon marries Manawydan and disappears into a mysterious stronghold during the enchantment of Dyfed.
 
 ## Q&A Sections
 
-### What is the origin and meaning of Rhiannon's name?
-Rhiannon's name derives from that of the Celtic goddess Rigantona, which means "the Great, or Divine, Queen". This etymology reveals her divine status and sovereignty associations in Celtic tradition. The linguistic connection demonstrates how the medieval Welsh character preserves elements of an earlier Celtic deity, transformed through oral tradition into the literary figure found in the Mabinogion.
+### What is the meaning and origin of Rhiannon's name?
+Rhiannon's name indisputably derives from Old Celtic *Rīgantona, meaning "divine queen". This etymology connects her to pre-Christian Celtic mythology and suggests her original status as a goddess figure. The name is cognate with the Irish war-goddess tradition, indicating her importance in the broader Celtic pantheon. Modern popularity of the name from the mid-19th century onwards was reportedly kindled by Charlotte Guest's work, though the provided sources do not confirm the full details of this influence.
 
-### How is Rhiannon connected to horses in Celtic tradition?
-Rhiannon is strongly associated with horses throughout her mythological appearances, leading scholars to connect her with the Celtic horse-goddess Epona. She appears riding a magical horse that reportedly cannot be caught despite appearing to move slowly, though the sources do not confirm the specific details of this supernatural pursuit (sources limited). Later she endures punishment that forces her to act like a horse, carrying people on her back to court. Her son Pryderi also shares this equine connection, and together they are sometimes depicted as mare and foal.
+### How does Rhiannon first appear in the Mabinogi?
+In the First Branch, Rhiannon appears as a mysterious, unsurpassable horsewoman who rides past Pwyll of Dyfed repeatedly. Despite his best efforts and those of his swiftest riders, no one can catch her until she chooses to stop and speak with Pwyll directly. When finally overtaken by Pwyll himself, she announces her love for him, revealing that she had been seeking him out. This supernatural aspect of her appearance - being uncatchable until she wills it - establishes her otherworldly nature from the beginning.
 
-### What role does Rhiannon play in the Mabinogion tales?
-Rhiannon appears as a central character in both the First and Third Branches of the Mabinogion. In the First Branch, she meets and marries Pwyll, Prince of Dyfed, after appearing as a mysterious woman on horseback. Later, she marries Manawydan son of Llŷr, with the narrative describing how "his head and heart grew tender towards her, and he was delighted that he had never seen a woman who was fairer or more beautiful than her".
+### What role do Rhiannon's birds play in Welsh mythology?
+Rhiannon's birds are described as having remarkable magical properties - they can wake the dead and send the living to sleep. In the Second Branch, Brân foretells that these "birds of Rhiannon" will sing above the seven survivors of the calamitous expedition to Ireland as they feast in strange oblivion for seven years at Harlech. The birds appear again in "How Culhwch Won Olwen," where their supernatural powers are specifically described. These magical birds represent one of Rhiannon's most distinctive otherworldly attributes.
 
-### What magical abilities does Rhiannon possess?
-Rhiannon possesses several supernatural abilities that mark her as an otherworldly figure. Most notably, she owns magical birds that "wake the dead and send the living to sleep". These birds sing during the feast at Harlech in the Second Branch of the Mabinogion. Her otherworldly nature is also evident in her initial appearance, riding a horse that moves with supernatural properties that cannot be overtaken despite appearing slow.
+### What happens to Rhiannon in the Third Branch?
+In the Third Branch, the widowed Rhiannon, now centenarian but still attractive, is given in marriage by her son Pryderi to Manawydan. She becomes one of only four people to escape the mysterious "enchantment of Dyfed," where all crops, animals, dwellings, and inhabitants disappear after an uncanny fog. When Pryderi vanishes into a mysterious stronghold while hunting, Rhiannon rebukes Manawydan for his reluctance to follow, then enters the stronghold herself and promptly disappears. She is eventually restored along with everything else when the enchantment is broken.
 
-### How does the Calumniated Wife theme appear in Rhiannon's story?
-Rhiannon's story incorporates the widespread folklore motif of the Calumniated Wife, where she is falsely accused after her son disappears on the night of his birth. Six women attending her conspire against her, smearing her with puppy blood and claiming "she herself destroyed her son". As punishment, "Rhiannon is forced to act like a horse and carry people on her back to court". Despite her pleas of innocence, declaring "God, who knows everything, knows that to be a lie," she endures this unjust punishment.
+### How is Rhiannon connected to horses in Celtic mythology?
+Rhiannon's association with horses is fundamental to her character and mythology. She first appears as an otherworldly horsewoman who cannot be caught, and after being falsely accused of infanticide, she is compelled to carry people on her back like a horse as penance. Scholars associate her with the Celtic horse-goddess Epona due to these equine connections. This horse symbolism runs throughout her story - from her supernatural riding abilities to her punishment that literally transforms her into a beast of burden, suggesting deep mythological connections to Celtic horse deities.
 
 ## In-Depth Overview
 
-### Celtic Divine Origins
-The character of Rhiannon represents a literary transformation of the Celtic goddess Rigantona, whose name means "the Great, or Divine, Queen". This etymology reveals her original status as a sovereignty goddess in Celtic tradition, a role that persists in her medieval appearances (sources limited). The connection to earlier Celtic deities demonstrates how the Mabinogion preserves mythological material that has been adapted into narrative literature while retaining essential divine characteristics.
+### Mythological Origins and Celtic Context
 
-### Connection to Epona and Horse Symbolism
-Scholars widely accept Rhiannon's connection to Epona, the Gaulish horse goddess, based on their shared equine associations. Both goddesses are depicted in calm, stoic poses while seated on horses, and both embody the sacred relationship between divine femininity and equine power. The horse symbolism extends beyond mere association to fundamental aspects of sovereignty and fertility in Celtic religious thought. Archaeological evidence from sites like Navan and Tara reveals horse burials linked to sovereignty rituals, supporting the connection between equine deities and kingship.
+Rhiannon represents one of the clearest examples in the Mabinogi of a figure whose antecedents in pre-Christian Celtic mythology can be traced. Her name's etymology from Old Celtic *Rīgantona, meaning "divine queen," provides direct evidence of her origins as a goddess figure in the Celtic pantheon. This linguistic connection places her alongside other major Celtic deities and suggests she once held significant religious importance before being incorporated into medieval Welsh storytelling tradition.
 
-### Otherworld Connections
-Rhiannon's supernatural nature manifests through her connections to the Celtic Otherworld, evident in multiple aspects of her story. Her initial appearance reportedly involves riding a magical horse that moves with otherworldly properties, though the provided sources do not confirm the details (sources limited). Her magical birds serve as another marker of otherworld power, possessing the ability to "wake the dead and send the living to sleep". These birds sing during the feast at Harlech, creating an otherworldly atmosphere that bridges the mortal and divine realms.
+The scholarly consensus recognizes Rhiannon's special importance for Celtic studies precisely because her mythological background remains relatively transparent despite the christianization and literary adaptation of the source material. Unlike some figures in the Mabinogi whose divine origins are more obscured, Rhiannon retains clear supernatural attributes that point directly to her goddess heritage.
 
-### Literary Transformation and Narrative Function
-Within the Mabinogion, Rhiannon functions as more than a mythological figure, serving as "a leading Mabinogi protagonist" who carries forward ancient traditions into medieval literary form. Her character demonstrates how oral traditions were transformed through manuscript culture into the sophisticated prose narratives of the Four Branches. The tales preserve mythological themes including "journeys to an otherworld paradise where time stands still and mortals do not age" while integrating well-known storytelling motifs.
+### Narrative Role in the Four Branches
 
-### The Calumniated Wife Motif
-Rhiannon's suffering represents a classic example of the Calumniated Wife theme found throughout world folklore. When her son disappears on the night of his birth, six attending women conspire against her, killing puppies and smearing her with blood to frame her for infanticide. The false accusation leads to her punishment: "Rhiannon is forced to act like a horse and carry people on her back to court". This punishment ironically connects to her divine equine nature, transforming her sacred horse association into a humiliating penance.
+Rhiannon serves as a unifying character across multiple branches of the Mabinogi, appearing prominently in the First and Third Branches while being referenced in the Second. This recurring presence makes her one of the most significant figures in the entire cycle, alongside her son Pryderi, with whom she shares the distinction of connecting the various tales.
 
-### Magical Properties and Divine Powers
-Beyond her birds and equine connections, Rhiannon displays other supernatural qualities that mark her otherworldly status. Her initial appearance reportedly demonstrates divine control over perception and pursuit, though the sources do not confirm the specific details (sources limited). Her conversations reveal wisdom and eloquence that impress mortal characters, with Pryderi noting that "you have never heard a woman converse better than Rhiannon". These qualities reflect the traditional Celtic concept of divine sovereignty embodied in feminine form.
+In the First Branch, her story begins with supernatural courtship - she appears as an otherworldly rider whom no mortal can catch until she chooses to be caught. This establishes the pattern of agency and power that characterizes her throughout the tales. Even when disaster strikes at her wedding feast, with Pwyll foolishly granting a request before knowing what is asked, Rhiannon takes charge of the situation, rebuking Pwyll and providing detailed instructions for overcoming the rival suitor Gwawl fab Clud.
 
-### Marriage and Sovereignty Themes
-Rhiannon's marriages to both Pwyll and later Manawydan carry implications of sovereignty transfer and divine sanction. Her union with Pwyll establishes her connection to Dyfed's rulership, while her later marriage to Manawydan, described as creating firm friendship and alliance, suggests continued royal legitimacy. The text emphasizes her beauty and desirability, noting that "there was no woman more beautiful" even past her prime, indicating the lasting power of divine feminine sovereignty.
+### The False Accusation and Horse Symbolism
+
+The episode of Rhiannon's false accusation represents one of the most psychologically complex elements in the Mabinogi. When their son mysteriously disappears on the night of his birth, Rhiannon's six attendant women fear blame and conspire against her. They kill puppies, smear blood on Rhiannon's face and hands, scatter bones beside her, and claim she devoured her own child.
+
+Rhiannon's punishment - being compelled to carry people on her back like a horse - creates a profound symbolic connection between her character and equine imagery. This penalty transforms the divine queen into a beast of burden, representing perhaps the degradation of goddess figures under Christian influence. However, the text notes that this punishment rarely occurred, suggesting even in her diminished state, people recognized something special about her.
+
+### Marriage to Manawydan and the Enchantment
+
+The Third Branch presents Rhiannon in a different life phase, as a widow who marries Manawydan. This union between two supernatural figures - Rhiannon the former goddess and Manawydan of the sea - creates one of the most intriguing partnerships in Celtic literature. Their conversation reveals Rhiannon's continued wisdom and attractiveness even in advanced age.
+
+The enchantment of Dyfed episode demonstrates Rhiannon's continued supernatural nature. When the mysterious fog lifts and everything disappears except four people, Rhiannon is among those who escape, suggesting her otherworldly status protects her. Her decision to follow Pryderi into the mysterious stronghold, despite Manawydan's reluctance, shows her characteristic courage and determination.
+
+### Literary Influence and Modern Reception
+
+Despite Rhiannon's centrality in the Mabinogi, references to her by name are remarkably rare elsewhere in medieval Welsh literature. This suggests that her character was specifically developed for or within the Mabinogi tradition rather than being widely known across Welsh literary culture.
+
+The modern popularity of the name Rhiannon reportedly stems largely from Charlotte Guest's influential Mabinogion translation published in the mid-19th century, though the provided sources do not confirm the details of this broader cultural influence.
 
 ## Primary Sources
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> best friendship I can give shall be yours, if you want it.' 'I do, friend,' he said. 'May God repay you. And I shall go with you to visit Rhiannon and the realm.' 'You are doing the right thing,' he said. 'I am sure that you have never heard a woman converse better than Rhiannon. When she was in her prime, there was no woman more beautiful, and even now you will not be disappointed with her looks.'
+***The Mabinogion (First Branch)*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> Rhiannon daughter of Hyfaidd Hen: her name derives from that of the Celtic goddess Rigantona ('the Great, or Divine, Queen'). Rhiannon possesses magical qualities, and is closely associated with horses, leading scholars to associate her with the Celtic horse-goddess Epona. In the Second Branch the magical birds of Rhiannon sing during the feast at Harlech, while in 'How Culhwch Won Olwen', they are described as birds who wake the dead and send the living to sleep.
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> Rhiannon, daughter of Hyfaidd Hen: her name derives from that of the Celtic goddess Rigantona ('the Great, or Divine, Queen'). Rhiannon possesses magical qualities, and is closely associated with horses, leading scholars to associate her with the Celtic horse-goddess Epona
+***The Mabinogion (First Branch)*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> 'There is a stag-hound bitch here,' she said, 'and she has pups. Let us kill some of the pups, and smear Rhiannon's face and hands with the blood, and throw the bones beside her, and swear that she herself destroyed her son.' And the word of the six of us will prove stronger than hers.' They agreed on that. Towards daybreak Rhiannon woke up and said, 'My women,' she said, 'where is the boy?' 'Lady,' they said, 'do not ask us for the boy. [...] You yourself have destroyed your son, and do not ask us for him.'
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> they said. 'There is a stag-hound bitch here,' she said, 'and she has pups. Let us kill some of the pups, and smear Rhiannon's face and hands with the blood, and throw the bones beside her, and swear that she herself destroyed her son.'
+***The Mabinogion (First Branch)*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> 'You poor creatures,' said Rhiannon, 'for the sake of the Lord God who knows everything, do not tell lies about me. God, who knows everything, knows that to be a lie. And if you are afraid, by my confession to God, I will protect you.' 'God knows,' they said, 'we will not let ourselves come to any harm for anyone in the world.' 'You poor creatures,' she replied, 'you shall come to no harm if you tell the truth.'
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> 'You poor creatures,' said Rhiannon, 'for the sake of the Lord God who knows everything, do not tell lies about me. God, who knows everything, knows that to be a lie. And if you are afraid, by my confession to God, I will protect you.'
+***The Mabinogion (Third Branch)*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> 'I am sure that you have never heard a woman converse better than Rhiannon. When she was in her prime, there was no woman more beautiful, and even now you will not be disappointed with her looks.' [...] Then Manawydan and Rhiannon sat together and began to converse; and as a result of that conversation his head and heart grew tender towards her, and he was delighted that he had never seen a woman who was fairer or more beautiful than her.
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> Both Rhiannon's and Branwen's penances are variations on the theme of the Calumniated Wife: when her son disappears on the night of his birth, Rhiannon is forced to act like a horse and carry people on her back to court
+***The Mabinogion (Third Branch)*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> 'Pryderi,' he said, 'I will agree to your proposal.' 'What was that?' said Rhiannon. 'My lady,' said Pryderi, 'I have given you as a wife to Manawydan son of Llyˆr.' 'I will agree to that gladly,' said Rhiannon. 'I am glad, too,' said Manawydan, 'and may God repay the man who gives me such ﬁrm friendship.'
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> In the Second Branch the magical birds of Rhiannon sing during the feast at Harlech, while in 'How Culhwch Won Olwen', they are described as birds who wake the dead and send the living to sleep
+***The Mabinogion*** *(c. 11th century)*
+*transl. in: Davies, Sioned (2007). OUP World's Classics*
+> Both Rhiannon's and Branwen's penances are variations on the theme of the Calumniated Wife: when her son disappears on the night of his birth, Rhiannon is forced to act like a horse and carry people on her back to court, while Branwen is made to suﬀer for her half-brother Efnysien's insult to the king of Ireland.
 
-***The Mabinogion*** *(c. 11th century)*  
-*transl. in: Davies, Sioned, The Mabinogion (Oxford University Press 2007)*
-> Then Manawydan and Rhiannon sat together and began to converse; and as a result of that conversation his head and heart grew tender towards her, and he was delighted that he had never seen a woman who was fairer or more beautiful than her
+***Trioedd Ynys Prydein*** *(c. 13th century)*
+*transl. in: Bromwich, Rachel (2006). University of Wales Press*
+> In the case of Pryderi, Thomson points out in his n. on the passage that Rhiannon's words are a pun upon the double meaning of escor, which is 'relief' both in the simple sense of 'a removal, a casting off', and also in the special sense of 'a bringing forth, a giving birth'. Thus the words mean both 'It would be a relief from my anxiety' and 'It would be a giving birth to my (son) Pryderi'.
 
 ## Sources & Further Reading
 
-- [1] Davies, Sioned, transl., *The Mabinogion* (Oxford University Press 2007).
-- [2] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
-- [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [4] MacKillop, James, *A Dictionary of Celtic Mythology* (Oxford University Press 2004).
-- [5] Aldhouse-Green, Miranda, *The Celtic Myths: A Guide to the Ancient Gods and Legends* (Thames & Hudson 2015).
-- [6] Gruffydd, W.J., *Rhiannon: An Inquiry into the Origin of the First and Third Branches of the Mabinogi* (University of Wales Press 1953).
+- [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
+- [2] Davies, Sioned, transl., *The Mabinogion* (Oxford University Press 2007).
+- [3] Guest, Charlotte, transl., *The Mabinogion* (Quaritch 1877).
+- [4] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
+- [5] Davies, Sioned and Nerys Ann Jones, eds., *The Horse in Celtic Culture: Medieval Welsh Perspectives* (Cardiff 1997).
+- [6] Gruffydd, W.J., *Rhiannon: An Inquiry into the Origin of the First and Third Branches of the Mabinogi* (Cardiff: University of Wales Press 1953).

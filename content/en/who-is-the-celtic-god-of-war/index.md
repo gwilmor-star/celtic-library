@@ -5,112 +5,99 @@ title: "Who is the Celtic god of war?"
 slug: "who-is-the-celtic-god-of-war"
 cluster: "deities-major-figures"
 type: "entity-page"
-datePublished: "2026-04-21"
-dateModified: "2026-04-21"
+datePublished: "2026-04-22"
+dateModified: "2026-04-22"
 status: "draft"
 ---
 
-Celtic mythology features multiple deities associated with warfare, with the most prominent being the Mórrígan, the Irish war goddess who appears prominently in battle narratives and prophecy. Rather than a single "Celtic god of war," the tradition encompasses various regional war deities including both male and female figures who governed different aspects of conflict and martial prowess.
+There is no single Celtic god of war, as Celtic cultures across different regions and time periods reportedly worshipped multiple deities associated with warfare, battle, and conflict. These included the Irish Morrígu (war-goddess), various tribal war gods, and deified warriors who took on god-like attributes in later tradition.
 
 ## Key Facts
 
-- The Mórrígan (also called Morrigu) served as the primary Irish war goddess, described as "daughter of Ernmas" who proclaimed victories and appeared on battlefields.
-- War deities in Celtic tradition often appeared in bird form, particularly as royston-crows, maintaining their influence through shapeshifting abilities.
-- Celtic war mythology centered around divine conflicts like the War of the Gods between the Túatha Dé Danann and the Fomorians.
-- War goddesses actively participated in mortal conflicts, with the Sidhe taking sides in battles and directing combat outcomes.
-- Celtic warriors invoked supernatural battle-fury, with heroes like Cú Chulainn undergoing physical transformation in combat.
+- The Morrígu, daughter of Ernmas, was the primary Irish war-goddess who proclaimed victories and guided battles among the Tuath Dé Danann.
+- Celtic war deities often appeared in bird form, particularly as ravens or crows, symbols still present in modern Celtic folklore.
+- Ancient Celtic warriors practiced ritual decapitation of enemies and preserved distinguished heads as trophies, suggesting the sacred nature of warfare.
+- War goddesses like the Badb appeared at battlefields as prophetic figures, sometimes standing on one foot with one eye closed in bird-like posture.
+- Celtic mythology features numerous divine battles, including the Second Battle of Maige Tuired where gods fought without human participation.
 
 ## Q&A Sections
 
-### Who was the Mórrígan and what role did she play in Celtic warfare?
+### Who was the Morrígu in Celtic warfare?
 
-The Mórrígan stands as the most prominent war deity in Irish Celtic tradition. Described as "daughter of Ernmas," she served as "the Irish war-goddess" who "proceeded to proclaim that battle and the mighty victory which had taken place, to the royal heights of Ireland and to its fairy host and its chief waters and its river-mouths". She belonged to the Tuatha De Danann and manifested as both prophecy-giver and active participant in divine warfare. The text notes that this war-goddess "has survived to our own day in the fairy-lore of the chief Celtic countries".
+The Morrígu was the daughter of Ernmas and served as the Irish war-goddess among the Tuath Dé Danann. After the Second Battle of Maige Tuired, she "proceeded to proclaim that battle and the mighty victory which had taken place, to the royal heights of Ireland and to its fairy host and its chief waters and its river-mouths". She represented the divine aspect of warfare and served as a messenger of victory, ensuring that news of battles reached all corners of the sacred landscape.
 
-### How did Celtic war deities manifest in battle?
+### How did Celtic war deities appear to mortals?
 
-Celtic war goddesses appeared "in the form of birds" and served as "war-goddesses and directors of battle". The survival of this tradition appears in the belief that "the fairies often exercise their magical powers under the form of royston-crows; and for this reason these birds are always greatly dreaded and avoided". The Sidhe-folk were believed to "take sides even now in a great war, like that between Japan and Russia," demonstrating their continued involvement in mortal conflicts.
+Celtic war goddesses frequently manifested in bird form, particularly as ravens, crows, or other corvids. The Badb, another name for the war-goddess, "appears as a weird woman uttering prophecies" and was described as "standing on one foot, and with one eye closed (apparently in a bird's posture)". This bird-form tradition has survived into modern times, where "the fairies often exercise their magical powers under the form of royston-crows" and these birds "are always greatly dreaded and avoided".
 
-### What was the War of the Gods in Celtic mythology?
+### What role did warfare play in Celtic divine mythology?
 
-The War of the Gods represented a fundamental mythic conflict in Celtic tradition, specifically "the battle of Moytirra was fought between the Túatha Dé Danann and the Fomoiri". This ancient myth demonstrated divine warfare where "the Tuatha De Danann with their war-goddess fighting their own battles in which human beings play no part". The conflict established cosmic order, determining "that all Ireland should for ever afterwards be a sacred country ruled over by the People of the Goddess Dana and the Sons of Mil jointly".
+Celtic mythology depicts extensive conflicts among the gods themselves, separate from human battles. The Tuath Dé Danann fought their own wars "in which human beings play no part". These divine conflicts, such as the battles of Maige Tuired, reportedly established the cosmic order and determined which supernatural beings would rule over Ireland. The mythology also features divine battles that served as models for human warriors to emulate.
 
-### How did Celtic heroes channel divine war power?
+### How did Celtic warriors honor their war deities?
 
-Celtic heroes underwent supernatural transformation in battle, exemplified by Cú Chulainn's war-fury. The texts describe how "a great distortion came upon Cú Chulainn so that he became horrible, many-shaped, strange and unrecognizable". Warriors donned elaborate battle-gear including "crested war-helmet of battle and strife and conflict" from which "was uttered the shout of a hundred warriors" while "goblins and sprites, spirits of the glen and demons of the air" cried around them "prophesying the shedding of the blood of warriors and champions".
-
-### What evidence exists for regional variations in Celtic war deities?
-
-The sources indicate diverse regional traditions (sources limited). References appear to various warrior figures across Celtic lands, including mentions of battles involving different tribal groups and their associated war-leaders. The material suggests "a war among the 'men of the Elfmounds'" and conflicts between different groups of the Tuatha De Danann, indicating multiple centers of martial divine activity.
+Ancient Celtic warriors practiced elaborate battlefield rituals that honored their war gods. They "decapitate their slain enemies and attach the heads to their horses' necks" and "preserve the heads of their most distinguished enemies in cedar oil and store them carefully in chests". These preserved heads were displayed to visitors as proof of valor, with some warriors refusing offers of gold equal to the head's weight. Such practices suggest warfare was seen as a sacred activity overseen by divine powers.
 
 ## In-Depth Overview
 
-### The Mórrígan as Supreme War Goddess
+### The Morrígu and Irish War Deities
 
-The Mórrígan emerges as the dominant war deity in Irish Celtic tradition, functioning as both battle-director and prophetic voice. She appears as "daughter of Ernmas (the Irish war-goddess)" who actively participated in the cosmic conflicts that shaped Ireland's mythic landscape. Her role extended beyond mere combat to encompass the proclamation of victory, as she "proceeded to proclaim that battle and the mighty victory which had taken place, to the royal heights of Ireland and to its fairy host and its chief waters and its river-mouths". This proclamatory function established her as both witness and herald of divine warfare outcomes.
+The most prominent Celtic war deity was the Morrígu, whose name connects to battle-fury and prophetic powers. As daughter of Ernmas, she held a central position among the Tuath Dé Danann and served as their primary war-goddess. Her role extended beyond simple combat to encompass the proclamation of victories and the communication between divine and earthly realms during times of conflict.
 
-The survival of her cult appears in folk belief, where "this Irish war-goddess, the bodb or badb, considered of old to be one of the Tuatha De Danann, has survived to our own day in the fairy-lore of the chief Celtic countries". The transformation of ancient war-goddess into fairy tradition demonstrates the continuity of Celtic mythological concepts across centuries of cultural change.
+The Morrígu's association with corvids reflects a broader Celtic tradition linking war deities to birds of prey. This connection persisted through centuries, with modern Celtic folklore maintaining that "fairies often exercise their magical powers under the form of royston-crows". The survival of this belief demonstrates the enduring power of ancient war-goddess imagery in Celtic consciousness.
 
-### Divine Shapeshifting and Battle Manifestation
+### Divine Warfare in Celtic Mythology
 
-Celtic war deities possessed distinctive shapeshifting abilities, particularly the power to assume bird form. The sources indicate that "certain of the Tuatha De Danann appear as war-goddesses and directors of battle" specifically "in the form of birds". This avian transformation connected directly to ongoing folk beliefs, as evidenced by the conviction that "the fairies often exercise their magical powers under the form of royston-crows; and for this reason these birds are always greatly dreaded and avoided".
+Celtic mythology presents warfare as a cosmic principle operating on divine levels. The Second Battle of Maige Tuired exemplifies this concept, featuring conflicts among the Tuath Dé Danann where "human beings play no part". These divine wars reportedly established the supernatural hierarchy ruling Ireland and demonstrated that conflict was an essential force in maintaining cosmic order.
 
-The battlefield presence of these transformed deities remained active in popular consciousness, with reports that modern "Sidhe-folk take sides even now in a great war, like that between Japan and Russia". This contemporary relevance suggests that Celtic war-goddess traditions adapted to modern conflicts while maintaining their fundamental characteristics of divine intervention in mortal warfare.
+The tradition of exemplary myth suggests that divine battles served as templates for human warfare. As noted in scholarly analysis, Celtic society regarded divine conflicts as examples "which must be imitated by them, or of whose example the deeds of other men must be regarded as a reflexion". This connection between divine and human warfare elevated ordinary conflicts to sacred significance.
 
-### The Mythic War of the Gods
+### Battlefield Manifestations and Prophecy
 
-Celtic war mythology centered on primordial divine conflicts that established cosmic order. The most significant of these battles involved "the War of the Gods," specifically documented as the conflict where "the battle of Moytirra was fought between the Túatha Dé Danann and the Fomoiri". This mythic framework provided the template for understanding all subsequent warfare as reflection of divine patterns.
+Celtic war deities frequently appeared at battlefields as prophetic figures. The Badb, associated with the war-goddess, manifested as "a weird woman uttering prophecies" who would watch over kings as their doom approached. Her characteristic posture—"standing on one foot, and with one eye closed"—mimicked bird behavior while delivering prophecies such as "I wash the harness of a king who will perish".
 
-The conflict resolution established Ireland's sacred character, determining "that all Ireland should for ever afterwards be a sacred country ruled over by the People of the Goddess Dana and the Sons of Mil jointly". This joint rulership between divine and human forces created the mythological foundation for legitimate governance and territorial control in Irish tradition.
+These battlefield appearances reinforced the connection between warfare and divine will. War goddesses reportedly served as interpreters of fate, revealing the cosmic significance of individual battles and the destinies of warriors and kings.
 
-### Heroic Battle-Fury and Divine Transformation
+### Ritual Aspects of Celtic Warfare
 
-Celtic warriors accessed supernatural power through ritualized transformation, most dramatically illustrated in the battle-fury of heroes like Cú Chulainn. The process involved both physical and spiritual metamorphosis, as "a great distortion came upon Cú Chulainn so that he became horrible, many-shaped, strange and unrecognizable" while "all the flesh of his body quivered like a tree in a current or like a bulrush in a stream, every limb and every joint, every end and every member of him from head to foot".
+Ancient Celtic warfare incorporated elaborate rituals honoring war deities. Warriors "decapitate their slain enemies and attach the heads to their horses' necks" and preserved the heads of distinguished foes "in cedar oil". These practices reportedly transformed battlefields into sacred spaces where warriors communicated with divine powers through ritual action.
 
-The warrior's equipment carried supernatural properties, including "his crested war-helmet of battle and strife and conflict" from which "was uttered the shout of a hundred warriors with a long-drawn-out cry from every corner and angle of it". The helmet itself became a conduit for supernatural forces, as "there used to cry from it alike goblins and sprites, spirits of the glen and demons of the air before him and above him and around him wherever he went, prophesying the shedding of the blood of warriors and champions".
-
-### Inter-Divine Warfare and Factional Conflicts
-
-Celtic mythology documented ongoing conflicts within the divine realm itself, suggesting that warfare extended beyond mortal concerns into supernatural politics. The sources describe "a war among the 'men of the Elfmounds' over 'two lovable maidens who dwelt in the elfmound'" where the combatants "all shaped themselves into the shapes of deer" during battle. These intra-divine conflicts demonstrated that even among the Tuatha De Danann, territorial and romantic disputes could escalate to warfare.
-
-The factional nature of divine conflict appears in accounts of "Midir's sons under Donn mac Midir, in rebellion against the Daghda's son Bodh Derg," who "fled away to an obscure sídh, where in yearly battle they met the hosts of the other Tuatha De Danann under Bodh Derg". These recurring annual battles suggest institutionalized conflict within the otherworld, paralleling mortal patterns of seasonal warfare and territorial dispute.
+The preservation and display of enemy heads served multiple purposes beyond simple trophy-taking. Warriors would "proudly display" these heads "to visitors, saying that for this head one of his ancestors, or his father, or he himself refused a large offer of money". This practice elevated warfare beyond mere violence to a sacred activity where honor and divine favor intersected.
 
 ## Primary Sources
 
-***The Fairy-Faith in Celtic Countries*** *(1911)*
-*Evans-Wentz, W.Y., Frowde*
-> It is said that after the second of these battles 'The Morrigu, daughter of Ernmas (the Irish war-goddess), proceeded to proclaim that battle and the mighty victory which had taken place, to the royal heights of Ireland and to its fairy host and its chief waters and its river-mouths'. For good had prevailed over evil, and it was settled that all Ireland should for ever afterwards be a sacred country ruled over by the People of the Goddess Dana and the Sons of Mil jointly.
+***Cath Maige Tuired*** *(c. 9th century)*
+*quoted in: The Fairy-Faith in Celtic Countries — Evans-Wentz, W.Y. (1911)*
+> The _Morrigu_, daughter of Ernmas (the Irish war-goddess), proceeded to proclaim that battle and the mighty victory which had taken place, to the royal heights of Ireland and to its fairy host and its chief waters and its river-mouths. For good had prevailed over evil, and it was settled that all Ireland should for ever afterwards be a sacred country ruled over by the People of the Goddess Dana and the Sons of Mil jointly.
 
-***The Fairy-Faith in Celtic Countries*** *(1911)*
-*Evans-Wentz, W.Y., Frowde*
-> It is interesting to observe that this Irish war-goddess, the bodb or badb, considered of old to be one of the Tuatha De Danann, has survived to our own day in the fairy-lore of the chief Celtic countries. In Ireland the survival is best seen in the popular and still almost general belief among the peasantry that the fairies often exercise their magical powers under the form of royston-crows; and for this reason these birds are always greatly dreaded and avoided.
+***Da Choca's Hostel*** *(medieval Irish)*
+*quoted in: The Fairy-Faith in Celtic Countries — Evans-Wentz, W.Y. (1911)*
+> I wash the harness of a king who will perish.
 
-***Táin Bó Cúailnge Recension 1*** *(c. 7th–8th century)*
-*transl. in: O'Rahilly, Cecile, ed. & transl., DIAS 1976*
+***Táin Bó Cúailnge*** *(c. 7th–8th century)*
+*transl. in: Táin Bó Cúailnge Recension 1 — O'Rahilly, Cecile, ed. & transl. (1976)*
 > Then he put on his head his crested war-helmet of battle and strife and conflict. From it was uttered the shout of a hundred warriors with a long-drawn-out cry from every corner and angle of it. For there used to cry from it alike goblins and sprites, spirits of the glen and demons of the air before him and above him and around him wherever he went, prophesying the shedding of the blood of warriors and champions.
 
-***Táin Bó Cúailnge Recension 1*** *(c. 7th–8th century)*
-*transl. in: O'Rahilly, Cecile, ed. & transl., DIAS 1976*
-> Then a great distortion came upon Cú Chulainn so that he became horrible, many-shaped, strange and unrecognizable. All the flesh of his body quivered like a tree in a current or like a bulrush in a stream, every limb and every joint, every end and every member of him from head to foot.
+***Táin Bó Cúailnge*** *(c. 7th–8th century)*
+*transl. in: The Táin — Kinsella, Thomas, transl. (1969/2002)*
+> He placed on his head his warlike, crested battle-helmet, from whose every nook and cranny his longdrawn scream re-echoed like the screams of a hundred warriors; so it was that the demons and devils and goblins of the glen and the spirits of the air shrieked from the hollows of the shield and around it and over it and beside it.
 
-***The Fairy-Faith in Celtic Countries*** *(1911)*
-*Evans-Wentz, W.Y., Frowde*
-> It is in the form of birds that certain of the Tuatha De Danann appear as war-goddesses and directors of battle,--and we learn from one of our witnesses that the 'gentry' or modern Sidhe-folk take sides even now in a great war, like that between Japan and Russia.
+***Diodorus Siculus*** *(c. 1st century BC)*
+*quoted in: The Celtic Heroic Age — Koch, John T. & Carey, John, eds. (2003)*
+> They decapitate their slain enemies and attach the heads to their horses' necks. The blood-soaked booty they hand over to their attendants, while they sing a song of victory. The choicest spoils they nail to the walls of their houses just like hunting trophies from wild beasts. They preserve the heads of their most distinguished enemies in cedar oil and store them carefully in chests.
 
-***The Fairy-Faith in Celtic Countries*** *(1911)*
-*Evans-Wentz, W.Y., Frowde*
-> Midir's sons under Donn mac Midir, in rebellion against the Daghda's son Bodh Derg, fled away to an obscure sídh, where in yearly battle they met the hosts of the other Tuatha De Danann under Bodh Derg; and it was into this sídh or fairy palace on the very eve before the annual contest that Finn and his six companions were enticed by the fairy woman in the form of a fawn, to secure their aid.
-
-***Ancient Irish Tales*** *(c. 12th century)*
-*transl. in: Cross, Tom Peete & Slover, Clark Harris, eds., Holt 1936*
-> It was there Coinchenn Cennfada, Morgan's wife, was; and she had the strength of a hundred in battle or conflict. She was the daughter of Conchruth king of the Coinchinn. And the druids had foretold her that if ever her daughter should be wooed, in that same hour she would die. Therefore, she put to death everyone that came to woo her daughter.
+***Silva Gadelica*** *(medieval Irish compilation)*
+*quoted in: The Fairy-Faith in Celtic Countries — Evans-Wentz, W.Y. (1911)*
+> A war among the 'men of the Elfmounds' over 'two lovable maidens who dwelt in the elfmound', and when they delivered the battle 'they all shaped themselves into the shapes of deer'.
 
 ## Sources & Further Reading
 
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
-- [2] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
-- [3] O'Rahilly, Cecile, ed. & transl., *Táin Bó Cúailnge Recension 1* (DIAS 1976).
-- [4] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [5] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
+- [2] O'Rahilly, Cecile, ed. & transl., *Táin Bó Cúailnge Recension 1* (DIAS 1976).
+- [3] Kinsella, Thomas, transl., *The Táin* (Oxford University Press 1969/2002).
+- [4] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
+- [5] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [6] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
-- [7] Kinsella, Thomas, transl., *The Táin* (OUP 1969/2002).
+- [7] Faraday, Winifred, transl., *The Cattle-Raid of Cualnge* (Nutt 1904).
 - [8] Haycock, Marged, ed. & transl., *Legendary Poems from the Book of Taliesin* (CMCS Publications 2007).
+- [9] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein* (University of Wales Press 2006).

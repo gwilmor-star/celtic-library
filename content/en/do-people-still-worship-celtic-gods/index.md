@@ -5,93 +5,105 @@ title: "Do people still worship Celtic gods?"
 slug: "do-people-still-worship-celtic-gods"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
-datePublished: "2026-04-21"
-dateModified: "2026-04-21"
+datePublished: "2026-04-22"
+dateModified: "2026-04-22"
 status: "draft"
 ---
 
-Yes, people still worship Celtic gods today, primarily through contemporary neo-pagan and reconstructionist religious movements that actively revere traditional Celtic deities alongside modern adaptations of ancient practices.
+# Do People Still Worship Celtic Gods?
+
+Yes, people do still engage with Celtic spiritual traditions today through modern movements known as neo-druidism and various pagan groups, though the extent to which this constitutes worship of Celtic gods specifically is said to vary among practitioners. These contemporary practices draw inspiration from ancient Celtic religious traditions while adapting them to modern spiritual needs.
 
 ## Key Facts
-- Celtic Reconstructionism emphasizes historical accuracy in reviving Celtic traditions and actively worships traditional Celtic deities
-- Modern Druidry movements incorporate Celtic mythology and deities into their spiritual practices, sitting on the eclectic end of the contemporary Pagan spectrum  
-- Neo-pagan communities practice forms of Celtic deity worship, with Brigid being particularly honored as a Celtic Fire Goddess of healing, inspiration and craft
-- Ancient Celtic worship involved veneration of natural objects such as trees, waters, and stones, with evidence suggesting the Celts worshipped sun and natural phenomena
-- The Tuatha De Danann, ancient Irish earth gods, were worshipped through offerings and sacrifices, particularly during festivals like Samain
+
+- Neo-druidism encompasses varied groups including pagan, Christian, and New Age practitioners, with some tracing roots to 18th-century druidic revival movements.
+- Many modern groups spread widely in America, Canada, Australia, and Europe during the 19th century, with great proliferation occurring in the latter half of the 20th century.
+- Contemporary practitioners often refer to Greek and Roman accounts for information about ancient druidry, accepting the importance of oak trees, groves, and mistletoe in ritual practices.
+- The contemporary druid's ritual year is shaped by the Celtic or 8-fold calendar system.
+- Modern Celtic spirituality includes Cyberdruids who practice via the Internet, representing digital adaptations of ancient traditions.
 
 ## Q&A Sections
 
-### What are the main modern movements that worship Celtic gods?
-Celtic Reconstructionism (CR) represents one primary approach, emphasizing historical accuracy in reviving Celtic traditions and relying on historical sources. Modern Druidry also incorporates Celtic deities into practice, described as a form of contemporary Paganism that sits between reconstructionism and eclecticism. These movements often display influences from New Age movements and neo-shamanism. Additionally, various neo-pagan communities practice Celtic deity worship, particularly honoring figures like Brigid, the Celtic Fire Goddess of healing, inspiration and craft.
+### What forms does modern Celtic worship take today?
 
-### How do modern practitioners connect with ancient Celtic worship?
-Modern practitioners reportedly draw upon archaeological evidence and ancient written sources to reconstruct Celtic religious systems, though the sources do not confirm specific methodologies (sources limited). Ancient Celtic worship involved veneration of natural objects such as trees, waters, and the sun, with the Celts believing in earth gods called the Tuatha De Danann who inhabited mounds and emerged to interact with mortals. Contemporary practitioners often incorporate seasonal festivals and nature-based rituals that echo these ancient practices, maintaining the Celtic tradition of seeing the divine in natural phenomena.
+Contemporary Celtic worship manifests through several movements including neo-druidism and various pagan groups. These range from self-styled "Zen druids and Hassidic druids" to "Hermetic druids primarily concerned with magic" and even "Cyberdruids" who practice online. Many modern practitioners structure their ritual year around the Celtic 8-fold calendar and emphasize the ritual use of oak trees, groves, and mistletoe based on classical accounts.
 
-### What role did the Tuatha De Danann play in ancient Celtic worship?
-The Tuatha De Danann, meaning "Tribes of the Goddess Anu, or Danu," were considered the earth gods of ancient Ireland. They were believed to inhabit natural or artificial mounds and beneath lakes and springs, possessing youth, beauty, and immortality. These deities received offerings and sacrifices during important festivals, particularly Samain, the great Celtic feast of the dead when various sacrifices were made to ancestral spirits and the Tuatha De Danann. Even after Christianization, belief in their existence persisted among the Irish, who continued to see them as real supernatural beings.
+### How do modern practitioners connect with ancient Celtic traditions?
 
-### How did ancient Celtic worship connect to natural elements?
-Ancient Celtic worship was deeply connected to natural elements, with evidence showing the Celts venerated rivers, seas, lakes, fountains, and particularly sacred trees. The Druids held oak trees and mistletoe in great religious veneration, often conducting sacred rites in oak groves. Sacred waters were also central to Celtic worship, with the Celts having a deity called Divona, or the river god, and making sacrificial offerings to fountains. This nature-based worship extended to stone monuments, with evidence suggesting ancient Celtic practitioners believed gods and spirits could inhabit stone images and sacred sites.
+Modern Celtic spiritual practitioners often turn to Greek and Roman historical accounts for guidance about ancient druidic practices. They accept from these sources "the importance of learning and the ritual use of mistletoe, oak trees, and groves". However, aspects like human sacrifice remain controversial - some modern druids reject these accounts as hostile propaganda, while others explain that for willing participants acting for community good, it would have been considered an honor.
+
+### When did modern Celtic spiritual movements begin?
+
+Many contemporary Celtic spiritual groups trace their origins to the 18th-century druidic revival, particularly the Ancient Order of Druids. This movement spread widely during the 19th century across America, Canada, Australia, and Europe. The late 19th-century Golden Dawn movement also influenced some branches of modern druidry. However, the most significant growth occurred in the latter half of the 20th century, coinciding with the broader growth of paganism and alternative spirituality.
+
+### What role do sacred places play in modern Celtic worship?
+
+Sacred groves and natural spaces remain central to contemporary Celtic spiritual practice, following ancient traditions where Druids were known to select oak groves for their sacred rites. Some practitioners continue traditions of leaving offerings at sacred wells, with evidence of pins, buttons, and cloth pieces still being placed at healing wells across Scotland. These practices demonstrate continuity with ancient Celtic reverence for sacred waters and trees, though often adapted to modern contexts.
 
 ## In-Depth Overview
 
-### Contemporary Celtic Reconstructionism
-Celtic Reconstructionism represents the most historically-focused approach to modern Celtic deity worship, with practitioners emphasizing accuracy in reviving Celtic traditions through careful study of historical sources. This movement differs from other neo-pagan approaches by prioritizing archaeological and textual evidence over modern interpretations or innovations. Reconstructionists work to understand and practice Celtic religion as it existed before Christianization, though the provided sources do not confirm detailed methodologies (sources limited). The movement has reportedly gained scholarly respect for its rigorous methodology, though practitioners acknowledge the limitations of available sources (sources limited).
+### Historical Development of Modern Celtic Spirituality
 
-### Modern Druidry and Celtic Deities
-Modern Druidry sits on the eclectic end of the contemporary Pagan spectrum, incorporating Celtic mythology and deities into broader nature-based spiritual practices. Unlike Celtic Reconstructionism, modern Druidry often blends traditional Celtic elements with New Age movements and neo-shamanic practices. Contemporary Druid groups have been characterized as neo-tribes with elective membership, creating communities that honor Celtic deities while adapting ancient practices for modern spiritual needs. These groups often focus on seasonal festivals, nature worship, and the veneration of Celtic gods and goddesses within contemporary ritual frameworks.
+The revival of Celtic spiritual practices began in the 18th century with movements like the Ancient Order of Druids, which subsequently spread throughout the English-speaking world during the 19th century. This revival was not a direct continuation of ancient practices but rather a reconstruction based on available historical sources and romantic interpretations of Celtic culture. The late 19th-century Golden Dawn movement added ceremonial magic elements to some branches of neo-druidism.
 
-### Neo-Pagan Celtic Worship
-Broader neo-pagan communities incorporate Celtic mythological figures into their worship practices, with particular attention to goddesses like Brigid. Brigid, honored as a Celtic Fire Goddess of healing, inspiration and craft, exemplifies how ancient Celtic deities maintain relevance in contemporary spiritual practice. Her worship demonstrates the continuity between ancient and modern Celtic religious expression, as she was adopted into Christianity as Saint Brigid but continues to be venerated in her original form by neo-pagans. Modern practitioners often celebrate Celtic seasonal festivals, maintaining ancient customs while adapting them to contemporary contexts (sources limited).
+The most significant expansion occurred in the latter half of the 20th century, coinciding with broader movements toward alternative spirituality, paganism, and what scholars call "religious Celticism". This growth paralleled increased interest in environmental spirituality and pre-Christian European traditions, leading to the establishment of groups across Britain, Ireland, Europe, America, Australia, and New Zealand.
 
-### Ancient Foundations of Celtic Worship
-Understanding contemporary Celtic god worship requires examining its ancient foundations, where the Celts worshipped the sun and natural objects such as trees and waters. Archaeological evidence suggests the ancient Celts maintained sophisticated religious systems centered on natural phenomena and divine beings inhabiting the landscape. The Tuatha De Danann, described as the earth gods of ancient Ireland, were believed to dwell within natural or artificial mounds and beneath lakes and springs, possessing supernatural attributes including youth, beauty, and immortality. These beings served as intermediaries between the mortal and divine realms, occasionally emerging to interact with humans through marriage, abduction, or participation in tribal conflicts.
+### Contemporary Practices and Beliefs
 
-### Sacred Natural Elements in Celtic Practice
-Ancient Celtic worship demonstrated profound reverence for natural elements, particularly trees and water sources, traditions that continue to influence modern practitioners. The Druids, serving as priests and intermediaries, held oak trees and mistletoe in exceptional religious veneration, conducting sacred rites exclusively in oak groves and considering these natural elements essential to their spiritual practice. Sacred waters received similar devotion, with the Celts maintaining a deity called Divona, identified as the river god, and offering sacrificial gifts to fountains and springs. Stone monuments also played crucial roles in Celtic worship, with evidence suggesting ancient practitioners believed gods and spirits could inhabit these structures, making them focal points for religious observance.
+Modern Celtic spiritual practitioners draw heavily on ancient sources, particularly Greek and Roman accounts of druidic practices. From these classical sources, they derive the importance of oak trees, mistletoe, and sacred groves in ritual work. Contemporary druids often structure their spiritual calendar around the Celtic 8-fold year, incorporating seasonal festivals that mark agricultural and astronomical cycles.
 
-### Festivals and Seasonal Worship
-The ancient Celtic calendar included major festivals that honored deities and supernatural beings, traditions maintained by contemporary practitioners. Samain represented the great Celtic feast of the dead, when various offerings and sacrifices were made to ancestral spirits and the Tuatha De Danann. This festival, along with Beltene on the first of May, formed part of a seasonal cycle dedicating specific times to honoring the dead and fairy folk. Modern Celtic religious movements continue these seasonal observances, adapting ancient practices for contemporary spiritual expression while maintaining the essential connection between seasonal cycles and divine veneration (sources limited).
+The diversity of modern Celtic spirituality is remarkable, encompassing groups that identify as pagan, Christian, New Age, and various hybrid forms. Some practitioners focus on ceremonial magic and Hermetic traditions, while others emphasize nature spirituality and ecological awareness. The advent of internet technology has even produced "Cyberdruids" who practice and organize online.
 
-### Persistence and Transformation
-Even after Christianization, belief in Celtic deities persisted among Celtic populations, with monks and Christianized bards acknowledging their existence while forbidding their worship. This persistence demonstrates the deep cultural significance of Celtic deities and explains their continued relevance in modern religious movements. Contemporary practitioners build upon this unbroken thread of belief, finding in Celtic mythology and deity worship a spiritual framework that connects them to ancestral wisdom and natural harmony (sources limited). The transformation from ancient worship to modern practice reflects both continuity and adaptation, as contemporary Celtic religious movements honor traditional deities while creating new expressions suitable for modern spiritual needs (sources limited).
+### Relationship to Ancient Celtic Religion
+
+Ancient Celtic religion, as practiced by the Druids, emphasized the eternal nature of souls and concepts of reincarnation. Classical authors like Julius Caesar noted that Druids taught "that souls do not die, but pass from one body to another". This doctrine of rebirth was central to Celtic spiritual understanding and influenced how warriors approached death in battle.
+
+The social role of ancient Druids was extensive, as they "settle all public and private disputes" and held authority over legal matters, inheritance, and border disputes. Those who defied druidic decisions were "prohibited from sacrifices" and suffered social ostracism. The Druids met annually "in a consecrated place in the territory of the Carnutes" which was considered "the centre of all Gaul".
+
+### Sacred Geography and Continued Practices
+
+The reverence for sacred places continues in modern Celtic spirituality. Ancient traditions of venerating sacred waters persist, with offerings still being left at healing wells throughout Scotland. Visitors to these wells leave "offerings of pins and nails, and bits of rag" following customs that connect them to pre-Christian practices.
+
+Sacred trees, particularly oaks, remain central to Celtic spiritual practice. Ancient sources record that Druids "have nothing which they hold more sacred than the mistletoe and the tree on which it grows, provided only it be an oak". Modern practitioners continue this emphasis on oak groves and forest sanctuaries, seeing them as particularly suitable for spiritual work and ritual practice.
 
 ## Primary Sources
 
-***Sanas Cormaic (Cormac's Glossary)*** *(c. 900 AD)*
-*in: Ancient Irish Tales, Cross & Slover eds. (1936)*
-> From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation. These, an ancient manuscript informs us, were the dei terreni, or earth gods, of the ancient Irish. They are often referred to in early Irish literature as the Tuatha De Danann ("Tribes of the Goddess Anu, or Danu") or the aes sidhe.
+***Pomponius Mela*** *(c. AD 37-50)*
+*De Situ Orbis, in: The Celtic Heroic Age*
+> They teach, in caves or hidden groves, many things to the nobles in a course of instruction lasting up to twenty years. One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead.
 
-***Pliny's Natural History*** *(1st century AD)*
-*in: The Fairy-Faith in Celtic Countries, Evans-Wentz (1911)*
-> The Druids, for so they call their magicians, have nothing which they hold more sacred than the mistletoe and the tree on which it grows, provided only it be an oak (robur). But apart from that, they select groves of oak, and they perform no sacred rite without leaves from that tree, so that the Druids may be regarded as even deriving from it their name interpreted as Greek.
+***Pliny the Elder*** *(AD 23-79)*
+*Natural History, in: The Celtic Heroic Age*
+> NOT TO BE OVERLOOKED is the admiration of the Gauls for this plant [the mistletoe]. The Druids-as their magicians are called-hold nothing more sacred than this plant and the tree on which it grows, as if it grew only on oaks. They choose only groves of oak and perform no rites unless a branch of that tree is present.
 
-***Maximus Tyrius*** *(2nd century AD)*
-*in: The Fairy-Faith in Celtic Countries, Evans-Wentz (1911)*
-> The image of their chief god, considered by him to correspond to Zeus, was a lofty oak tree.
+***Julius Caesar*** *(c. 50 BC)*
+*De Bello Gallico, in: The Celtic Heroic Age*
+> For as a rule they settle all public and private disputes and, if some crime has been committed, or if a slaying done or if it concerns inheritance or a border dispute, the same Druids decide: they settle the compensation and punishment; if a private person or the public does not yield to their decision they are prohibited from sacrifices.
 
-***Book of Armagh*** *(7th century manuscript)*
-*in: More West Highland Tales, Mackay Wilson et al. (1940)*
-> And he (St. Patrick) came to Fina Malge, which is called Slane, because it was intimated to him that the Magi honoured this fountain, and made donations to it as gifts to a god. For they sacrificed gifts to the fountain, and worshipped it like a god.
+***Bethu Brigte*** *(c. 9th century)*
+*transl. in: Ó hAodha edition (1978)*
+> 'Look for us', said the druid to his maternal uncle, 'how our girl is, for I do not dare to do so since I am not a Christian.' He saw her lying in a crossvigil and she was praying. 'Go again', said the druid, 'and ask her something this time, for she will say something to you now.'
 
-***Ausonius*** *(4th century AD)*
-*in: More West Highland Tales, Mackay Wilson et al. (1940)*
-> Divona Celtarum lingua fons addite Divii. The Celtæ were much addicted to the worship of fountains and rivers as divinities. They had a deity called Divona, or the river god.
+***Vita Columbae*** *(c. 690 AD)*
+*Adomnán, transl. in: Reeves edition (1874)*
+> Druids, coming near to them, did all they could to prevent God's praises being sung in the midst of a pagan nation. On seeing this, the saint began to sing the 44th Psalm, and at the same moment so wonderfully loud, like pealing thunder, did his voice become, that king and people were struck with terror and amazement.
 
-***Alexander Carmichael's Highland Collection*** *(traditional, recorded 19th century)*
-*in: The Fairy-Faith in Celtic Countries, Evans-Wentz (1911)*
-> In many parts of the Highlands, where the same deity is known, the stone into which women poured the libation of milk is called Leac na Gruagaich, "Flag-stone of the Gruagach." If the libation was omitted in the evening, the best cow in the fold would be found dead in the morning.
+***Buile Suibhne*** *(c. 12th century)*
+*transl. in: O'Keeffe edition (1913)*
+> My life is not one of ease, O cleric of Druim Iarainn, such is my fear that I do not close an eye. If I were to see the men of the world coming to me, O man of the bell, I would flee from them as fast as at the flight of a wren.
 
-***Lewis Island Tradition*** *(traditional, recorded 19th century)*
-*in: The Fairy-Faith in Celtic Countries, Evans-Wentz (1911)*
-> Shony was a sea-god in Lewis, where ale was sacrificed to him at Hallowtide. After coming to the church of St. Mulvay at night a man was sent to wade into the sea, saying: "Shony, I give you this cup of ale hoping that you will be so kind as to give us plenty of sea-ware for enriching our ground the ensuing year."
+***Aislinge Meic Con Glinne*** *(c. 12th century)*
+*transl. in: Meyer edition (1892)*
+> Nothing sorrowful shall be heard by anyone who has heard it, it will be a year's protection to him. There are thirty chief virtues attending this tale, and a few of them are enough for an example.
 
 ## Sources & Further Reading
-- [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
-- [2] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [3] MacLeod, Sharon Paice, *Celtic Myth and Religion* (McFarland 2012).
-- [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
-- [5] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).
-- [6] Celtic Reconstructionism - Wikipedia, https://en.wikipedia.org/wiki/Celtic_neopaganism
-- [7] Modern Druidry - Wikipedia, https://en.wikipedia.org/wiki/Druidry_(modern)
-- [8] Celtic Mythology Research Papers - Academia.edu, https://www.academia.edu/Documents/in/Celtic_Mythology
+
+- [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
+- [2] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
+- [3] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
+- [4] Ó hAodha, Donncha, ed. & transl., *Bethu Brigte* (DIAS 1978).
+- [5] Reeves, William, ed. & transl., *Vita Columbae* (Edmonston & Douglas 1874).
+- [6] O'Keeffe, J.G., ed. & transl., *Buile Suibhne* (ITS 12, 1913).
+- [7] Meyer, Kuno, ed. & transl., *Aislinge Meic Con Glinne* (Nutt 1892).
+- [8] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).
+- [9] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).
