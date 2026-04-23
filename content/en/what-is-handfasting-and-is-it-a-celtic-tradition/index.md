@@ -6,7 +6,7 @@ slug: "what-is-handfasting-and-is-it-a-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -47,7 +47,7 @@ Scottish handfasting practices reportedly varied significantly between Lowland a
 The ceremony itself reportedly required minimal formal elements: the couple's mutual consent, the physical joining of hands, and the presence of witnesses, though documentation is limited. Some traditions allegedly involved binding the hands with rope, cord, or fabric, creating the symbolic "tying of the knot," but the sources do not confirm these practices directly. The choice of binding material is said to have sometimes carried symbolic meaning, with different colors or materials representing various aspects of the relationship or family alliances.
 
 ### Decline and Transformation
-Handfasting reportedly declined in the 18th and 19th centuries as church authority strengthened and legal marriage requirements became more standardized, though the sources do not confirm these developments directly. The Marriage Act of 1753 in England and similar legislation in Scotland allegedly reduced recognition of irregular marriages, pushing couples toward formal church ceremonies. Improved transportation and communication also reportedly made clergy more accessible to remote communities, reducing the practical need for alternative marriage customs.
+Handfasting reportedly declined in the 18th and 19th centuries as church authority strengthened and legal marriage requirements became more standardized, though the sources do not confirm these developments directly. The Clandestine Marriages Act 1753 (Lord Hardwicke's Act) applied to England and Wales only — Scotland was explicitly excluded and retained its irregular marriage customs until the Marriage (Scotland) Act 1939. The Act drove English couples to Gretna Green but did not directly affect Scottish handfasting practices. Improved transportation and communication also reportedly made clergy more accessible to remote communities, reducing the practical need for alternative marriage customs.
 
 However, the practice reportedly experienced revival in the 20th century through neo-pagan and romantic movements, though documentation is limited. Modern practitioners often emphasize supposed ancient Celtic origins, though these claims reportedly rest on speculative reconstructions rather than documentary evidence. Contemporary handfasting ceremonies are said to incorporate elements drawn from various traditions, creating hybrid rituals that serve modern spiritual and aesthetic preferences while claiming historical authenticity.
 
@@ -61,7 +61,7 @@ However, the practice reportedly experienced revival in the 20th century through
 *transl. in: Ó hAodha, Donncha, ed. & transl. (1978). DIAS*
 > 'Let water be put on our hands', said her maidens to Brigit, 'here is our food.' 'It is of no use now', said Brigit. 'For the Lord has shown me that this is a heathen home, with the one exception only of the slave who summoned us. On that account I shall not eat now.'
 
-***Vita Columbae (Life of Columba)*** *c. 690 AD*
+***Vita Columbae (Life of Columba)*** *c. 697–700 AD*
 *transl. in: Adomnán — Reeves, William, ed. & transl. (1874). Edmonston & Douglas*
 > The saint, after embracing them, asked them at once the object of their journey. In reply they said, 'We are come to reside with thee for this year.' The saint replied, 'With me, as you say, you cannot reside for a year, unless you take first the monastic vow.'
 
@@ -69,7 +69,7 @@ However, the practice reportedly experienced revival in the 20th century through
 *transl. in: Meyer, Kuno, ed. & transl. (1892). Nutt*
 > The married couple to whom it is related the first night shall not separate without an heir; they shall not be in dearth of food or raiment. The new house, in which it is the first tale told, no corpse shall be taken out of it
 
-***Vita Columbae (Life of Columba)*** *c. 690 AD*
+***Vita Columbae (Life of Columba)*** *c. 697–700 AD*
 *transl. in: Adomnán — Reeves, William, ed. & transl. (1874). Edmonston & Douglas*
 > When those who were present heard these words addressed to strangers who were only newly arrived they wondered very much. But the elder brother, in answer to the saint's remarks, replied, 'Although we never up to the present hour entertained the thought before, yet we shall readily accept the monastic vow.'
 

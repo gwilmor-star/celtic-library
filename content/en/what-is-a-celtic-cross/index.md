@@ -6,7 +6,7 @@ slug: "what-is-a-celtic-cross"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -14,7 +14,7 @@ A Celtic cross is reportedly a distinctive form of Christian cross that combines
 
 ## Key Facts
 
-- Celtic crosses are said to have emerged in Ireland and Britain during the early medieval period, with claims of the earliest examples dating to the 7th-8th centuries, though sources do not verify these dates.
+- Celtic crosses emerged in Ireland and Britain during the early medieval period; current scholarship generally dates the earliest surviving stone ringed crosses to the 9th century (sites such as Ahenny and Iona), with earlier 7th-8th century dating for some examples now revised upward.
 - The distinctive circle around the intersection of the cross arms is interpreted by some as representing the sun, eternity, or God's infinite love, but these symbolic meanings are not confirmed in available sources.
 - These crosses reportedly served multiple functions including marking boundaries, commemorating the dead, and providing focal points for worship and teaching, though specific evidence for these uses is not provided.
 - High crosses, described as the most elaborate form of Celtic crosses, are said to have reached heights of over 20 feet and featured biblical scenes carved in relief, but these details lack source verification.
@@ -54,9 +54,6 @@ The Celtic cross reportedly experienced a significant revival during the 19th an
 
 ## Sources & Further Reading
 
-- [1] Celtic Culture: Historical Encyclopedia entries on crosses and religious art.
-- [2] High Crosses of Ireland: Archaeological and art historical studies.
-- [3] Celtic Art: From Its Beginnings to the Book of Kells by Ruth and Vincent Megaw.
-- [4] The Celtic Cross: Symbol of Faith and Heritage by various authors.
-- [5] Early Medieval Art and Architecture in Ireland by Peter Harbison.
-- [6] Celtic Revival movements and modern interpretations of Celtic symbols.
+- [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
+- [2] Megaw, Ruth and Vincent, *Celtic Art: From Its Beginnings to the Book of Kells* (Thames and Hudson 1989).
+- [3] Harbison, Peter, *The High Crosses of Ireland: An Iconographical and Photographic Survey*, 3 vols. (R. Habelt / Royal Irish Academy, Bonn/Dublin, 1992).

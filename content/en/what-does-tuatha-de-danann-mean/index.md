@@ -6,7 +6,7 @@ slug: "what-does-tuatha-de-danann-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -50,7 +50,7 @@ The expansion to "Tuatha Dé Donann" appears first in the work of Eochaid ua Fla
 
 The modern form "Tuatha Dé Danann" represents a later development from the medieval "Tuatha Dé Donann," reflecting the sporadic linguistic shift o > a characteristic of modern Gaelic languages. However, the goddess Danann herself presents significant problems for scholars. The name does not behave grammatically like a normal Irish proper noun, being indeclinable and based on the genitive form. This linguistic evidence suggests that the goddess was created to explain the group name rather than representing an authentic ancient deity.
 
-Proposals connecting the unattested nominative form *Donu/*Danu with the Welsh ancestor figure Dôn, the Vedic demoness Dānu, and the river Danube (Dānuvius) have been rejected as linguistically unworkable. These comparative connections, while superficially attractive, lack the sound correspondences necessary for legitimate Celtic etymology.
+Proposals connecting the unattested nominative form *Donu/*Danu with the Vedic demoness Dānu and the river Danube (Dānuvius) have been challenged on linguistic grounds by scholars including Eric Hamp. The parallel with the Welsh ancestor figure Dôn is considered more plausible by some scholars, though not universally accepted. Current scholarly opinion is divided rather than unanimous in rejecting all three comparisons. These comparative connections, while superficially attractive, lack the sound correspondences necessary for legitimate Celtic etymology.
 
 ### Mythological and Literary Context
 
@@ -67,11 +67,11 @@ Modern Irish folk belief preserves some attributes originally associated with th
 ## Primary Sources
 
 ***Cormac's Glossary (Sanas Cormaic)*** *(c. 900 AD)*
-*transl. in: O'Donovan, John, transl.; Stokes, Whitley, ed. (1868). Calcutta: Cutter*
-> Ana, or as she is most usually called Danann, was the mother of the three chieftains of the Tuatha dó Danann, Brian, Iuchar, and Iucharbu, who were accounted gods for their feats of necromancy.
+*transl. in: O'Donovan, John, transl.; Stokes, Whitley, ed. (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868)*
+> Ana — mater deorum Hibernensium [mother of the gods of Ireland]; well did she nourish the gods. [The Glossary identifies Ana with the goddess of prosperity and plenty; the connection to Danann is a modern scholarly inference.]
 
 ***Lebor Gabála Érenn*** *(c. 11th century)*
-*in: Dillon, Myles (1956). DIAS*
+*in: Macalister, R.A. Stewart, ed. & transl. (Irish Texts Society, 1938–1956)*
 > The descendants of Bethach son of Iarbonel the prophet, son of Nemed, were in the northern islands of the world, learning druidry and knowledge and prophecy and cunning till they were skilled in the arts of heathen learning. And they were the Tuatha De Danann who came to Ireland. They came in dark clouds. They occupied the mountains of Conmaicne Róin in Connaught, and they put darkness on the sun for three days and three nights.
 
 ***Cath Maige Tuired*** *(c. 9th century)*
@@ -100,6 +100,6 @@ Modern Irish folk belief preserves some attributes originally associated with th
 - [2] Dooley, Ann & Roe, Harry, transl., *Tales of the Elders of Ireland (Acallam na Senórach)* (Oxford University Press 1999).
 - [3] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [4] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [5] Dillon, Myles, *Lebor Gabála Érenn* (Dublin Institute for Advanced Studies 1956).
-- [6] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [5] Macalister, R.A. Stewart, ed. & transl., *Lebor Gabála Érenn*, 5 vols. (Irish Texts Society, 1938–1956).
+- [6] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [7] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).

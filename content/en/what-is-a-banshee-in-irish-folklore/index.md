@@ -6,7 +6,7 @@ slug: "what-is-a-banshee-in-irish-folklore"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -40,7 +40,7 @@ The banshee's cry is "variously termed a wail, lament, or olagón" and is "said 
 The banshee represents one of Ireland's most enduring supernatural traditions, with origins tracing back to ancient Celtic beliefs about otherworldly beings. Although she has evolved into primarily "a foreboder of death in certain families," she was originally "a patron goddess with a variety of contrasting attributes and functions". The linguistic development from ben síde to the modern bean sí reflects the historical transformation of this figure from divine patroness to death herald.
 
 ### Regional Variations and Characteristics
-Throughout Ireland, the banshee's manifestation varies by region. While she is "popularly said to perform that function by crying and lamenting" across most of Ireland, "in the south-east her sound can also have frightening and threatening qualities". In some southeastern areas, she is known as "Bodh" rather than by her more common names. The regional variation extends to her appearance and behavior, suggesting a rich tradition that adapted to local cultural contexts.
+Throughout Ireland, the banshee's manifestation varies by region. While she is "popularly said to perform that function by crying and lamenting" across most of Ireland, "in the south-east her sound can also have frightening and threatening qualities". In some southeastern areas, she is known as "Badhbh" (an attested Irish war-goddess figure) rather than by her more common names. The regional variation extends to her appearance and behavior, suggesting a rich tradition that adapted to local cultural contexts.
 
 ### Temporal and Spatial Associations
 The banshee's appearances follow specific patterns related to liminality and transition. Her manifestations occur "at transitional or liminal times, such as at twilight, midnight or dawn, and in liminal places, such as at the boundaries of the dying person's farm or townland". She is particularly associated with "nearby water sources such as wells, streams or lakes," which "tends to further strengthen its perceived supernormal character". These associations with threshold spaces and times reflect ancient Celtic beliefs about the permeability between worlds.
@@ -62,12 +62,12 @@ The banshee serves a crucial function in Irish death customs and community griev
 *transl. in: Yeats, W.B., ed. (1888). Scott*
 > 'Tis the Banshee, ma'am,' said Leary; 'and I would not, for what my life is worth, go anywhere this blessed night but to Spring House. But I'm afraid there's something bad going forward, or she would not send us there.' So saying, he drove forward; and as we turned on the road to the right, the moon suddenly withdrew its light, and we saw the apparition no more; but we heard plainly a prolonged clapping of hands, gradually dying away, as if it issued from a person rapidly retreating.
 
-***More West Highland Tales*** *c. 12th century*
-*transl. in: Mackay Wilson, et al. (1940). Oliver & Boyd*
+***More West Highland Tales*** *(1940)*
+*McKay, John G., ed. (Oliver & Boyd 1940)*
 > It is haunted with a Banshee (that is, female fairy), which the miller's wife saw about three years ago. She was sitting on a stone, quiet, and beautifully dressed in a green silk dress, the sleeves of which were curiously puffed from the wrists to the shoulder. Her long hair was yellow, like ripe corn; but on nearer view she had no nose.
 
-***Ancient Irish Tales*** *c. 7th-8th century*
-*transl. in: Cross, Tom Peete & Slover, Clark Harris, eds. (1936). Holt*
+***Ancient Irish Tales*** *(anthology, 1936; underlying texts c. 7th–12th century)*
+*Cross, Tom Peete & Slover, Clark Harris, eds. (Holt 1936)*
 > When the clerics had finished the burial they saw coming toward them a solitary woman, beautiful and shining, robed in a green mantle with its fringe of golden thread. A smock of priceless silk was about her. She reached the place where the clerics were and saluted them, and so the clerics saluted her. And they perceived upon her an appearance of sadness and sorrow and they recognized that she it was that had ruined the king.
 
 ***The Fairy-Faith in Celtic Countries*** *c. 1911*
@@ -83,7 +83,7 @@ The banshee serves a crucial function in Irish death customs and community griev
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Yeats, W.B., ed., *Fairy and Folk Tales of the Irish Peasantry* (Scott 1888).
 - [3] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
-- [4] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).
+- [4] McKay, John G., ed., *More West Highland Tales* (Oliver & Boyd 1940).
 - [5] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
 - [6] Hull, Eleanor, "Legends and Traditions of the Cailleach Bhéara," *Folklore* 38 (1927).
 - [7] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).

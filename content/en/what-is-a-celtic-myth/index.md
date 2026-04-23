@@ -6,7 +6,7 @@ slug: "what-is-a-celtic-myth"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -22,7 +22,7 @@ Celtic mythology encompasses the traditional stories, beliefs, and narratives of
 ## Q&A Sections
 
 ### What are the main sources for Celtic mythology?
-Celtic mythology is preserved primarily in medieval Irish and Welsh manuscripts, though fragments survive in Continental sources and archaeological evidence. The Irish tradition includes cycles like the Ulster Cycle containing the Táin Bó Cúailnge, and the Mythological Cycle featuring tales like Cath Maige Tuired. Welsh sources are documented in medieval traditions, though specific texts like the Mabinogion are not confirmed in the available sources. Archaeological evidence from Gaul and Britain, along with observations by classical authors like Caesar, provide additional context for understanding Celtic religious beliefs.
+Celtic mythology is preserved primarily in medieval Irish and Welsh manuscripts, though fragments survive in Continental sources and archaeological evidence. The Irish tradition includes cycles like the Ulster Cycle containing the Táin Bó Cúailnge, and the Mythological Cycle featuring tales like Cath Maige Tuired. Welsh sources are documented in medieval traditions including the Mabinogion. Archaeological evidence from Gaul and Britain, along with observations by classical authors like Caesar, provide additional context for understanding Celtic religious beliefs.
 
 ### How do Celtic myths relate to ancient religion?
 Celtic mythology reflects the religious beliefs of the ancient Celts, who worshipped natural objects like trees, waters, and celestial bodies. The myths describe gods dwelling in an Otherworld within sidhe mounds or beneath lakes, from where they interacted with mortals. Druids served as intermediaries between the human and divine worlds, though their specific roles as judges and keepers of sacred knowledge are not fully documented in the available sources. Many mythological figures represent deified aspects of nature, craftsmanship, and tribal identity.
@@ -57,8 +57,8 @@ The Cailleach Bhéara tradition exemplifies this geographical dimension, with st
 
 ## Primary Sources
 
-***Cormac's Glossary*** *(c. 900 AD)*
-*transl. in: Ancient Irish Tales*
+***Ancient Irish Tales — Editorial Introduction*** *(1936)*
+*Cross, Tom Peete & Slover, Clark Harris, eds. (Holt 1936)*
 > From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation. For the readers of this volume the most significant point lies in the fact that they believed in another world located within natural or artificial mounds or beneath lakes and springs, and inhabited by a race of fairy folk endowed with youth, beauty, and immortality, who issued forth from time to time, married or abducted mortals, and even took part in tribal feuds.
 
 ***Campbell's Highland Tales*** *(collected 1860-62)*

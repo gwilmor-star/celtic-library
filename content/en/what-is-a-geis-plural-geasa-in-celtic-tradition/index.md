@@ -6,7 +6,7 @@ slug: "what-is-a-geis-plural-geasa-in-celtic-tradition"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -58,20 +58,20 @@ The prominence of geasa in Irish saga literature reflects their importance in th
 *transl. in: O'Donovan, John, transl.; Stokes, Whitley, ed., Cormac's Glossary (1868)*
 > Ailoes f a derogatory request' then, i.e. geis a request. It is for disgrace (ail) then only that this request is made and not for praise : the seventh part of the price of honour of him of whom the ailges is asked, this is the lawful ailges.
 
-***Togail Bruidne Da Derga***
-*transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (2014)*
+***Togail Bruidne Da Derga (The Destruction of Da Derga's Hostel)***
+*discussed in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014) — a 2014 collection of scholarly essays, not a primary source*
 > ar- gues that this geis is a later addition to the tale. The crime of díberg is of course a prominent element in TBDD as it stands: it is found in A, where it is in relation to díberg that Conaire gives his false judgment; and in B, which has a long account of the díberg carried out in Conaire's reign by his foster- brothers and others. Of the díberg in B, the text explicitly states that it was a geis of Conaire's.
 
 ***Mesca Ulad (The Intoxication of the Ulstermen)***
-*transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (2014)*
+*discussed in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014)*
 > It must be said that this geis does not appear to loom large in the everyday life of the Ulstermen as it is depicted generally in the sagas: they frequently speak before their king does, and the king, for his part, does not often seem con- strained to wait for a druid to speak before him. There is no contradiction here, once we recognize that the geis applies only in certain circumstances.
 
 ***Mesca Ulad***
-*transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (2014)*
+*discussed in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014)*
 > "It is midnight now, O hound of feats," said he. When Cú Chulainn heard it he told Conchobar; Cú Chulainn was in the hero's seat before him. Conchobar arose with the speckled bright horn of a buﬀalo. Mute and silent were the men of Ulster when they saw the king sta
 
 ## Sources & Further Reading
 
 - [1] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
-- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).

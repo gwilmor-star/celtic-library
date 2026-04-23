@@ -6,7 +6,7 @@ slug: "what-is-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Celtic mythology encompasses the body of mythological traditions, heroic tales, 
 ## Q&A Sections
 
 ### What are the main sources for Celtic mythology?
-Celtic mythology is preserved through three primary types of evidence: archaeological material, testimonies of Greek and Roman commentators, and the vernacular literatures of Ireland and Wales. The Irish manuscripts contain the most substantial corpus, including heroic tales from cycles such as the Ulster Cycle, which features stories like the Táin Bó Cúailnge and tales of heroes like Cú Chulainn and Cú Roí mac Dáiri. Welsh literature is said to provide additional Celtic mythological material, though the provided sources do not confirm specific details about the Mabinogion.
+Celtic mythology is preserved through three primary types of evidence: archaeological material, testimonies of Greek and Roman commentators, and the vernacular literatures of Ireland and Wales. The Irish manuscripts contain the most substantial corpus, including heroic tales from cycles such as the Ulster Cycle, which features stories like the Táin Bó Cúailnge and tales of heroes like Cú Chulainn (and occasionally featuring Cú Roí mac Dáiri, a Munster king who appears as antagonist or rival in some Ulster Cycle tales). Welsh literature is said to provide additional Celtic mythological material, though the provided sources do not confirm specific details about the Mabinogion.
 
 ### Who are the Tuath Dé and what role do they play?
 The Tuath Dé, also known as the Tuatha De Danann ("Tribes of the Goddess Anu, or Danu"), are described in ancient Irish manuscripts as the "dei terreni, or earth gods, of the ancient Irish". They inhabited an otherworld located "within natural or artificial mounds or beneath lakes and springs" and were "endowed with youth, beauty, and immortality". These beings "issued forth from time to time, married or abducted mortals, and even took part in tribal feuds," serving as intermediaries between the mortal and supernatural realms.
@@ -57,7 +57,7 @@ Celtic mythology contains recurring themes that reflect broader mythological pat
 *Campbell, J.F. (1860–62), Edmonston & Douglas*
 > This, then, seems to be popular history, interlarded with Celtic mythology. History of a successful rising of Celts in Scotland, headed by a leader who was a Scandinavian by the mother's side; against the Scandinavians who had beaten them twice before.
 
-***Táin Bó Cúailnge*** *(c. 7th–8th century)*
+***Ancient Irish Tales — Editorial Introduction*** *(1936)*
 *transl. in: Cross & Slover, Ancient Irish Tales (1936)*
 > From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation.
 

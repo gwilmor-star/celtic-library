@@ -6,7 +6,7 @@ slug: "what-is-a-celtic-legend"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -89,5 +89,5 @@ The transition from oral to written culture significantly impacted how Celtic le
 - [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860-62).
 - [5] Hull, Eleanor, "Legends and Traditions of the Cailleach Bhéara," *Folklore* 38 (1927).
 - [6] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
-- [7] Campbell, J.F., *Popular Tales of the West Highlands* vol. 4 (Alexander Gardner 1890).
+- [7] Campbell, J.F., *Popular Tales of the West Highlands* vol. 4 (Alexander Gardner 1893). [The Gardner reprint series began 1890-93; vol. 4 appeared 1893.]
 - [8] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).

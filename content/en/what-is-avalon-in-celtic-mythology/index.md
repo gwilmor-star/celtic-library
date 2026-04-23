@@ -6,7 +6,7 @@ slug: "what-is-avalon-in-celtic-mythology"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Avalon (also spelled Ynys Afallach) is the mystical island in Celtic mythology f
 ## Q&A Sections
 
 ### What is the earliest mention of Avalon in literature?
-Avalon first appears in Geoffrey of Monmouth's *Historia Regum Britanniae* (c. 1139) as *Insula Avallonis*, where Arthur's sword Caliburnus was forged and where Arthur was taken after the battle of Camlan. In Welsh versions of Geoffrey's work, it is called Ynys Afallach, maintaining the apple association through the Welsh word *afal*.
+Avalon first appears in Geoffrey of Monmouth's *Historia Regum Britanniae* (c. 1136–1138) as *Insula Avallonis*, where Arthur's sword Caliburnus was forged and where Arthur was taken after the battle of Camlan. In Welsh versions of Geoffrey's work, it is called Ynys Afallach, maintaining the apple association through the Welsh word *afal*.
 
 ### How does Avalon relate to other Celtic otherworlds?
 Avalon shares characteristics with Irish otherworld locations, particularly *Emain Ablach* "Emain of the apples," which was the blessed domain of Manannán mac Lir on the Isle of Man. The apple symbolism connects it to various Celtic otherworld traditions where sacred apple groves represent divine realms. Nine priestesses or sorceresses feature in both Avalon and earlier Celtic island sanctuaries, such as the nine virgin priestesses described by Pomponius Mela on the island of Sena off Brittany.
@@ -43,7 +43,7 @@ The name Avalon derives from Celtic words for apple, with Geoffrey of Monmouth e
 Geoffrey's *Vita Merlini* describes Avalon as inhabited by nine sorceresses, with Morgan as their chief. This sisterhood parallels earlier Celtic traditions, particularly the nine virgin priestesses described by Pomponius Mela around 43 AD on the island of Sena off westernmost Brittany. These priestesses possessed "the arts of healing, prophecy and power over the elements, and the ability to assume the form of animals", characteristics that would later be associated with the inhabitants of Avalon.
 
 ### Arthur's Otherworld Connections
-Arthur's relationship with Avalon reflects his fundamental connection to the Celtic otherworld. His wife Gwenhwyvar's name means "white ghost" or "white phantom," connecting her to fairy-folk traditions. His sister Morgan is explicitly identified as one of the fairy women of the Celtic Otherworld. The sword Excalibur came from the Lady of the Lake, another supernatural benefactress who "watched over him" like the Irish Morrígu presided over Cú Chulainn.
+Arthur's relationship with Avalon reflects his fundamental connection to the Celtic otherworld. His wife Gwenhwyvar's name has been interpreted by some scholars as "white ghost" or "white phantom," though other etymologies exist and no consensus holds. His sister Morgan is explicitly identified as one of the fairy women of the Celtic Otherworld. In Geoffrey's text the sword is called Caliburnus; Excalibur is the later French form from Wace and Malory, not Geoffrey's own term.
 
 ### The Mystical Geography
 Avalon is located "vaguely in the west" according to Geoffrey's description, following Celtic traditions that place otherworld islands in the western ocean. Welsh traditions speak of the *Gwerddonau Llion*, green fairy islands that "were supposed to be the abode of the souls of certain Druids" who occupied "this romantic sort of purgatorial paradise". These islands represent Celtic conceptions of otherworld realms existing parallel to the mortal world but accessible through special circumstances.
@@ -53,9 +53,9 @@ Avalon serves as a place of healing where Arthur's wounds from the battle of Cam
 
 ## Primary Sources
 
-***Historia Regum Britanniae*** *c. 1139*
+***Historia Regum Britanniae*** *c. 1136–1138*
 *Geoffrey of Monmouth*
-> Insula Avallonis (the Isle of Avalon) is first mentioned by Geoffrey of Monmouth in his Historia Regum Britanniae (c. 1139) as the place where Arthur's sword Caliburnus was forged, and then as the place where Arthur was taken after the battle of Camlan for his wounds to be tended.
+> Insula Avallonis (the Isle of Avalon) is first mentioned by Geoffrey of Monmouth in his Historia Regum Britanniae (c. 1136–1138) as the place where Arthur's sword Caliburnus was forged, and then as the place where Arthur was taken after the battle of Camlan for his wounds to be tended.
 
 ***Vita Merlini (Life of Merlin)*** *c. 1150*
 *Geoffrey of Monmouth*
@@ -87,7 +87,7 @@ Avalon serves as a place of healing where Arthur's wounds from the battle of Cam
 - [2] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [3] Owen, Elias, *Welsh Folk-Lore* (Oswestry 1896).
 - [4] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
-- [5] Geoffrey of Monmouth, *Historia Regum Britanniae*, c. 1139.
+- [5] Geoffrey of Monmouth, *Historia Regum Britanniae*, c. 1136–1138.
 - [6] Geoffrey of Monmouth, *Vita Merlini*, c. 1150.
 - [7] Pomponius Mela, *De Chorographia*, c. 43 AD.
 - [8] Marie de France, *Lai of Lanval*, 12th century.

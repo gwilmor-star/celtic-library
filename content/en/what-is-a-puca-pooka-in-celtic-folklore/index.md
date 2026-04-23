@@ -6,7 +6,7 @@ slug: "what-is-a-puca-pooka-in-celtic-folklore"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -32,7 +32,7 @@ The púca often approaches humans in a deceptively gentle manner, appearing as a
 The púca is specifically identified as a November spirit, with November-day being sacred to this supernatural being. This seasonal association places the púca among the spirits connected to Samhain and the transition into winter. In the story of "The Piper and the Púca," the creature is explicitly called "you Púca of November (na Samhna)" by the assembled supernatural beings, reinforcing this temporal connection.
 
 ### How does the púca relate to other Celtic water-spirits?
-The púca belongs to a broader family of Celtic supernatural horses and water-spirits found throughout the Celtic world. Many Celtic languages use literal translations meaning "water-horse," such as Gaelic each-uisge (water-bull) and Manx tarroo-ushtey. However, specific regional names also exist, including the Irish púca, Manx glashtyn, and Welsh (g)ëyll. The Continental tradition includes similar creatures like Bayard, the devil's horse from medieval romance.
+The púca belongs to a broader family of Celtic supernatural horses and water-spirits found throughout the Celtic world. Many Celtic languages use literal translations meaning "water-horse," such as Gaelic each-uisge (water-horse; each = horse, uisge = water) and Manx glashtin. The water-bull is a distinct creature — Scottish Gaelic tarbh-uisge (tarbh = bull). However, specific regional names also exist, including the Irish púca, Manx glashtyn, and Welsh (g)ëyll. The Continental tradition includes similar creatures like Bayard, the devil's horse from medieval romance.
 
 ## In-Depth Overview
 
@@ -46,7 +46,7 @@ The púca's most distinctive feature is its remarkable shape-shifting ability, a
 The púca's strong association with November connects it to the important Celtic festival of Samhain, when the boundaries between the mortal and supernatural worlds were believed to be thinnest. This temporal connection suggests the púca may have functioned as a seasonal spirit, appearing during the transition from autumn to winter to interact with humans in various ways. The creature's November association also links it to harvest-time folklore and the supernatural events believed to occur as the agricultural year concluded.
 
 ### Comparative Celtic Context
-Within the broader context of Celtic supernatural traditions, the púca represents one manifestation of a widespread belief in shape-shifting water-spirits and supernatural horses. The Breton story of Paotr Pen-er-Lo follows the typical pattern of a gentle-appearing horse that carries riders into water, while the medieval Continental romance tradition includes similar creatures like Bayard, the devil's horse. These parallels suggest the púca belongs to an ancient stratum of Celtic supernatural beliefs that spread across the Celtic-speaking regions while developing distinct local characteristics.
+Within the broader context of Celtic supernatural traditions, the púca represents one manifestation of a widespread belief in shape-shifting water-spirits and supernatural horses. Breton tradition preserves similar water-horse figures (the attested Breton figure being Morvarc'h, the sea-horse of King Gradlon), following the typical pattern of a gentle-appearing horse that carries riders into water, while the medieval Continental romance tradition includes similar creatures like Bayard, the enchanted horse of the Four Sons of Aymon from the Old French chanson de geste cycle. These parallels suggest the púca belongs to an ancient stratum of Celtic supernatural beliefs that spread across the Celtic-speaking regions while developing distinct local characteristics.
 
 ## Primary Sources
 
@@ -82,4 +82,4 @@ Within the broader context of Celtic supernatural traditions, the púca represen
 
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Yeats, W.B., ed., *Fairy and Folk Tales of the Irish Peasantry* (Scott 1888).
-- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
