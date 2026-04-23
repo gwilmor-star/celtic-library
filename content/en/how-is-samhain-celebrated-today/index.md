@@ -6,7 +6,7 @@ slug: "how-is-samhain-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -58,7 +58,7 @@ Modern Samhain observances reportedly vary by geographic location and cultural c
 ## Primary Sources
 
 ***Cormac's Glossary (Sanas Cormaic)*** *c. 900 AD*
-*transl. in: Whitley Stokes, ed., Three Irish Glossaries (1862)*
+*transl. in: O'Donovan, John, transl.; Stokes, Whitley, ed., Sanas Cormaic (Irish Archaeological and Celtic Society, Calcutta 1868)*
 > Samhain, the end of summer, that is, the end of the warm season, and the beginning of winter, when the sun began to take a lower course, and cold was beginning.
 
 ***Acallamh na Senórach (Colloquy of the Elders)*** *c. 1200 AD*
@@ -74,7 +74,7 @@ Modern Samhain observances reportedly vary by geographic location and cultural c
 > Every Samhain the Fomorians used to take a third of the corn, a third of the milk, and a third of the children of the men of Ireland, so that there was great lamentation in Ireland on account of the oppression of the Fomorians.
 
 ***Echtra Nerai (Adventure of Nera)*** *c. 10th century*
-*transl. in: Kuno Meyer, The Voyage of Bran (1895)*
+*transl. in: Meyer, Kuno, "The Adventures of Nera," Revue Celtique 10 (1889), pp. 212–228*
 > What he saw was this: the whole of the royal fort as if on fire before him, and hosts of the síd, and the heads of men with them. Then he was led away with the fairy host, and they went into the cave of Cruachan.
 
 ***Fled Bricrend (Bricriu's Feast)*** *c. 8th century*
@@ -91,7 +91,7 @@ Modern Samhain observances reportedly vary by geographic location and cultural c
 - [2] Bonewits, Isaac, *Bonewits's Essential Guide to Modern Paganism* (Citadel Press 2006).
 - [3] Hutton, Ronald, *The Stations of the Sun: A History of the Ritual Year in Britain* (Oxford University Press 1996).
 - [4] McColman, Carl, *The Complete Idiot's Guide to Celtic Wisdom* (Alpha Books 2003).
-- [5] Freeman, Mara, *Kindling the Celtic Spirit* (HarperOne 2001).
+- [5] Freeman, Mara, *Kindling the Celtic Spirit* (HarperSanFrancisco 2001).
 - [6] Carmichael, Alexander, *Carmina Gadelica* (Floris Books 1992).
 - [7] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [8] O'Driscoll, Robert, ed., *The Celtic Consciousness* (Braziller 1981).

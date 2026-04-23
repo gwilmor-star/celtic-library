@@ -6,7 +6,7 @@ slug: "what-are-some-recommended-books-or-resources-for-learning-ce"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -90,7 +90,7 @@ Eleanor Knott's *Irish Syllabic Poetry* provides essential prosodic analysis for
 
 ***Early Irish Literature*** *(1948)*
 *Myles Dillon*
-> The Adventures, Voyages, and Visions were studied long ago by Alfred Nutt in the first volume of The Voyage of Bran (London, 1897); and the Visions are the object of a separate study by St. John D. Seymour, Irish Visions of the Otherworld (London, 1920). There has been no attempt at a history of Irish poetry.
+> The Adventures, Voyages, and Visions were studied long ago by Alfred Nutt in the second volume of Kuno Meyer's edition, *The Voyage of Bran, Son of Febal* (2 vols., London: David Nutt, 1895–1897); and the Visions are the object of a separate study by St. John D. Seymour, Irish Visions of the Otherworld (London, 1920). There has been no attempt at a history of Irish poetry.
 
 ***Early Irish Literature*** *(1948)*
 *Myles Dillon*
@@ -114,13 +114,13 @@ Eleanor Knott's *Irish Syllabic Poetry* provides essential prosodic analysis for
 - [2] Campbell, J.F., *Popular Tales of the West Highlands* vol. 4 (Edmonston & Douglas 1860–62).
 - [3] Dillon, Myles, *Early Irish Literature* (University of Chicago Press 1948).
 - [4] Murphy, Gerard, ed. & transl., *Early Irish Lyrics: Eighth to Twelfth Century* (Oxford: Clarendon Press 1956).
-- [5] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Penguin 1951/1971).
+- [5] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Routledge & Kegan Paul 1951; revised Penguin Classics edition 1971).
 - [6] Haycock, Marged, ed. & transl., *Legendary Poems from the Book of Taliesin* (CMCS Publications 2007).
-- [7] Dillon, Myles, *Lebor Gabála Érenn* study (DIAS 1956).
-- [8] Jacobsthal, Paul, *Early Celtic Art* (1944).
-- [9] Megaw, Vincent and Ruth, *Celtic Art* (1989).
-- [10] O'Rahilly, T.F., *Early Irish History and Mythology* (Dublin 1946).
-- [11] Sjoestedt, Marie-Louise, *Dieux et héros celtiques* (Paris 1940).
-- [12] Flower, Robin, *The Irish Tradition* (Oxford 1947).
-- [13] Jackson, Kenneth, *Early Celtic Nature Poetry* (Cambridge 1936).
-- [14] Knott, Eleanor, *Irish Syllabic Poetry*.
+- [7] Macalister, R.A. Stewart, ed. & transl., *Lebor Gabála Érenn*, 5 vols. (Irish Texts Society, 1938–1956).
+- [8] Jacobsthal, Paul, *Early Celtic Art*, 2 vols. (Oxford: Clarendon Press, 1944).
+- [9] Megaw, Ruth and Vincent, *Celtic Art: From Its Beginnings to the Book of Kells* (Thames and Hudson 1989).
+- [10] O'Rahilly, T.F., *Early Irish History and Mythology* (Dublin Institute for Advanced Studies 1946).
+- [11] Sjoestedt, Marie-Louise, *Dieux et héros des Celtes* (Ernest Leroux, Paris 1940).
+- [12] Flower, Robin, *The Irish Tradition* (Oxford: Clarendon Press 1947).
+- [13] Jackson, Kenneth, *Early Celtic Nature Poetry* (Cambridge University Press 1936).
+- [14] Knott, Eleanor, *Irish Syllabic Poetry, 1200–1600* (Dublin Institute for Advanced Studies, 1st ed. 1928; 2nd corrected ed. 1957).

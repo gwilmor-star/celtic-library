@@ -6,7 +6,7 @@ slug: "how-is-lughnasadh-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -14,7 +14,7 @@ Lughnasadh, one of the four major Celtic seasonal festivals, continues to be cel
 
 ## Key Facts
 - Lughnasadh was traditionally associated with the god Lugh, though the provided sources do not confirm the specific August 1st date or harvest festival designation
-- The festival's name derives from "nasad of Lug," meaning an assembly or festival in commemoration of a death
+- The festival's name derives from "nasad of Lug," meaning an assembly or games held in Lugh's name — traditionally to commemorate his foster-mother Tailtiu, who died clearing the plains of Ireland for agriculture
 - Modern celebrations reportedly focus on first harvest rituals and community gatherings
 - Contemporary neopagan groups are said to have revived many traditional elements of the festival
 - Agricultural communities reportedly still mark the season with harvest-related activities and fairs
@@ -34,7 +34,7 @@ Urban celebrations of Lughnasadh have reportedly adapted to city environments th
 
 ## In-Depth Overview
 ### Historical Context and Revival
-The ancient festival of Lughnasadh was described in early Irish literature as "the nasad of Lug: nasad is an assembly or festival in commemoration or memorial of a death". While traditional observance declined during periods of cultural suppression, the 20th and 21st centuries reportedly have witnessed significant revival efforts. Modern Celtic spirituality movements are said to have drawn upon historical sources to reconstruct meaningful contemporary practices, though they often adapt ancient elements to suit modern lifestyles and urban environments.
+The ancient festival of Lughnasadh was described in *Sanas Cormaic* (Cormac's Glossary, c. 900) as "the nasad of Lug: nasad is an assembly or festival in commemoration or memorial of a death" — where the "death" refers mythologically to the funeral games held for Lugh's foster-mother Tailtiu, not to the word's core lexical meaning of assembly or games. While traditional observance declined during periods of cultural suppression, the 20th and 21st centuries reportedly have witnessed significant revival efforts. Modern Celtic spirituality movements are said to have drawn upon historical sources to reconstruct meaningful contemporary practices, though they often adapt ancient elements to suit modern lifestyles and urban environments.
 
 ### Contemporary Ritual Practices
 Modern Lughnasadh celebrations reportedly occur around August 1st and emphasize themes of harvest, gratitude, and community, though the provided sources do not confirm the specific date or practices. Common contemporary practices are said to include baking bread from newly harvested grain, crafting corn dollies or wheat weavings, and holding outdoor feasts with seasonal foods. Many celebrations reportedly also incorporate athletic competitions or games, echoing the ancient tradition of the Tailltiu games associated with the festival.
@@ -43,10 +43,9 @@ Modern Lughnasadh celebrations reportedly occur around August 1st and emphasize 
 Today's Lughnasadh observances reportedly range from explicitly neopagan rituals to secular harvest festivals that unconsciously maintain ancient patterns. Irish cultural organizations, heritage groups, and Celtic music societies are said to incorporate Lughnasadh themes into their programming, while agricultural fairs and farmers' markets reportedly provide contemporary venues for celebrating seasonal abundance. This integration is said to demonstrate how ancient festival structures continue to resonate in modern society.
 
 ## Primary Sources
-The ancient festival of Lughnasadh was described in early Irish literature: "Lugnasad is the nasad of Lug: nasad is an assembly or festival in commemoration or memorial of a death". The provided primary source passages do not contain direct descriptions of modern Lughnasadh celebrations, as they derive from ancient and medieval Celtic texts that predate contemporary practices.
+The ancient festival of Lughnasadh was described in *Sanas Cormaic* (Cormac's Glossary, c. 900): "Lugnasad is the nasad of Lug: nasad is an assembly or festival in commemoration or memorial of a death" — the "death" here refers to the mythological funeral games for Lugh's foster-mother Tailtiu, not the lexical meaning of the word *násad*, which means assembly or games. The provided primary source passages do not contain direct descriptions of modern Lughnasadh celebrations, as they derive from ancient and medieval Celtic texts that predate contemporary practices.
 
 ## Sources & Further Reading
 - [1] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [2] Modern Celtic spirituality and festival resources (various web sources).
-- [3] Contemporary neopagan and Celtic reconstructionist publications.
-- [4] Agricultural heritage and seasonal festival documentation.
+- [2] MacNeill, Máire, *The Festival of Lughnasa* (Oxford University Press 1962).
+- [3] Stokes, Whitley, ed. (text); O'Donovan, John, transl., *Sanas Cormaic / Cormac's Glossary* (Irish Archaeological and Celtic Society, Calcutta 1868).

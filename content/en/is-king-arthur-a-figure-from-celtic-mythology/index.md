@@ -6,7 +6,7 @@ slug: "is-king-arthur-a-figure-from-celtic-mythology"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,10 +15,10 @@ Arthur is indeed a figure deeply rooted in Celtic mythology, emerging from early
 ## Key Facts
 
 - Arthur's reputation was already highly exalted among early Brythonic poets by the very early Middle Ages, before literacy significantly impacted the bardic tradition.
-- The name Arthur appears in early Welsh poems such as Pa gur yv y porthaur? and Gereint fil. Erbin, where he is called ameraudur ('emperor').
+- The name Arthur appears in early Welsh poems including Pa gur yv y porthaur? (in the Black Book of Carmarthen) and Gereint fil. Erbin, the latter of which calls him ameraudur ('emperor' — from Latin imperator).
 - By the 9th century, Arthurian tradition had forced its way into British Christian Latin historical writing, originally founded by Gildas.
 - Early Welsh triads provide evidence that Arthur's name was already acting as a luminary drawing heroes from independent cycles of Welsh narrative, including mythological characters like Manawydan and Mabon.
-- Arthur is recorded in the Annales Cambriae with victories at Badon (518 AD) and death at Camlann (539 AD) alongside Medraut (Mordred).
+- Arthur is recorded in the Annales Cambriae with victories at Badon and death at Camlann alongside Medraut (Mordred). The manuscript uses internal year-numbers; the most common scholarly reconstruction from Text A gives c. 516 AD for Badon and c. 537 AD for Camlann, though calibrations vary between sources.
 
 ## Q&A Sections
 
@@ -68,13 +68,13 @@ By the 9th century, Arthur's mythological reputation had become so established t
 
 ***Annales Cambriae (Welsh Annals)*** *c. 10th century*
 *transl. in: John T. Koch & John Carey, The Celtic Heroic Age (2003)*
-> 518 The Battle of Badon in which Arthur carried the cross of our Lord Jesus Christ for three days and three nights on his shoulders and the Britons were victorious. 539 Gueith Camlann ['the Battle of Camlann'] in which Arthur and Medraut fell, and there was a great mortality [plague] in Britain and Ireland.
+> [Year 72] The Battle of Badon in which Arthur carried the cross of our Lord Jesus Christ for three days and three nights on his shoulders and the Britons were victorious. [Year 93] Gueith Camlann ['the Battle of Camlann'] in which Arthur and Medraut fell, and there was a great mortality [plague] in Britain and Ireland. [The AD equivalents 516/537 or 518/539 depend on the calibration used; the manuscript gives internal year-numbers only.]
 
 ***The Lady of the Well*** *c. 12th century*
 *transl. in: Sioned Davies, The Mabinogion (2007)*
 > Arthur got ready to go and look for Owain, together with the men of his household. There were three thousand of them, not counting retainers, and Cynon son of Clydno their guide. And Arthur came to the castle where Cynon had been, and when they arrived the lads were shooting at their knives in the same place, and the yellow-haired man was standing beside them.
 
-***Historia Regum Britanniae*** *c. 1136*
+***Historia Regum Britanniae*** *c. 1136–1138*
 *transl. in: J.A. Giles, Old English Chronicles (1848)*
 > Arthur, nothing daunted, slipped out of his hands, and so exerted himself with his sword, that he gave the giant no respite till he had struck it up to the very back through his skull. At this the hideous monster raised a dreadful roar, and like an oak torn up from the roots by the winds, so did he make the ground resound with his fall. Arthur, bursting out into a fit of laughter at the sight, commanded Bedver to cut off his head.
 
@@ -89,7 +89,7 @@ By the 9th century, Arthur's mythological reputation had become so established t
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age: Literary Sources for Ancient Celtic Europe and Early Ireland and Wales* (Celtic Studies Publications 2003).
 - [4] Davies, Sioned, transl., *The Mabinogion* (OUP World's Classics 2007).
 - [5] Haycock, Marged, ed. & transl., *Legendary Poems from the Book of Taliesin* (CMCS Publications 2007).
-- [6] Giles, J.A., ed. & transl., *Old English Chronicles: Geoffrey of Monmouth, Gildas, Nennius, Asser* (Bohn 1848).
+- [6] Giles, J.A., ed. & transl., *Six Old English Chronicles: Geoffrey of Monmouth, Gildas, Nennius, Asser, Ethelwerd, Richard of Cirencester* (Bohn 1848).
 - [7] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [8] Sharpe, Richard & Davies, John Reuben, transl., *Life of Saint David (Vita Davidis)* (University of Wales Press 2007).
 - [9] Conran, Anthony, transl., *Welsh Verse* (Poetry Wales Press 1986).

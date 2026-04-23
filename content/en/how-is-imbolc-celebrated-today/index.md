@@ -6,7 +6,7 @@ slug: "how-is-imbolc-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -43,11 +43,12 @@ Modern celebrations reportedly range from community gatherings to private practi
 Contemporary celebrations reportedly emphasize environmental awareness, though sources limited. Modern practitioners are said to use the festival for garden planning and earth connection, though the provided sources do not confirm these contemporary applications. The festival reportedly serves as a reminder of seasonal dependence, though sources limited. Many celebrations reportedly incorporate ecological themes, though sources limited.
 
 ## Primary Sources
-The provided primary source passages focus on ancient and medieval Celtic texts rather than contemporary practices. The passages contain references to seasonal activities and traditional customs from historical periods, but do not describe modern Imbolc celebrations. Notable elements in the historical sources include references to seasonal transitions, traditional festivals, and the figure of Brigit in medieval contexts, particularly in Giraldus Cambrensis's account: "There are many miraculous wonders worth noting. The first of these is the fire of Brigid, which is said to be inextinguishable. Strictly speaking, it can be extinguished, but the nuns and holy women have long nourished and fed the flame with such great care and diligence that since the time of the virgin saint herself it has never gone out."
+The provided primary source passages focus on ancient and medieval Celtic texts rather than contemporary practices. The passages contain references to seasonal activities and traditional customs from historical periods, but do not describe modern Imbolc celebrations. Notable elements in the historical sources include references to seasonal transitions, traditional festivals, and the figure of Brigit in medieval contexts, particularly in Giraldus Cambrensis's *Topographia Hibernica* (c. 1188), Part II: "There are many miraculous wonders worth noting. The first of these is the fire of Brigid, which is said to be inextinguishable. Strictly speaking, it can be extinguished, but the nuns and holy women have long nourished and fed the flame with such great care and diligence that since the time of the virgin saint herself it has never gone out."
 
 ## Sources & Further Reading
-- [1] Matthews, Caitlín, *Celtic Wisdom: Seasonal Festivals and Rituals* (Element Books 1995).
-- [2] Carmichael, Alexander, *Carmina Gadelica* (T. & A. Constable 1900-1971).
-- [3] Kondratiev, Alexei, *The Apple Branch: A Path to Celtic Ritual* (Citadel Press 2003).
-- [4] Freeman, Mara, *Kindling the Celtic Spirit* (HarperOne 2001).
-- [5] Hutton, Ronald, *The Stations of the Sun* (Oxford University Press 1996).
+- [1] Carmichael, Alexander, *Carmina Gadelica*, 6 vols. (vols. I–II: T. & A. Constable, 1900; vols. III–IV: Oliver & Boyd, 1940–41; vols. V–VI: Scottish Academic Press, 1954–1971).
+- [2] Kondratiev, Alexei, *The Apple Branch: A Path to Celtic Ritual* (Citadel Press 2003).
+- [3] Freeman, Mara, *Kindling the Celtic Spirit* (HarperSanFrancisco 2001).
+- [4] Hutton, Ronald, *The Stations of the Sun: A History of the Ritual Year in Britain* (Oxford University Press 1996).
+
+*Note: A source listed in an earlier draft as "Matthews, Caitlín, Celtic Wisdom: Seasonal Festivals and Rituals (Element Books 1995)" could not be verified. A book of that exact title appears to exist under a different author (Vivianne Crowley) with different publication details. This citation has been removed pending verification.*

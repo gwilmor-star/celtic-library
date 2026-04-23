@@ -6,7 +6,7 @@ slug: "is-celtic-mythology-still-practiced-today"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -62,7 +62,7 @@ While modern Celtic spirituality demonstrates genuine enthusiasm for ancient tra
 
 ## Primary Sources
 
-***Pomponius Mela*** *(c. AD 37-50)*
+***Pomponius Mela*** *(c. AD 43–44)*
 *transl. in: The Celtic Heroic Age*
 > One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead. Thus they burn or bury articles useful in life with the dead. For this reason also, in past times, they would defer business and payment of debts to the next life.
 
@@ -74,8 +74,8 @@ While modern Celtic spirituality demonstrates genuine enthusiasm for ancient tra
 *transl. in: The Celtic Heroic Age*
 > the Druids are great in honour before them. For as a rule they settle all public and private disputes and, if some crime has been committed, or if a slaying done or if it concerns inheritance or a border dispute, the same Druids decide: they settle the compensation and punishment; if a private person or the public does not yield to their decision they are prohibited from sacrifices.
 
-***Strabo*** *(c. 7 BC-AD 24)*
-*transl. in: The Celtic Heroic Age*
+***Library of History*** *(c. 60–30 BC)*
+*Diodorus Siculus, transl. in: The Celtic Heroic Age*
 > They also make use of seers, who are greatly respected. These seers, having great authority, use auguries and sacrifices to foresee the future. When seeking knowledge of great importance, they use a strange and unbelievable method: they choose a person for death and stab him or her in the chest above the diaphragm.
 
 ***Popular Tales of the West Highlands*** *(1860-62)*
@@ -83,7 +83,7 @@ While modern Celtic spirituality demonstrates genuine enthusiasm for ancient tra
 > the superstitions of the Druids has been handed down from generation to generation for a great maney ages, and is not wholy extinct yet; and we have reason to believe that some of the tales, which was invented in those days for to fright the people, has been told and kept in remembrance in the self and same manner.
 
 ***Bethu Brigte*** *(c. 9th century)*
-*transl. in: Life of Brigit*
+*transl. in: Ó hAodha, Donncha, ed. & transl., Bethu Brigte (DIAS 1978)*
 > 'Look for us', said the druid to his maternal uncle, 'how our girl is, for I do not dare to do so since I am not a Christian.' He saw her lying in a crossvigil and she was praying. 'Go again', said the druid, 'and ask her something this time, for she will say something to you now.'
 
 ***Irish Folk Testimony*** *(1911)*
@@ -97,5 +97,5 @@ While modern Celtic spirituality demonstrates genuine enthusiasm for ancient tra
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860-62).
 - [5] Ó hAodha, Donncha, ed. & transl., *Bethu Brigte* (DIAS 1978).
-- [6] Carr-Gomm, Philip, *Druid Renaissance* (referenced in Koch).
+- [6] Carr-Gomm, Philip, ed., *The Druid Renaissance: The Voice of Druidry Today* (London: Thorsons/HarperCollins, 1996).
 - [7] Bowman, Marion, *Belief Beyond Boundaries* (referenced in Koch).

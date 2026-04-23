@@ -6,7 +6,7 @@ slug: "what-are-celtic-fairies-called"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,13 +15,13 @@ Celtic fairies are known by many names across different Celtic regions, with the
 ## Key Facts
 - The Irish call their fairy folk *Daoine Maithe* ("Good People") or *Sidhe*, while the Scots refer to them as "People of Peace" or "Still-Folk".
 - Welsh fairies are called *Tylwyth Teg*, meaning "Fair-Family" or "Fair-Folk," sometimes extended to *Tylwyth Teg yn y Coed* ("Fair Family in the Wood").
-- Celtic fairies can be divided into five main classes in Wales: Ellyllon (elves), Coblynau (mine fairies), Bwbachod (household fairies), Gwragedd Annwn (lake fairies), and Gwyllion (mountain fairies).
+- Welsh fairy folk can be divided into five main classes according to Wirt Sikes's *British Goblins* (1880): Ellyllon (elves), Coblynau (mine fairies), Bwbachod (household fairies), Gwragedd Annwn (lake fairies), and Gwyllion (mountain fairies).
 - These supernatural beings are described as having "bodies of an elastic half-material essence" that is "sufficiently ethereal not to be visible to the physical sight".
 
 ## Q&A Sections
 
 ### What are the main regional names for Celtic fairies?
-Each Celtic region has distinct names for fairy folk. The Irish use *Sidhe* (also spelled *Sídhe*) for their primary fairy race, along with *Daoine Maithe* meaning "Good People". Scottish traditions speak of *Sìth* who "live in green knolls and in the mountain fastnesses of the Highlands," calling them "People of Peace," "Still-Folk," or "Silent Moving Folk". Welsh fairies are known as *Tylwyth Teg*, literally "Fair-Family" or "Fair-Folk," with variations like *Tylwyth Teg yn y Coed* ("Fair Family in the Wood"). Cornwall has its Pixies, while Brittany refers to *Fées* (fairies) and *Corrigans*.
+Each Celtic region has distinct names for fairy folk. The Irish use *Sidhe* (also spelled *Sídhe*) for their primary fairy race, along with *Daoine Maithe* meaning "Good People". Scottish traditions speak of *Sìth* who "live in green knolls and in the mountain fastnesses of the Highlands," calling them "People of Peace," "Still-Folk," or "Silent Moving Folk". Welsh fairies are known as *Tylwyth Teg*, literally "Fair-Family" or "Fair-Folk," with variations like *Tylwyth Teg yn y Coed* ("Fair Family in the Wood"). Cornwall has its Pixies, while Brittany refers to *Fées* (fairies) and *Korrigans*.
 
 ### How are Celtic fairies categorized by type and function?
 Welsh tradition divides fairies into five distinct classes based on their habitat and role: the Ellyllon or elves, the Coblynau or mine fairies who work underground, the Bwbachod or household fairies who interact with human homes, the Gwragedd Annwn who are fairies of lakes and streams, and the Gwyllion or mountain fairies. Irish folklore mentions specific types like the *lepra-caun* (leprechaun), described as "the shoemaker" who is "the only industrious person amongst them". These beings are characterized by their varied occupations of "feasting, fighting, and making love, and playing the most beautiful music".
@@ -37,7 +37,7 @@ Celtic fairy belief represents "that specialized form of belief in a spiritual r
 ### Linguistic and Cultural Variations
 The terminology for Celtic fairies reflects deep cultural and linguistic diversity across the Celtic regions. The Irish *Sidhe* derives from ancient Gaelic traditions and refers specifically to the fairy mounds or hills where these beings were believed to dwell. The respectful term *Daoine Maithe* ("Good People") demonstrates the careful diplomatic language used when speaking of these potentially powerful supernatural beings. Scottish usage of terms like "Still-Folk" or "Silent Moving Folk" emphasizes the mysterious, quiet nature attributed to these beings in Highland tradition.
 
-Welsh *Tylwyth Teg* literally translates as "Fair-Family," indicating both their beauty and their organized social structure. The extended form *Tylwyth Teg yn y Coed* specifically locates them in woodland settings, reflecting the strong connection between Welsh fairies and natural environments. Cornish Pixies represent a distinct regional tradition, while Breton *Fées* and *Corrigans* demonstrate the continental Celtic fairy traditions.
+Welsh *Tylwyth Teg* literally translates as "Fair-Family," indicating both their beauty and their organized social structure. The extended form *Tylwyth Teg yn y Coed* specifically locates them in woodland settings, reflecting the strong connection between Welsh fairies and natural environments. Cornish Pixies represent a distinct regional tradition, while Breton *Fées* and *Korrigans* demonstrate the continental Celtic fairy traditions.
 
 ### Classification Systems and Functional Roles
 Traditional Welsh folklore provides the most systematic classification of fairy types. The five main categories each serve specific functions: Ellyllon represent the classic elven tradition, while Coblynau are specifically associated with mining regions and underground work. Bwbachod function as household spirits, interacting directly with human domestic life, while Gwragedd Annwn are water spirits associated with lakes and streams. Gwyllion inhabit mountainous regions and are often portrayed as more dangerous or unpredictable.
@@ -58,18 +58,18 @@ The relationship between fairy belief and broader spiritual traditions is comple
 
 ***The Fairy-Faith in Celtic Countries*** *(1911)*
 *Evans-Wentz, W.Y. Frowde*
-> We are now prepared to hear about the Daoine Maithe, the 'Good People', as the Irish call their Sidhe race; about the 'People of Peace', the 'Still-Folk' or the 'Silent Moving Folk', as the Scotch call their Sìth who live in green knolls and in the mountain fastnesses of the Highlands; about various Manx fairies; about the Tylwyth Teg, the 'Fair-Family' or 'Fair-Folk', as the Welsh people call their fairies; about Cornish Pixies; and about Fées (fairies), Corrigans, and the Phantoms of the Dead in Brittany.
+> We are now prepared to hear about the Daoine Maithe, the 'Good People', as the Irish call their Sidhe race; about the 'People of Peace', the 'Still-Folk' or the 'Silent Moving Folk', as the Scotch call their Sìth who live in green knolls and in the mountain fastnesses of the Highlands; about various Manx fairies; about the Tylwyth Teg, the 'Fair-Family' or 'Fair-Folk', as the Welsh people call their fairies; about Cornish Pixies; and about Fées (fairies), Korrigans, and the Phantoms of the Dead in Brittany.
 
-***Welsh Folk-Lore*** *(1896)*
-*Owen, Elias. Oswestry*
+***British Goblins*** *(1880)*
+*Sikes, Wirt. London: Sampson Low, Marston, Searle & Rivington*
 > The fairies of Wales may be divided into five classes, if analogy be not too sharply insisted on. Thus we have, I. The Ellyllon, or elves; 2. The Coblynau, or mine fairies; 3. The Bwbachod, or household fairies; 4. The Gwragedd Annwn, or fairies of the lakes and streams; and 5. The Gwyllion, or mountain fairies. The modern Welsh name for fairies is y Tylwyth Teg, the fair folk or family.
 
 ***Fairy and Folk Tales of the Irish Peasantry*** *(1888)*
 *Yeats, W.B., ed. Scott*
 > Do not think the fairies are always little. Everything is capricious about them, even their size. They seem to take what size or shape pleases them. Their chief occupations are feasting, fighting, and making love, and playing the most beautiful music. They have only one industrious person amongst them, the lepra-caun--the shoemaker.
 
-***Welsh Folk-Lore*** *(1896)*
-*Owen, Elias. Oswestry*
+***British Goblins*** *(1880)*
+*Sikes, Wirt. Sampson Low*
 > An old woman in the Vale of Neath told Mrs. Williams, who told Thomas Keightley, that she had seen fairies to the number of hundreds, mounted on little white horses, not bigger than dogs, and riding four abreast. This was about dusk, and the fairy equestrians passed quite close to her, in fact less than a quarter of a mile away.
 
 ***The Fairy-Faith in Celtic Countries*** *(1911)*
@@ -86,6 +86,7 @@ The relationship between fairy belief and broader spiritual traditions is comple
 
 ## Sources & Further Reading
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
-- [2] Owen, Elias, *Welsh Folk-Lore* (Oswestry 1896).
+- [2] Sikes, Wirt, *British Goblins: Welsh Folk Lore, Fairy Mythology, Legends and Traditions* (Sampson Low, Marston, Searle & Rivington, London 1880).
+- [5] Owen, Elias, *Welsh Folk-Lore* (Woodall, Minshall & Co., Oswestry 1896).
 - [3] Yeats, W.B., ed., *Fairy and Folk Tales of the Irish Peasantry* (Scott 1888).
 - [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).

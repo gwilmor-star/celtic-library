@@ -6,7 +6,7 @@ slug: "was-ogham-used-for-divination-or-magic-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,7 +15,7 @@ Ogham was not traditionally used for divination or magic in Celtic culture, acco
 ## Key Facts
 
 - Ogham inscriptions consist of formulaic personal names with patronymic affiliations, containing no magical or divinatory content.
-- The approximately 300 surviving ogham inscriptions are limited to kinship terms and social roles, with no evidence of mystical purposes.
+- Approximately 380–400 surviving ogham inscriptions are known, the majority limited to formulaic personal names with kinship terms and social roles. The monumental inscriptions show no divinatory content, though the medieval literary record does preserve references to ogham being used in magical contexts.
 - Medieval Irish tales mention ogham as a writing system but not specifically for divination, unlike other Celtic magical practices described in the same sources.
 - Modern associations between ogham and divination appear to be contemporary innovations, though the provided sources do not confirm the details.
 
@@ -27,11 +27,11 @@ Ogham served as a commemorative writing system carved on stone pillars during th
 
 ### How do medieval Irish sources treat ogham?
 
-Medieval Irish literature describes ogham as "a system of writing composed of a series of notches along the corner of a stone or a piece of wood" and associates it with "Ogma (dg'mg). A distinguished warrior and strong man of the Tuatha Da Danann". However, the sources that describe extensive magical practices—including divination through various means, spell-casting, and supernatural transformations—reportedly do not attribute divinatory powers to ogham itself.
+Medieval Irish literature describes ogham as "a system of writing composed of a series of notches along the corner of a stone or a piece of wood" and credits its invention to Ogma (also Ogmios in Gaul), a member of the Tuatha Dé Danann associated with eloquence, poetry, and learning — as well as physical strength. However, the sources that describe extensive magical practices—including divination through various means, spell-casting, and supernatural transformations—reportedly do not attribute divinatory powers to ogham itself.
 
 ### What magical and divinatory practices did the Celts actually use?
 
-Celtic sources describe numerous divination methods, including the interpretation of natural signs, dream divination through plants placed under pillows, and the reading of omens from agricultural materials. Medieval texts record "powerful incantations and spells" used by figures like Fuamnach against Étaín, and various forms of magic including necromancy, fascination, and sorcery. However, ogham writing does not appear among these documented magical practices.
+Celtic sources describe numerous divination methods, including the interpretation of natural signs, dream divination through plants placed under pillows, and the reading of omens from agricultural materials. Medieval texts record "powerful incantations and spells" used by figures like Fuamnach against Étaín, and various forms of magic including necromancy, fascination, and sorcery. However, ogham writing on stone monuments does not appear among these documented magical practices. The distinction is important: medieval narrative literature does contain references to ogham on wooden staves being used in divinatory and magical contexts (notably in *Tochmarc Étaíne*, where a druid writes ogham on yew wands to locate Étaín). The scholarly consensus is therefore that monumental ogham inscriptions were not divinatory, while the literary tradition preserves evidence of a separate, magical use of ogham script on portable media.
 
 ## In-Depth Overview
 
@@ -66,7 +66,7 @@ A medieval Irish glossary defines ogham as a conventional writing system, though
 > A straw, drawn at random from a stack, indicates by the number of grains upon it what family a person is to have. Three ears of corn similarly pulled and placed below the pillow for the night, will cause dreams of the future husband reaping them.
 
 ***More West Highland Tales*** *(traditional, recorded 1940)*
-*recorded in: Mackay Wilson, et al. (1940). Oliver & Boyd*
+*recorded in: McKay, John G., ed. (Oliver & Boyd 1940)*
 > He went and he wrung him, and the bird gave a RAN. "What is he saying?" said the gentleman. "He says that thou hast a wish to buy him, and that thou wilt give two hundred pounds Saxon for him," said Dòmhnull. "Well, surely!--it is true, doubtless; and if I were thinking that he would do divination, I would give that for him," said the gentleman.
 
 ## Sources & Further Reading

@@ -6,7 +6,7 @@ slug: "is-wicca-based-on-celtic-traditions"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -54,7 +54,7 @@ The neo-druidic revival movements of the 18th and 19th centuries were themselves
 *transl. in: Koch & Carey, The Celtic Heroic Age*
 > the Druids are great in honour before them. For as a rule they settle all public and private disputes and, if some crime has been committed, or if a slaying done or if it concerns inheritance or a border dispute, the same Druids decide: they settle the compensation and punishment; if a private person or the public does not yield to their decision they are prohibited from sacrifices.
 
-***De Situ Orbis*** *(c. AD 37-50)*
+***De Situ Orbis*** *(c. AD 43–44)*
 *transl. in: Koch & Carey, The Celtic Heroic Age*
 > They teach, in caves or hidden groves, many things to the nobles in a course of instruction lasting up to twenty years. One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead.
 
@@ -62,8 +62,8 @@ The neo-druidic revival movements of the 18th and 19th centuries were themselves
 *transl. in: Koch & Carey, The Celtic Heroic Age*
 > The Druids-as their magicians are called-hold nothing more sacred than this plant [the mistletoe] and the tree on which it grows, as if it grew only on oaks. They choose only groves of oak and perform no rites unless a branch of that tree is present.
 
-***Geographica*** *(c. AD 20)*
-*transl. in: Koch & Carey, The Celtic Heroic Age*
+***Library of History*** *(c. 60–30 BC)*
+*Diodorus Siculus, transl. in: Koch & Carey, The Celtic Heroic Age*
 > They also make use of seers, who are greatly respected. These seers, having great authority, use auguries and sacrifices to foresee the future. When seeking knowledge of great importance, they use a strange and unbelievable method: they choose a person for death and stab him or her in the chest above the diaphragm.
 
 ***Natural History*** *(AD 77-79)*
@@ -86,4 +86,4 @@ The neo-druidic revival movements of the 18th and 19th centuries were themselves
 - [4] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [5] Yeats, W.B., ed., *Fairy and Folk Tales of the Irish Peasantry* (Scott 1888).
 - [6] Ó hAodha, Donncha, ed. & transl., *Bethu Brigte (Life of Brigit)* (DIAS 1978).
-- [7] Sharpe, Richard & Davies, John Reuben, transl., *Life of Saint David (Vita Davidis)* (University of Wales Press 2007).
+- [7] Sharpe, Richard & Davies, John Reuben, transl., "Life of Saint David," in Evans, J. Wyn & Wooding, Jonathan M., eds., *St David of Wales: Cult, Church and Nation* (Boydell Press 2007), pp. 107–155.

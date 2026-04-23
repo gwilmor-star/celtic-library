@@ -6,17 +6,17 @@ slug: "is-halloween-derived-from-the-celtic-festival-samhain"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
-Yes, Halloween is derived from the Celtic festival Samain (Old Irish), known in Modern Irish as Samhain, which was celebrated on 31 October to 1 November and marked the beginning of winter. The Christian feast commemorating the dead was established to fall on the first of November in direct accord with Samain or Halloween.
+Yes, Halloween is derived from the Celtic festival Samain (Old Irish), known in Modern Irish as Samhain, which was celebrated on 31 October to 1 November and marked the beginning of winter. The Christian feast commemorating the dead (All Souls' Day) was established by St. Odilo of Cluny on November 2nd — the day after All Saints' Day — not on November 1st itself.
 
 ## Key Facts
 
 - Samain was celebrated on 31 October to 1 November and marked the beginning of winter in the Celtic calendar.
 - The eve of Samain was a liminal time when boundaries between the mundane world and the Otherworld were more likely to be crossed.
-- The Christian Fête in Commemoration of the Dead was established by St. Odilon in 998 AD to fall on the first of November, in direct accord with Samain or Halloween.
+- All Souls' Day (the Christian commemoration of the dead) was established by St. Odilo of Cluny for his congregations, traditionally dated c. 998 AD (though some scholars place it later). It falls on November 2nd, the day after All Saints' Day (November 1st), which coincides with the first day of Samain.
 - Celtic peoples believed that the dead, fairies, and witches were all abroad on Samain night.
 - The opening of fairy-mounds on Halloween is described as ancient folk-lore that has come down to the present day.
 
@@ -28,7 +28,7 @@ Samain was the Old Irish name for a festival celebrated on 31 October to 1 Novem
 
 ### How did Christianity adapt the Celtic festival?
 
-The Christian Fête in Commemoration of the Dead was established by St. Odilon, Abbot of Cluny, in 998 AD in all his congregations and fixed its anniversary on the first of November, in direct accord with Samain or Halloween. This feast was quickly adopted by all the churches of the East. The Christian feast appears to be an adaptation from paganism, with Celtic ecclesiastics educated in Irish and British monasteries likely influencing its development.
+All Souls' Day (the Christian commemoration of the dead) was established by St. Odilo, Abbot of Cluny, c. 998 AD for his congregations (some scholars date the decree later). Odilo fixed it on November 2nd, the day after All Saints' Day — placing it in close proximity to the Samain period, though the alignment is with November 2nd, not November 1st. The observance spread through the Western Latin church; Eastern Orthodox churches maintain separate, independent traditions for commemorating the dead and did not adopt this feast. The Christian feast appears to be an adaptation influenced by the existing November season of the dead in both Celtic and wider European tradition, with Celtic ecclesiastics educated in Irish and British monasteries likely influencing its development.
 
 ### What elements of Samain survived into Halloween traditions?
 
@@ -44,7 +44,7 @@ The festival's supernatural aspects were central to Celtic belief. The Adventure
 
 ### Christian Transformation
 
-The transformation of Samain into Christian observance represents a clear example of religious syncretism. St. Odilon of Cluny established the Fête in Commemoration of the Dead in 998 AD, specifically fixing it on the first of November to coincide with the ancient Celtic festival. The Roman Pantheon, originally dedicated to Jupiter the Avenger, was converted for Christian use, with pagan images overthrown and the space rededicated.
+The transformation of Samain into Christian observance represents a clear example of religious syncretism. St. Odilo of Cluny established All Souls' Day c. 998 AD, fixing it on November 2nd in proximity to the Samain season. A notable Christianization of pagan sacred space occurred when the Roman Pantheon — built by Agrippa and dedicated to all the gods of Rome — was consecrated as a Christian church (Santa Maria ad Martyres) in 609 AD, with pagan images removed and the space rededicated.
 
 The adaptation process was gradual, occurring over several centuries. Prior to the fourth century, newly converted Christians throughout Celtic Europe continued rendering cult to ancestral spirits, making food offerings at tombs of heroes, and strictly observing the ancient November feast in honour of the dead and fairies. The character of the Christian observance developed gradually over four centuries of church influence.
 
