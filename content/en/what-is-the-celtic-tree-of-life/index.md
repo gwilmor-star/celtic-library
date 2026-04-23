@@ -6,7 +6,7 @@ slug: "what-is-the-celtic-tree-of-life"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -43,14 +43,14 @@ Celtic reverence for trees, particularly oaks, is well-documented in classical s
 Celtic tradition preserved concepts of extraordinary trees that transcended ordinary botanical reality. The folklore surrounding Lough Gur describes a mystical tree visible only when the lake's enchantment temporarily lifts, connecting this concept to broader Indo-European traditions of cosmic trees. Such references suggest that while Celts venerated actual trees, they also understood certain trees as bridges between different realms of existence.
 
 ### Survival of Tree Traditions
-Despite centuries of cultural change, remnants of Celtic tree veneration persisted into modern times. Evans-Wentz documented the careful preservation of Merlin's Oak in Carmarthen, where local prophecy held that the town's fate was tied to the tree's survival. The community even planted a new oak beside the dying original, suggesting an unconscious desire to maintain the spiritual connection through ensuring a living tree remained present.
+Despite centuries of cultural change, remnants of Celtic tree veneration persisted into modern times. Evans-Wentz documented the careful preservation of Merlin's Oak in Carmarthen, where local prophecy held that the town's fate was tied to the tree's survival. The original tree was ultimately demolished by Carmarthen Council in 1978 to ease traffic — after which the town famously suffered severe flooding, per the prophecy. Preserved fragments of the original are held at Carmarthenshire County Museum.
 
 ### Modern Symbolic Development
 Contemporary Celtic Tree of Life imagery represents a synthesis of documented ancient practices with modern spiritual needs. While the circular, intertwining design popular today lacks direct ancient precedent, it draws upon authentic Celtic reverence for trees as sacred entities. This modern development reflects broader patterns in Celtic revival movements that seek to reconstruct spiritual practices from fragmentary historical evidence while addressing contemporary spiritual aspirations.
 
 ## Primary Sources
 
-***Natural History*** *(c. AD 79)*
+***Natural History*** (c. AD 77)
 *Pliny the Elder, transl. in: The Celtic Heroic Age*
 > The Druids-as their magicians are called-hold nothing more sacred than this plant [the mistletoe] and the tree on which it grows, as if it grew only on oaks. They choose only groves of oak and perform no rites unless a branch of that tree is present. Thus it seems that Druids are so called from the Greek name of the oak [Greek drus].
 
@@ -58,7 +58,7 @@ Contemporary Celtic Tree of Life imagery represents a synthesis of documented an
 *Maximus Tyrius, referenced in: The Fairy-Faith in Celtic Countries*
 > the image of their chief god, considered by him to correspond to Zeus, was a lofty oak tree
 
-***Geography*** *(c. AD 23)*
+***Geography*** (c. 7 BC – c. AD 23)
 *Strabo, referenced in: The Fairy-Faith in Celtic Countries*
 > the principal place of assembly was in the midst of sacred oak-groves or forests
 
@@ -82,6 +82,6 @@ Contemporary Celtic Tree of Life imagery represents a synthesis of documented an
 
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [2] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Penguin 1951/1971).
+- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Routledge & Kegan Paul, 1951; revised Penguin edition 1971).
 - [4] MacLeod, Sharon Paice, *Celtic Myth and Religion* (McFarland 2012).
 - [5] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).

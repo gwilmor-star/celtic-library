@@ -6,7 +6,7 @@ slug: "what-is-the-story-of-culhwch-and-olwen"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,7 +15,7 @@ Culhwch and Olwen (also spelled Culhwch ac Olwen) is the oldest surviving Arthur
 ## Key Facts
 
 - Culhwch receives his name from being born in a pig-run (hwch means 'pig' in Welsh), though the etymology may also relate to 'slender'.
-- The tale involves forty tasks set by the giant Ysbaddaden Bencawr, though only twenty-one are completed in the surviving version.
+- The tale involves forty tasks set by the giant Ysbaddaden Bencawr, though only a fraction are narratively completed in the surviving version (the text addresses approximately 10–14 tasks in detail, leaving the rest unresolved).
 - Arthur and his warriors, including Cai and Bedwyr, assist Culhwch in accomplishing the tasks.
 - The central quest involves hunting the magical boar Twrch Trwyth to obtain a comb and scissors from between its ears.
 - The story culminates when Goreu son of Custennin kills Ysbaddaden and Culhwch marries Olwen.

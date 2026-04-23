@@ -6,7 +6,7 @@ slug: "what-is-the-otherworld-in-celtic-mythology"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -18,7 +18,7 @@ The Otherworld in Celtic mythology is the supernatural realm inhabited by the Tu
 - The Otherworld bears many names including Tír na nÓg (Land of Youth), Tír na mBéo (Land of the Living), Tír Tairngiri (Land of Promise), and Mag Mell (the Plain Agreeable).
 - This realm is characterized by the absence of sickness, old age, death, and strife, featuring instead eternal peace, harmonious music, and abundant provisions.
 - The Otherworld serves as both a physical location accessible through mounds, hills, or islands, and a parallel dimension that intersects with the mortal world.
-- Celtic heroes and deities like Arthur, Cú Chulainn, and Finn inhabit this realm, possessing consciousness and existence greater than that of mortals.
+- Celtic heroes and deities like Arthur and Cú Chulainn have well-attested connections to this realm, possessing consciousness and existence greater than that of mortals.
 
 ## Q&A Sections
 
@@ -50,7 +50,7 @@ The Otherworld manifests in various physical forms throughout the Celtic landsca
 
 ### Inhabitants and Divine Beings
 
-The Otherworld serves as the dwelling place of the Tuath Dé (Tuatha Dé Danann), Celtic deities, heroes, and spirits. Terms like *ben síde* (woman of the Otherworld) and *fer síde* (man of the Otherworld) designate supernatural beings from this realm. Unlike the shadowy existence often associated with the dead in other mythologies, the inhabitants of the Celtic Otherworld "are always represented as being in the full enjoyment of an existence and consciousness greater than our own". Great heroes like Arthur, Cú Chulainn, and Finn are counted among its "invisible company," maintaining their heroic status in this supernatural realm.
+The Otherworld serves as the dwelling place of the Tuath Dé (Tuatha Dé Danann), Celtic deities, heroes, and spirits. Terms like *ben síde* (woman of the Otherworld) and *fer síde* (man of the Otherworld) designate supernatural beings from this realm. Unlike the shadowy existence often associated with the dead in other mythologies, the inhabitants of the Celtic Otherworld "are always represented as being in the full enjoyment of an existence and consciousness greater than our own". Great heroes like Arthur and Cú Chulainn have well-attested Otherworld connections; Finn mac Cumhaill's presence in the Otherworld's "invisible company" is less clearly attested in early Irish sources and may reflect a later folk tradition rather than the classical mythological texts.
 
 ### Narrative Patterns and Literary Functions
 
@@ -78,7 +78,7 @@ The Otherworld serves important religious and possibly initiatory functions in C
 *transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (2014)*
 > Pwyll agrees to these terms and he is conveyed to Annwfn by Arawn. He spends the year there in Arawn's place, but each night when he goes to bed with Arawn's wife he chastely turns his back to her. At the year's end, he does as he was bidden, and defeats Hafgan in single combat, as a result of which Hafgan's realm is united with Arawn's.
 
-***Book of Taliesin*** *(c. 12th century)*
+***Book of Taliesin*** *(Peniarth MS 2, c. early 14th century, c. 1300–1325; poems possibly older)*
 *transl. in: Haycock, Marged, Legendary Poems from the Book of Taliesin (2007)*
 > Heb heneint, heb heint, heb hiraeth; [...] The Otherworld, like Heaven, is here characterised by what is not there.
 

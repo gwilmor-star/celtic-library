@@ -6,7 +6,7 @@ slug: "what-is-the-difference-between-brythonic-and-goidelic-langua"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -65,7 +65,7 @@ Welsh literature encompasses poetry and prose traditions preserved in manuscript
 *Proinsias Mac Cana (1980)*
 > That is if we include Táin Bó Dartada which is found in two of the MSS. of B. See Thurneysen, Held., 432. Aided Con Rui occurs among the aideda in A, but it is impossible to say which version is intended.
 
-***Coire Sois: The Cauldron of Knowledge*** *(medieval Irish)*
+***Coire Sois: The Cauldron of Knowledge*** *(scholarly essays, 2014)*
 *ed. Tomás Ó Cathasaigh (2014)*
 > The obvious question which arises at this point is whether all the alternative material in L, including the supplementary notes, derives from a single source. In attempting to answer this question we must first of all consider the supplementary notes.
 
@@ -75,13 +75,13 @@ Welsh literature encompasses poetry and prose traditions preserved in manuscript
 
 ## Sources & Further Reading
 
-- [1] Celtic Languages Overview. *Britannica Online Encyclopedia*.
+- [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Jackson, Kenneth H. *Language and History in Early Britain* (Edinburgh University Press, 1953).
 - [3] MacAulay, Donald, ed. *The Celtic Languages* (Cambridge University Press, 1992).
 - [4] Price, Glanville. *The Languages of Britain* (Edward Arnold, 1984).
 - [5] Russell, Paul. *Introduction to the Celtic Languages* (Longman, 1995).
 - [6] Thomson, Derick S. *The Gaelic Sources of Macpherson's 'Ossian'* (Oliver & Boyd, 1952).
-- [7] Celtic Culture and Migration Patterns. *Oxford Reference Online*.
+- [7] Jackson, Kenneth H., *Language and History in Early Britain* (Edinburgh University Press 1953).
 - [8] Schrijver, Peter. *Studies in British Celtic Historical Phonology* (Rodopi, 1995).
 - [9] McCone, Kim. *Towards a Relative Chronology of Ancient and Medieval Celtic Sound Changes* (Maynooth, 1996).
 - [10] Isaac, Graham R. *The Verb in the Book of Aneirin* (Niemeyer, 1996).

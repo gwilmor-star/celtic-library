@@ -6,7 +6,7 @@ slug: "what-is-ogham-writing-and-what-was-it-used-for"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -57,7 +57,7 @@ The timeline of Ogham's decline and its preservation in later manuscripts is not
 ## Sources & Further Reading
 
 - [1] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
-- [3] McManus, Damian, *A Guide to Ogam* (Maynooth Monographs 1991).
+- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
+- [3] McManus, Damian, *A Guide to Ogam*, Maynooth Monographs 4 (An Sagart, Maynooth, 1991).
 - [4] Ziegler, Sabine, *Die Sprache der altirischen Ogam-Inschriften* (Vandenhoeck & Ruprecht 1994).
-- [5] Swift, Catherine, *Ogam Stones and the Earliest Irish Christians* (Maynooth Historical Studies 1997).
+- [5] Swift, Catherine, *Ogam Stones and the Earliest Irish Christians*, Maynooth Monographs Series Minor 2 (NUI Maynooth, 1997).

@@ -6,7 +6,7 @@ slug: "what-is-the-difference-between-gaelic-and-celtic"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -30,7 +30,7 @@ The three Goidelic languages vary from each other about as much as Norse, Swedis
 Celtic languages are recognized as belonging to one of the oldest linguistic stocks of European invaders or inhabitants. They share certain distinctive features, including specific vowel combinations and consonantal changes. The Celtic family encompasses both the Goidelic branch (Irish, Scottish Gaelic, Manx) and the Brythonic branch (Welsh, Breton, Cornish), with the difference between these branches being much greater than variations within each branch.
 
 ### Why is the terminology distinction important?
-The term "Goidelic" is sometimes preferable to "Gaelic" in scholarly contexts to maintain linguistic precision and avoid popular misconceptions. This distinction helps clarify that Gaelic represents only one subset of the Celtic family, not the entirety of Celtic languages. Q-Celtic, which includes Goidelic, also encompasses extinct languages like Celtiberian, making it more extensive than Goidelic alone.
+The term "Goidelic" is sometimes preferable to "Gaelic" in scholarly contexts to maintain linguistic precision and avoid popular misconceptions. This distinction helps clarify that Gaelic represents only one subset of the Celtic family, not the entirety of Celtic languages. Q-Celtic, which includes Goidelic, also traditionally encompasses extinct languages like Celtiberian, though modern linguistics treats Celtiberian as an independent early Celtic branch rather than part of any Q-Celtic subgroup, making it more extensive than Goidelic alone.
 
 ## In-Depth Overview
 ### Linguistic Classification and Terminology
@@ -81,6 +81,6 @@ This linguistic continuum extended beyond mere communication to shared cultural 
 ## Sources & Further Reading
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
-- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Penguin 1951/1971).
+- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Routledge & Kegan Paul, 1951; revised Penguin edition 1971).
 - [4] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [5] Mac Cana, Proinsias, *The Learned Tales of Medieval Ireland* (DIAS 1980).

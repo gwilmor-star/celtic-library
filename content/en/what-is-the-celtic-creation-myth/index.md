@@ -6,7 +6,7 @@ slug: "what-is-the-celtic-creation-myth"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -51,22 +51,22 @@ Celtic mythology shares with other European traditions a belief in fairy-like be
 ## Primary Sources
 
 ***Cath Maige Tuired*** *(traditional)*
-*transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge*
+*discussed in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014) — a 2014 collection of scholarly essays*
 > The story begins with the coming of the Túatha Dé Danann to Ireland, and tells how they made an alliance with the Fomoiri. Núadu was at that time king of the Túatha Dé Danann, but he lost one of his arms in battle, and, being blemished, he had to relinquish the kingship.
 
-***Ancient Irish Manuscript*** *(date unknown)*
+***Ancient Irish Tales — Editorial Introduction*** *(1936)*
 *transl. in: Cross, Tom Peete & Slover, Clark Harris, Ancient Irish Tales*
 > From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation. For the readers of this volume the most significant point lies in the fact that they believed in another world located within natural or artificial mounds or beneath lakes and springs, and inhabited by a race of fairy folk endowed with youth, beauty, and immortality, who issued forth from time to time, married or abducted mortals, and even took part in tribal feuds.
 
-***Pomponius Mela*** *(c. AD 37-50)*
+***Pomponius Mela*** *(c. AD 43–44)*
 *De Situ Orbis 3.2.18-19*
 > They teach, in caves or hidden groves, many things to the nobles in a course of instruction lasting up to twenty years. One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead. Thus they burn or bury articles useful in life with the dead.
 
-***Lucan*** *(AD 39-65)*
+***Lucan*** *(Pharsalia, begun c. AD 61; unfinished at Lucan's death, 65 AD)*
 *Pharsalia*
 > To you alone it is given to know the gods And spirits of the sky, or perhaps not to know at all You dwell in the distant, dark, and hidden groves. You say that shades of the dead do not seek The silent land of Erebus or the pallid kingdom of Dis, But that the same spirit controls the limbs in another realm. Death, if what you say is true, is but the mid-point of a long life.
 
-***Highland Folk Tales*** *(traditional)*
+***Popular Tales of the West Highlands*** *(1860–62)*
 *transl. in: Campbell, J.F., Popular Tales of the West Highlands*
 > It appears likely to me, that some of these tales was invented by the Druids, and told to the people as sermons; and by these tales the people was caused to believe that there was fairies which lived in little conical hills, and that the fairies had the power of being either visible or invisible, as they thought proper, and that they had the power of enchanting people, and of taking them away and make fairies of them.
 
@@ -81,5 +81,5 @@ Celtic mythology shares with other European traditions a belief in fairy-like be
 - [3] Evans-Wentz, W.Y. *The Fairy-Faith in Celtic Countries* (Frowde, 1911).
 - [4] Campbell, J.F. *Popular Tales of the West Highlands* vol. 3 (Edmonston & Douglas, 1860-62).
 - [5] Koch, John T. & Carey, John, eds. *The Celtic Heroic Age* (Celtic Studies Publications, 2003).
-- [6] Pomponius Mela. *De Situ Orbis* 3.2.18-19 (c. AD 37-50).
-- [7] Lucan. *Pharsalia* (AD 39-65).
+- [6] Pomponius Mela. *De Situ Orbis* 3.2 (c. AD 43–44).
+- [7] Lucan. *Pharsalia* (begun c. AD 61; unfinished at Lucan's death, 65 AD).
