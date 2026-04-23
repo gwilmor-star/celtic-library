@@ -6,7 +6,7 @@ slug: "who-is-the-dagda"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -28,7 +28,7 @@ The Dagda played a crucial role as both negotiator and warrior in the conflict a
 
 ### How did the Dagda acquire his magical attributes?
 
-The Dagda possessed two legendary items that defined his power and character. His club was so enormous it had to be dragged on wheels, and it possessed the dual power to kill the living with one end and resurrect the dead with the other. His cauldron of plenty never ran empty and could feed any number of people. These attributes led early modern scholars to compare him with Heracles and the Gaulish deity Sucellus. The magical harp Uaitne also belonged to him, containing bound melodies that would only sound when he called them forth with specific incantations.
+The Dagda possessed two legendary items that defined his power and character. His club was so enormous it had to be dragged on wheels, and it possessed the dual power to kill the living with one end and resurrect the dead with the other. His cauldron of plenty never ran empty and could feed any number of people. These attributes led early modern scholars to compare him with Heracles and the Gaulish deity Sucellus. The magical harp Uaitne (also called Daur Dá Bláo, "Oak of Two Meadows," and Cóir Cetharchair, "Four-Angled Music") also belonged to him, containing bound melodies that would only sound when he called them forth with specific incantations.
 
 ### What was the Dagda's relationship with Óengus Mac Óc?
 
@@ -50,7 +50,7 @@ Despite his divine status, the Dagda was consistently portrayed as physically gr
 
 ### Magical Implements and Powers
 
-The Dagda's supernatural abilities were manifested through specific magical objects that became central to his identity. His club required wheels for transport due to its massive size and possessed the remarkable dual function of dealing death and restoring life. His cauldron of plenty ensured that no one left his hospitality hungry, reflecting his role as a provider deity. The magical harp Uaitne, with its two names Dur-da-bla ("Oak of two greens") and Coir-cetharchuir ("Four-angled music"), contained bound melodies that only responded to the Dagda's summoning calls. When the Fomorians stole this harp, the Dagda's retrieval of it demonstrated his mastery over the three musical strains that defined harper's art: sleep-strain, smile-strain, and wail-strain.
+The Dagda's supernatural abilities were manifested through specific magical objects that became central to his identity. His club required wheels for transport due to its massive size and possessed the remarkable dual function of dealing death and restoring life. His cauldron of plenty ensured that no one left his hospitality hungry, reflecting his role as a provider deity. The magical harp Uaitne, with its two names Daur Dá Bláo ("Oak of Two Meadows") and Cóir Cetharchair ("Four-Angled Music") — these are the harp's names, not the club's, contained bound melodies that only responded to the Dagda's summoning calls. When the Fomorians stole this harp, the Dagda's retrieval of it demonstrated his mastery over the three musical strains that defined harper's art: sleep-strain, smile-strain, and wail-strain.
 
 ### Territorial Associations and Síd Distribution
 
@@ -93,5 +93,5 @@ The Dagda played a central role in the division of the síd (Otherworld mounds) 
 - [3] Stokes, Whitley, transl., "The Second Battle of Moytura," *Revue Celtique* 12 (1891).
 - [4] Bergin, Osborn & Best, Richard Irvine, ed. & transl., "Tochmarc Étaíne," *Ériu* 12 (1938).
 - [5] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
-- [6] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: Cutter 1868).
+- [6] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [7] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).

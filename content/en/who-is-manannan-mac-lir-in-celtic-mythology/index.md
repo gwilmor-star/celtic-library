@@ -6,7 +6,7 @@ slug: "who-is-manannan-mac-lir-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -98,5 +98,5 @@ Manannán's role as a divine father appears prominently in the Mongán cycle, wh
 - [4] Dooley, Ann & Roe, Harry, transl., *Tales of the Elders of Ireland (Acallam na Senórach)* (Oxford University Press 1999).
 - [5] Murphy, Gerard, ed. & transl., *Early Irish Lyrics: Eighth to Twelfth Century* (Oxford: Clarendon Press 1956).
 - [6] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
-- [7] O'Curry, Eugene, transl., *Aided Chloinne Lir (The Fate of the Children of Lir)*, rev. O'Duffy, Richard J. (Gaelic Union 1883).
+- [7] O'Curry, Eugene, transl., *Aided Chloinne Lir (The Fate of the Children of Lir)*, rev. O'Duffy, Richard J. (Society for the Preservation of the Irish Language, Dublin, 1883).
 - [8] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).

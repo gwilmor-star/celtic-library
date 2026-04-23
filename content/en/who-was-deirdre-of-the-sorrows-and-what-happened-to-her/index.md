@@ -6,7 +6,7 @@ slug: "who-was-deirdre-of-the-sorrows-and-what-happened-to-her"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -52,7 +52,7 @@ The tale operates on multiple symbolic levels, from the prophetic vision of the 
 *transl. in: Cross, Tom Peete & Slover, Clark Harris, eds. (1936)*
 > Now it chanced upon a certain day in the time of winter that the foster-father of Deirdre was outside the house, skinning a calf upon the snow, in order to cook it for her, and the blood of the calf lay upon the snow, and she saw a black raven which came down to drink it. "Leborcham," said Deirdre, "that man only will I love, who hath the three colors that I see yonder,—his hair as black as the raven, his cheeks red like the blood, and his body as white as the snow."
 
-***Longas mac nUislenn*** *c. 7th–8th century*
+***Longes mac n-Uislenn*** *c. 7th–8th century*
 *transl. in: Cross, Tom Peete & Slover, Clark Harris, eds. (1936)*
 > of Ulster might see her till the time came when she should sleep with Conchobar: none of mankind was permitted to enter the house where she was reared, save only her foster-father, and her foster-mother; and in addition to these Leborcham, to whom naught could be refused, for she was a woman-satirist.
 

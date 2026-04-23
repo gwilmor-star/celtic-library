@@ -6,7 +6,7 @@ slug: "who-is-the-celtic-god-of-war"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -32,7 +32,7 @@ Celtic war goddesses frequently manifested in bird form, particularly as ravens,
 
 ### What role did warfare play in Celtic divine mythology?
 
-Celtic mythology depicts extensive conflicts among the gods themselves, separate from human battles. The Tuath Dé Danann fought their own wars "in which human beings play no part". These divine conflicts, such as the battles of Maige Tuired, reportedly established the cosmic order and determined which supernatural beings would rule over Ireland. The mythology also features divine battles that served as models for human warriors to emulate.
+Celtic mythology depicts extensive conflicts among the gods themselves, separate from human battles. The Tuath Dé Danann fought their own wars "in which divine beings are the central protagonists, though mortal forces of Ireland also fight alongside them". These divine conflicts, such as the battles of Maige Tuired, reportedly established the cosmic order and determined which supernatural beings would rule over Ireland. The mythology also features divine battles that served as models for human warriors to emulate.
 
 ### How did Celtic warriors honor their war deities?
 
@@ -94,7 +94,7 @@ The preservation and display of enemy heads served multiple purposes beyond simp
 
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [2] O'Rahilly, Cecile, ed. & transl., *Táin Bó Cúailnge Recension 1* (DIAS 1976).
-- [3] Kinsella, Thomas, transl., *The Táin* (Oxford University Press 1969/2002).
+- [3] Kinsella, Thomas, transl., *The Táin* (Dolmen Press 1969; Oxford University Press 1970; OUP paperback 2002).
 - [4] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [5] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [6] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).

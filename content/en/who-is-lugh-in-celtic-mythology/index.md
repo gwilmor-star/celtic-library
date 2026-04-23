@@ -6,7 +6,7 @@ slug: "who-is-lugh-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -36,7 +36,7 @@ Lugh appears as the divine father of Cú Chulainn, the greatest hero of the Ulst
 
 ### How does Lugh relate to his Welsh counterpart Lleu?
 
-The Welsh figure Lleu Llaw Gyffes represents the same deity as Irish Lugh, sharing parallel naming incidents and similar epithets. Both receive epithets emphasizing skill and dexterity—Lugh's samildánach and Lleu's llawgyffes ("skillful hand"). The tales express "variant expressions of an identical conception of Lugh-Lleu as the god of craftsmanship". Continental evidence shows this deity was widely worshipped, with place names like Lugudunum (Lyon, Leiden) preserving the name across Celtic Europe.
+The Welsh figure Lleu Llaw Gyffes represents the same deity as Irish Lugh, sharing parallel naming incidents and similar epithets. Both receive epithets emphasizing skill and dexterity—Lugh's samildánach and Lleu's llawgyffes ("skillful hand"). The tales express "variant expressions of an identical conception of Lugh-Lleu as the god of craftsmanship". Continental evidence shows this deity was widely worshipped, with place names like Lugudunum (Lyon) preserving the name across Celtic Europe.
 
 ## In-Depth Overview
 

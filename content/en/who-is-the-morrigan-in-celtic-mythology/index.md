@@ -6,7 +6,7 @@ slug: "who-is-the-morrigan-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -17,7 +17,7 @@ The Morrigan is a complex war and fate goddess in Irish mythology, appearing bot
 - The Morrigan appears in the Second Battle of Mag Tuired (Cath Maige Tuired), where she makes a union with the Dagda and provides strategic counsel about the Fomorian invasion.
 - She possesses shapeshifting abilities, appearing as an old hag, a crow, or other forms, as demonstrated in her encounters with Cú Chulainn.
 - The name "Morrigan" is sometimes used collectively with Badb and Nemain as a triad of war goddesses who influence battles and warriors.
-- She owns territory called "The Garden of the Morrigan" (Ochtur Netmon), which was given to her by the Dagda.
+- She owns territory called "The Garden of the Morrigan" (Óchtur nEdmainn), which was given to her by the Dagda.
 - After the Second Battle of Mag Tuired, she proclaims the victory "to the royal heights of Ireland and to its fairy hosts and its chief waters and its rivermouths".
 
 ## Q&A Sections
@@ -36,13 +36,13 @@ The Morrigan functions as one of a triad of war goddesses who exercise supernatu
 
 ### What territories and possessions are associated with the Morrigan?
 
-The Morrigan owns specific territories within the mythological landscape of Ireland. Most notably, she possesses "The Garden of the Morrigan" (Ochtur Netmon), which "The Dagda gave that land to the Morrigan, and she lived there". This garden appears to have been the site of violence, as "After a year she killed Ibor Boiclid, son of Garb, in her garden". The location is referenced in the geographical riddles of Tochmarc Emire, where Cú Chulainn describes his journey path as passing "over the Garden of the Morrigan".
+The Morrigan owns specific territories within the mythological landscape of Ireland. Most notably, she possesses "The Garden of the Morrigan" (Óchtur nEdmainn), which "The Dagda gave that land to the Morrigan, and she lived there". This garden appears to have been the site of violence, as "After a year she killed Ibor Boiclid, son of Garb, in her garden". The location is referenced in the geographical riddles of Tochmarc Emire, where Cú Chulainn describes his journey path as passing "over the Garden of the Morrigan".
 
 ## In-Depth Overview
 
 ### Mythological Identity and Names
 
-The Morrigan appears in Irish mythology with several variations of her name and identity. In Cath Maige Tuired, she is specifically identified as "the Morrígan Lamia", while elsewhere she is called simply "the Morrígan daughter of Ernmas". The spelling varies between sources, with some using "Morrigu" and others "Morrigan." She is sometimes treated as an individual goddess and other times as part of a collective identity with Badb and Nemain, where "Badb seems to be a collective term for Neman, Macha, and Morrigu".
+The Morrigan appears in Irish mythology with several variations of her name and identity. In Cath Maige Tuired, she is described in a 9th-century Latin manuscript gloss on the Vulgate (where Lamia glosses Lilith in Isaiah) as a morrígan — the term "Lamia" does not appear in the Cath Maige Tuired text itself, while elsewhere she is called simply "the Morrígan daughter of Ernmas". The spelling varies between sources, with some using "Morrigu" and others "Morrigan." She is sometimes treated as an individual goddess and other times as part of a collective identity with Badb and Nemain, where "the Morrigan (or Morrígna) functions as the collective term, with Badb, Macha, and Nemain as the constituent figures — not the other way around".
 
 ### Role in the Second Battle of Mag Tuired
 
@@ -64,7 +64,7 @@ Her association with corvids and battle-fury connects her to the broader Celtic 
 
 ### Territorial Associations
 
-The Morrigan possesses specific geographical domains within the mythological landscape. Her primary residence is "The Garden of the Morrigan" (Ochtur Netmon), granted to her by the Dagda. This location appears in the ritual geographic riddles of Tochmarc Emire, where it serves as one of the landmarks in Cú Chulainn's journey. The garden's association with violence, through her killing of Ibor Boiclid, reinforces her connection to death and warfare.
+The Morrigan possesses specific geographical domains within the mythological landscape. Her primary residence is "The Garden of the Morrigan" (Óchtur nEdmainn), granted to her by the Dagda. This location appears in the ritual geographic riddles of Tochmarc Emire, where it serves as one of the landmarks in Cú Chulainn's journey. The garden's association with violence, through her killing of Ibor Boiclid, reinforces her connection to death and warfare.
 
 ## Primary Sources
 

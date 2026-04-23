@@ -6,7 +6,7 @@ slug: "who-is-the-goddess-rhiannon"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Rhiannon is a central figure in the Welsh Mabinogi, daughter of Hefaidd Hen, who
 ## Q&A Sections
 
 ### What is the meaning and origin of Rhiannon's name?
-Rhiannon's name indisputably derives from Old Celtic *Rīgantona, meaning "divine queen". This etymology connects her to pre-Christian Celtic mythology and suggests her original status as a goddess figure. The name is cognate with the Irish war-goddess tradition, indicating her importance in the broader Celtic pantheon. Modern popularity of the name from the mid-19th century onwards was reportedly kindled by Charlotte Guest's work, though the provided sources do not confirm the full details of this influence.
+Rhiannon's name derives from Old Celtic *Rīgantona, meaning "divine queen" or "great queen" (the suffix *-on- is augmentative) — both translations appear in Celtic studies scholarship. This etymology connects her to pre-Christian Celtic mythology and suggests her original status as a goddess figure. The name is cognate with the Irish war-goddess tradition, indicating her importance in the broader Celtic pantheon. Modern popularity of the name from the mid-19th century onwards was reportedly kindled by Charlotte Guest's work, though the provided sources do not confirm the full details of this influence.
 
 ### How does Rhiannon first appear in the Mabinogi?
 In the First Branch, Rhiannon appears as a mysterious, unsurpassable horsewoman who rides past Pwyll of Dyfed repeatedly. Despite his best efforts and those of his swiftest riders, no one can catch her until she chooses to stop and speak with Pwyll directly. When finally overtaken by Pwyll himself, she announces her love for him, revealing that she had been seeking him out. This supernatural aspect of her appearance - being uncatchable until she wills it - establishes her otherworldly nature from the beginning.

@@ -6,7 +6,7 @@ slug: "who-is-danu-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -36,7 +36,7 @@ The scarcity of direct narratives about Danu in medieval Irish texts likely refl
 ## In-Depth Overview
 
 ### Divine Genealogy and Cosmic Role
-Danu's position in Celtic mythology is said to be that of an ancestral figure, though the specific details are not confirmed in the available sources. Her mention in connection with Cath Maige Tuired shows reference to "the three Gods of Danu" in the cosmic struggle between the Tuath Dé and the Fomorians. The text indicates these deities provided counsel to Lugh, though it does not confirm Danu's direct participation or name the three gods specifically.
+Danu's position in Celtic mythology is said to be that of an ancestral figure, though the specific details are not confirmed in the available sources. Her mention in connection with Cath Maige Tuired shows reference to "the three Gods of Danu" (Old Irish: *trí dé dána*, literally "three gods of skill/craft" — the craftsmen-gods Goibniu, Luchta, and Credne — though this is rendered as "three gods of Danu" in some English translations) in the cosmic struggle between the Tuath Dé and the Fomorians. The text indicates these deities provided counsel to Lugh, though it does not confirm Danu's direct participation or name the three gods specifically.
 
 ### Linguistic and Cultural Connections
 The goddess's name is reportedly connected to Indo-European patterns of water and river deities, though this linguistic relationship is not established in the provided sources. Cormac's Glossary preserves divine terminology that may illuminate religious concepts, including references to "dea" (goddess) and various divine attributes. The preservation of related names in tribal designations suggests importance to divine genealogy, though the specific connections require further documentation.
@@ -57,7 +57,7 @@ The relative absence of direct narratives about Danu in surviving Irish literatu
 *transl. in: Bromwich, Rachel, University of Wales Press (2006)*
 > Plant Don o Arvon are listed in Bonedd yr Arwyr EWGT 90 (25) = B XVIII, p. 237 (25).
 
-***Legendary Poems from the Book of Taliesin*** *(c. 11th century)*
+***Legendary Poems from the Book of Taliesin*** *(Peniarth MS 2, c. early 14th century; poems possibly older)*
 *transl. in: Haycock, Marged, CMCS Publications (2007)*
 > Don 10.14,10.26
 
@@ -73,4 +73,4 @@ The relative absence of direct narratives about Danu in surviving Irish literatu
 - [1] Stokes, Whitley, transl., *Revue Celtique* 12 (1891).
 - [2] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [3] Haycock, Marged, ed. & transl., *Legendary Poems from the Book of Taliesin* (CMCS Publications 2007).
-- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: Cutter 1868).
+- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).

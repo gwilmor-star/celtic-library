@@ -6,7 +6,7 @@ slug: "who-were-the-major-gods-and-goddesses-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -37,7 +37,7 @@ The druids served as intermediaries between mortals and "the immortal gods," adm
 ## In-Depth Overview
 
 ### The Irish Divine Pantheon
-The medieval Irish sources present a sophisticated pantheon centered on the Tuath Dé, whose name evolution reflects changing religious perspectives. The earliest term "Tuath(a) Dé" meant "Tribe(s) of the gods," but medieval scribes expanded this to "Tuatha Dé Danann" partly to distinguish these pagan deities from the biblical "People of God". Ana or Danann emerges as a maternal figure for the divine triad of "Brian, Iuchar, and Iucharbu, who were accounted gods for their feats of necromancy". The Two Paps mountains in Kerry preserve her memory as landscape features associated with this goddess.
+The medieval Irish sources present a sophisticated pantheon centered on the Tuath Dé, whose name evolution reflects changing religious perspectives. The earliest term "Tuath(a) Dé" meant "Tribe(s) of the gods," but medieval scribes expanded this to "Tuatha Dé Danann" partly to distinguish these pagan deities from the biblical "People of God". Ana or Danann emerges as a maternal figure for the divine triad of "Brian, Iuchar, and Iucharbu, who were accounted gods for their feats of necromancy". The Two Paps of Anu mountains in Kerry preserve the memory of the goddess Anu (also spelled Ana) — note that the Paps are associated with Anu, not Danu; the two names are related but treated as distinct in scholarship as landscape features associated with this goddess.
 
 ### Continental Celtic Divine Hierarchy  
 Caesar's ethnographic account reveals a structured pantheon among the Gauls, with Mercury holding supremacy as patron of commerce, travel, and all arts. The Celtic interpretation of Roman divine equivalents shows sophisticated theological thinking: Apollo governed healing, Minerva taught crafts and skills, Jupiter maintained cosmic order, and Mars controlled warfare. This hierarchy reflects Celtic society's priorities, placing commercial and artistic innovation above pure military might, while maintaining Jupiter's role as cosmic sovereign.
@@ -49,7 +49,7 @@ Celtic druids developed complex teachings about divine nature and human destiny.
 Celtic religious practice emphasized direct communication with divine powers through druidic mediation. The druids administered human sacrifices because they believed "unless for a man's life a man's life is given back, the will of the immortal gods cannot be placated". They also constructed elaborate ritual offerings, creating "a huge figure of straw and wood" filled with "cattle and all manner of wild animals and humans" for burnt offerings. These practices reflected belief in divine beings who demanded reciprocal exchange with mortal society.
 
 ### Divine Intervention in Mortal Affairs
-The gods maintained active presence in Celtic life through miraculous interventions and ongoing relationships with human communities. At Delphi, temple priests reported seeing "the god himself leaping down into his temple" as "young and vigorous, with a beauty far beyond that of mortals" accompanied by "two virgins in armour" from nearby temples. Such divine appearances validated the continuing power relationship between gods and mortals, demonstrating that Celtic deities remained actively engaged with earthly affairs rather than withdrawn to distant realms.
+The gods maintained active presence in Celtic life through miraculous interventions and ongoing relationships with human communities. [Note: the following passage describes the Greek sanctuary at Delphi, reporting appearances of the Greek god Apollo — it is included here as a comparative example of divine manifestation belief, not as Celtic evidence.] At Delphi, temple priests reported seeing "the god himself leaping down into his temple" as "young and vigorous, with a beauty far beyond that of mortals" accompanied by "two virgins in armour."
 
 ## Primary Sources
 
@@ -88,7 +88,7 @@ The gods maintained active presence in Celtic life through miraculous interventi
 ## Sources & Further Reading
 
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
-- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [4] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [5] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
