@@ -6,7 +6,7 @@ slug: "what-does-celtic-pagan-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -37,7 +37,7 @@ Scholars recognize that Celtic pagan traditions survived in various forms, with 
 ## In-Depth Overview
 
 ### Ancient Celtic Religious Foundations
-Celtic paganism represented a sophisticated religious system that flourished across the Celtic world before Christian conversion. The ancient Celts maintained complex spiritual beliefs centered around divine beings who inhabited an otherworld accessible through natural features in the landscape. These supernatural inhabitants were known by various names across different Celtic regions, with Irish tradition preserving them as the Tuath Dé (Tuatha Dé Danann), meaning "Tribes of the Goddess Anu". Archaeological and literary evidence suggests this religious system was highly developed, involving elaborate ritual practices and a learned priestly class.
+Celtic paganism represented a sophisticated religious system that flourished across the Celtic world before Christian conversion. The ancient Celts maintained complex spiritual beliefs centered around divine beings who inhabited an otherworld accessible through natural features in the landscape. These supernatural inhabitants were known by various names across different Celtic regions, with Irish tradition preserving them as the Tuath Dé (Tuatha Dé Danann — conventionally translated "Tribes/People of the Goddess Danu," though "Danu" is unattested in Irish sources; some scholars identify her with the attested goddess Anu/Ana, while others derive *Danann* from Old Irish *dán*, meaning skill). Archaeological and literary evidence suggests this religious system was highly developed, involving elaborate ritual practices and a learned priestly class.
 
 ### The Role of Druids and Sacred Practices
 Druids functioned as the intellectual and spiritual elite of Celtic society, serving multiple roles as "wise men and seers" who acted as "intermediaries between mortals and supernatural beings". Their religious practices centered heavily on natural elements, particularly sacred groves where "most of the famous Druid schools were in the midst of sacred oak-groves or forests". The oak tree held special significance, with druids considering it so sacred that they "perform no sacred rite without leaves from that tree". Ritual practices included ceremonial processions around sacred sites, where participants would "solemnly revolve three times from east to west" in imitation of solar movement.
@@ -61,8 +61,8 @@ The legacy of Celtic paganism persists in what scholars term the "Fairy-Faith," 
 *ed. by Tom Peete Cross & Clark Harris Slover (1936)*
 > From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation. For the readers of this volume the most significant point lies in the fact that they believed in another world located within natural or artificial mounds or beneath lakes and springs, and inhabited by a race of fairy folk endowed with youth, beauty, and immortality, who issued forth from time to time, married or abducted mortals, and even took part in tribal feuds.
 
-***Topographia Hiberniae*** *(c. 1188 AD)*
-*by Giraldus Cambrensis, referenced in Evans-Wentz (1911)*
+***The Fairy-Faith in Celtic Countries*** *(1911)*
+*Evans-Wentz, W.Y. (Frowde 1911) — fieldwork in Brittany*
 > In the Morbihan, Lower Brittany, we seem to see the same folk-custom, somewhat changed to be sure; for on St. John's Day, the christianized pagan sun-festival in honour of the summer solstice, in which fairies and spirits play so prominent a part in all Celtic countries, just outside a country village a great fire is lit in the centre of the main road and covered over with green branches, in order to produce plenty of smoke.
 
 ***Naturalis Historia*** *(c. 77-79 AD)*

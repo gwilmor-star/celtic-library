@@ -6,7 +6,7 @@ slug: "what-celtic-rituals-or-practices-were-used-for-healing"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 

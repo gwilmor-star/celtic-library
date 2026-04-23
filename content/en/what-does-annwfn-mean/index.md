@@ -6,7 +6,7 @@ slug: "what-does-annwfn-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -36,7 +36,7 @@ The swine of Annwfn feature prominently in Welsh tales as magical animals brough
 
 ### What is the connection between Annwfn and Pwyll in the Mabinogi?
 
-Pwyll reportedly gains the title "Lord of Annwfn" through his encounter with Arawn, the king of Annwfn, at Glyn Cuch in Emlyn, though the sources do not confirm this precise sequence of events. This meeting leads to Pwyll's role in the Otherworld and his acquisition of the magical swine from Annwfn. The location of Glyn Cuch, where the river Cuch forms the northern boundary between Pembrokeshire and Carmarthenshire, becomes significant as the site where otherworldly and mortal realms intersect.
+Pwyll reportedly gains the title "Lord of Annwfn" through his encounter with Arawn, the king of Annwfn, at Glyn Cuch in Emlyn, though the sources do not confirm this precise sequence of events. This meeting leads to Pwyll's role in the Otherworld and his acquisition of the magical swine from Annwfn. The location of Glyn Cuch, where the river Cuch forms the boundary between Pembrokeshire and Carmarthenshire, becomes significant as the site where otherworldly and mortal realms intersect.
 
 ## In-Depth Overview
 
@@ -94,4 +94,4 @@ The protective nature of these animals is emphasized in the tale of Drystan son 
 
 - [1] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [2] Haycock, Marged, ed. & transl., *Legendary Poems from the Book of Taliesin* (CMCS Publications 2007).
-- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).

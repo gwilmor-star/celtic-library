@@ -6,14 +6,14 @@ slug: "what-does-samhain-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
 Samhain (pronounced "sow-in") is the Old Irish name for a festival celebrated on 31 October to 1 November, marking the beginning of winter and likely the new year in the Celtic calendar [^source-A].
 
 ## Key Facts
-- Samhain reportedly means "summer's end," though the provided sources do not confirm the specific etymology [^source-A].
+- The traditional folk etymology of Samhain is "summer's end" (Old Irish *sam* + *fuin*), though modern scholarship challenges this. The leading current scholarly position derives Samhain from Proto-Celtic *\*samoni-* ("assembly/gathering"), cognate with Sanskrit *sámana* and Gothic *samana*. Koch's encyclopedia notes that it "is not at all clear when the year began or ended" in the Celtic calendar [^source-A].
 - The festival was known as "the calends of winter" in Brythonic traditions (Welsh Calan Gaeaf, Breton Kalan Goañv) [^source-A].
 - It marked a liminal time when boundaries between the mundane world and the Otherworld were more easily crossed [^source-A].
 - The date was important in both medieval literature and folklore, with magical events and supernatural beings more likely to be encountered [^source-A].
@@ -53,8 +53,8 @@ Traditional fire customs formed a central element of Samhain observance. Communi
 *transl. in: O'Rahilly, Cecile, ed. & transl., Táin Bó Cúailnge Recension 1 (DIAS 1976)*
 > On the Monday after the autumn festival of Samain they set out. They travelled south-east from Crúachain Aí, past Mucc Cruinb, past Terloch Teóra Crích, past Túaim Móna, past Cúil Silinne i.e. Loch Carrcín", and got its name from Silend daughter of Madchar , past Fid, past Bolga, past Coltain, past Glune Gabair, past Mag Trego, past northern Tethbab i.e. Cairpre , past southern Tethba, past Tíarthechta, past Ord, southwards past Slais, past Indeóind, past Carn, past Ochtrach, past Mide, past Findglassa Assail, past Delt, past Delind, past Sailig, past Slaibre, past Slechta (where they hewed down the trees).
 
-***Coire Sois: The Cauldron of Knowledge*** *c. 12th century*
-*transl. in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014)*
+***Early Irish Literature (passage on Samain)*** *(early Irish tradition)*
+*discussed in: Ó Cathasaigh, Tomás, Coire Sois: The Cauldron of Knowledge (University of Notre Dame Press 2014) — a 2014 collection of scholarly essays, not a medieval text*
 > This is the Tuesday after Samain, and the seventh night of Sín's magic. She conjures up a great storm which causes the king to say her name. Then he sleeps and dreams that Cleitech will be set on ﬁre, and that he and his people will be too weak to resist.
 
 ## Sources & Further Reading

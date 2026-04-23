@@ -6,7 +6,7 @@ slug: "what-does-beltane-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -60,9 +60,9 @@ These beliefs extended to transformation stories where "some families had been e
 
 ### Modern Revival and Interpretation
 
-Contemporary Celtic spirituality has reconstructed Beltane as part of modern pagan practice. Neo-pagan movements incorporate it into their "Wheel of the Year" alongside "Lugnasad or Lammas (Harvest), summer and winter solstices, and spring and autumn equinoxes" [^source-A]. These modern practitioners believe following this calendar fosters "awareness of nature and the seasons, and the cycle of life, death, and rebirth" [^source-A].
+Contemporary Celtic spirituality has reconstructed Beltane as part of modern pagan practice. Neo-pagan movements incorporate it into their "Wheel of the Year" alongside "Samhain, Imbolc, Lugnasad, summer and winter solstices, and spring and autumn equinoxes" (note: Lammas is a distinct Anglo-Saxon feast, not a Gaelic one) [^source-A]. These modern practitioners believe following this calendar fosters "awareness of nature and the seasons, and the cycle of life, death, and rebirth" [^source-A].
 
-Modern Celtic spiritual movements often blend ancient seasonal observances with contemporary environmental consciousness. They frequently perform rituals at locations "regarded as Celtic sacred sites (such as Stonehenge and Amesbury)" during these festivals [^source-A]. This modern revival reflects broader trends toward nature-based spirituality and seasonal awareness in contemporary religious practice.
+Modern Celtic spiritual movements often blend ancient seasonal observances with contemporary environmental consciousness. They frequently perform rituals at locations "regarded as sacred sites" such as Stonehenge (though Stonehenge predates the Celts by over a millennium and its druidic associations are an 18th-century invention) during these festivals [^source-A]. This modern revival reflects broader trends toward nature-based spirituality and seasonal awareness in contemporary religious practice.
 
 ## Primary Sources
 

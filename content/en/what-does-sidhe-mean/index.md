@@ -6,7 +6,7 @@ slug: "what-does-sidhe-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -32,7 +32,7 @@ The transformation from geographical term to supernatural designation occurred t
 
 ### What do modern accounts describe about sídhe beings?
 
-Contemporary Irish seers describe the sídhe as "a race of majestic appearance and marvellous beauty, in form human, yet in nature divine". An Irish mystic categorized them into "shining beings" about human stature and "opalescent beings" approximately fourteen feet tall, with the latter holding positions as "great chiefs or princes among the tribes of Dana". These beings are said to inhabit different worlds: "the shining beings belong to the mid-world; while the opalescent beings belong to the heaven-world".
+Contemporary Irish seers describe the sídhe as "a race of majestic appearance and marvellous beauty, in form human, yet in nature divine". Evans-Wentz, writing from a Theosophical perspective, categorized them into "shining beings" of about human stature and "opalescent beings" approximately fourteen feet tall — a classification derived from Theosophical cosmology rather than from the medieval Irish manuscript tradition, and should be read as 20th-century folk belief rather than ancient mythology.
 
 ### How is sídhe pronounced and spelled?
 
@@ -42,7 +42,7 @@ The word is pronounced "shee," as noted in folklore collections that specify the
 
 ### Etymology and Historical Development
 
-The Irish word sídhe reportedly derives from Old Irish síd, said to mean "peace" or "dwelling place," though this etymology is not confirmed in the provided sources. These earthworks served as prominent landscape features throughout Ireland, with many reportedly constructed during the Neolithic period between 3200-2500 BCE, though archaeological dating is not verified in available sources. The linguistic evolution reflects the cultural significance these sites held for successive populations who interpreted them as supernatural locations.
+The Irish word sídhe derives from Old Irish síd, meaning "mound" or "dwelling place." This is a distinct word from Old Irish síth ("peace"), though the two share a Proto-Celtic root and are homonyms in Irish orthography. The "peace" meaning does not apply to sídhe in the sense of fairy mounds. These earthworks served as prominent landscape features throughout Ireland, with many reportedly constructed during the Neolithic period between 3200-2500 BCE, though archaeological dating is not verified in available sources. The linguistic evolution reflects the cultural significance these sites held for successive populations who interpreted them as supernatural locations.
 
 ### Mythological Transformation
 
@@ -74,5 +74,5 @@ Different regions of Ireland developed specific traditions regarding local sídh
 
 - [1] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [2] Dooley, Ann & Roe, Harry, *Tales of the Elders of Ireland* (Oxford University Press 1999).
-- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: Cutter 1868).
+- [3] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [4] Rhys, John, *Celtic Folklore: Welsh and Manx* (Clarendon Press 1901).

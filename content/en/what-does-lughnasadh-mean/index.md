@@ -6,7 +6,7 @@ slug: "what-does-lughnasadh-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -27,7 +27,7 @@ The name Lughnasadh combines two Irish elements: "Lug" (referring to the god Lug
 
 ### Who was Lugh in Celtic mythology?
 
-Lugh (spelled Lug in older Irish sources) was one of the most prominent deities of the Tuatha Dé Danann, the supernatural race that ruled Ireland before the arrival of the Milesians. He was known as "Lug Lamfada" meaning "Lug Long-Arm". In the Second Battle of Mag Tuired, he is called "Samildánach," meaning "skilled in many arts". Lugh's epithet as master of all crafts made him a central figure in Celtic religion, with cities across western Europe named after him, including Lyon, Laon, and Leiden.
+Lugh (spelled Lug in older Irish sources) was one of the most prominent deities of the Tuatha Dé Danann, the supernatural race that ruled Ireland before the arrival of the Milesians. He was known as "Lug Lamfada" meaning "Lug Long-Arm". In the Second Battle of Mag Tuired, he is called "Samildánach," meaning "skilled in many arts". Lugh's epithet as master of all crafts made him a central figure in Celtic religion, with cities across western Europe named after him, including Lyon (Lugdunum, unambiguous) and possibly Laon (attested in Roman sources as Laudunum, with a debated connection to Lugdunum). The identification of Leiden with ancient Lugdunum Batavorum is a Renaissance-era error; ancient Leiden's Roman name was Matilo..
 
 ### When was Lughnasadh celebrated?
 
@@ -47,7 +47,7 @@ Cormac's Glossary, compiled around 900 AD, offers additional detail, describing 
 
 ### The God Lugh in Celtic Tradition
 
-Lugh occupies a central position in the Irish pantheon as a deity associated with skill, craftsmanship, and sovereignty. In the Second Battle of Mag Tuired, he is called "Samildánach," meaning "skilled in many arts", and appears as "Lug Lamfada" or "Lug Long-Arm" in various sources. His importance extended far beyond Ireland, as evidenced by the numerous European cities bearing his name, including Lyon (Lugdunum), Laon, and Leiden, all representing earlier forms of Lugudunum.
+Lugh occupies a central position in the Irish pantheon as a deity associated with skill, craftsmanship, and sovereignty. In the Second Battle of Mag Tuired, he is called "Samildánach," meaning "skilled in many arts", and appears as "Lug Lamfada" or "Lug Long-Arm" in various sources. His importance extended far beyond Ireland, as evidenced by the numerous European cities bearing his name, most clearly Lyon (Lugdunum, unambiguous). Laon is sometimes cited (attested as Laudunum in Roman sources, with a debated Lugdunum connection). The identification of Leiden with Lugdunum Batavorum is a Renaissance-era error; ancient Leiden's Roman name was Matilo.
 
 The Triads of the Island of Britain note that "Caesar (De Bell. Gall. VI, 17) states that the Gauls worship Mercury beyond all other gods, hunt omnium inventorem artium ferunt. Combined with the widespread Gaulish dedications of cities to Lugus, Caesar's account suggests that by Mercury he meant Lugus, the most widely worshipped of all Celtic deities". This widespread veneration suggests that festivals associated with Lugh, including Lughnasadh, may have had parallels across the Celtic world.
 
@@ -63,8 +63,8 @@ The consistent emphasis on commemoration in the etymological sources raises ques
 
 ## Primary Sources
 
-***Cath Maige Tuired (Second Battle of Mag Tuired)*** *c. 9th century (MS 12th century)*
-*transl. in: Cross, Tom Peete & Slover, Clark Harris, eds., Ancient Irish Tales (1936)*
+***Sanas Cormaic (Cormac's Glossary)*** *c. 900 AD*
+*transl. in: O'Donovan, John, transl.; Stokes, Whitley, ed. (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868)*
 > Lugnasad is the nasad of Lug: nasad is an assembly or festival in commemoration or memorial of a death.
 
 ***Cormac's Glossary (Sanas Cormaic)*** *c. 900 AD*
@@ -79,9 +79,9 @@ The consistent emphasis on commemoration in the etymological sources raises ques
 *transl. in: Cross, Tom Peete & Slover, Clark Harris, eds., Ancient Irish Tales (1936)*
 > Lug Lamfada (lóóh ló'ód a). " Lug Long-Arm." A famous chief of the Tuatha De Danann; son of Cian mac Cainte; supernatural father of Cu Chulainn.
 
-***Trioedd Ynys Prydein (Triads of the Island of Britain)*** *c. 13th century*
-*transl. in: Bromwich, Rachel, ed. & transl., Trioedd Ynys Prydein (2006)*
-> Caesar (De Bell. Gall. VI, 17) states that the Gauls worship Mercury beyond all other gods, hunt omnium inventorem artium ferunt. Combined with the widespread Gaulish dedications of cities to Lugus, Caesar's account suggests that by Mercury he meant Lugus, the most widely worshipped of all Celtic deities.
+***De Bello Gallico*** *c. 50 BC*
+*Caesar; with commentary from Bromwich, Rachel, ed. & transl., Trioedd Ynys Prydein (University of Wales Press 2006)*
+> [Caesar VI.17:] The Gauls worship Mercury beyond all other gods [as the inventor of all arts]. Combined with the widespread Gaulish dedications of cities to Lugus, Caesar's account suggests that by Mercury he meant Lugus, the most widely worshipped of all Celtic deities. [Note: this interpretation is Bromwich's scholarly gloss in her Triads edition, not a quote from the Triads themselves.]
 
 ***Trioedd Ynys Prydein (Triads of the Island of Britain)*** *c. 13th century*
 *transl. in: Bromwich, Rachel, ed. & transl., Trioedd Ynys Prydein (2006)*
@@ -97,4 +97,4 @@ The consistent emphasis on commemoration in the etymological sources raises ques
 - [2] Cross, Tom Peete & Slover, Clark Harris, eds., *Ancient Irish Tales* (Holt 1936).
 - [3] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [4] Stokes, Whitley, transl., "Cath Maige Tuired (Second Battle of Mag Tuired)," *Revue Celtique* 12 (1891).
-- [5] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: Cutter 1868).
+- [5] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).

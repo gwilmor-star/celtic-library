@@ -6,7 +6,7 @@ slug: "what-does-imbolc-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Imbolc derives from Old Irish terms that reportedly mean "in the belly" or "in t
 ## Q&A Sections
 
 ### What is the literal meaning of the word Imbolc?
-The word Imbolc is claimed to derive from Old Irish phrases that reportedly translate as "in the belly" or "in the womb," though the provided sources do not confirm these etymological details. This is said to refer to the condition of ewes during late winter, when they would be heavy with lambs, though this agricultural connection is not verified by available sources. Some scholars reportedly also connect it to the word *oimelc*, meaning "ewe's milk," but the sources do not confirm this alternative etymology.
+The word Imbolc has two competing etymologies among scholars. The most widely cited derives it from Old Irish *i mbolg* ("in the belly"), referring to the pregnant state of ewes in late winter. An alternative, attested in Cormac's Glossary (*Sanas Cormaic*, c. 900), derives it from *óimelc* ("ewe's milk"), though this is now generally regarded as a medieval folk etymology rather than the true origin. A third proposal (Vendryes, followed by Hamp) connects it to *imb-folc* ("to wash/cleanse"), suggesting ritual purification. No single etymology commands a clean scholarly consensus.
 
 ### When is Imbolc celebrated and what does this timing represent?
 Imbolc is said to fall on February 1st, reportedly positioned halfway between the winter solstice and spring equinox, though the provided sources do not confirm these timing details. This would make it one of the four cross-quarter days in the Celtic calendar, along with Beltane, Lughnasadh, and Samhain, though this classification is not supported by available sources. The date reportedly represents the first stirrings of spring, though the sources do not confirm this seasonal significance.
@@ -50,12 +50,8 @@ The Christianization of Ireland reportedly brought changes to Imbolc observance,
 
 ## Sources & Further Reading
 
-- [1] Various web sources on Celtic festivals and etymology
-- [2] Various web sources on Celtic calendar and seasonal celebrations  
-- [3] Various web sources on the goddess Brigit and Celtic mythology
-- [4] Various web sources on St. Brigid and Christianization of pagan festivals
-- [5] Various web sources on traditional Imbolc customs and observances
-- [6] Various web sources on Celtic agricultural practices and sheep farming
-- [7] Various web sources on Celtic seasonal cycles and cross-quarter days
-- [8] Various web sources on Celtic fire festivals and sacred flames
-- [9] Various web sources on Kildare monastery and St. Brigid's flame
+- [1] Ó hAodha, Donncha, ed. & transl., *Bethu Brigte* (Dublin Institute for Advanced Studies 1978). — 9th-century Old Irish Life of St Brigit; primary source for the Brigit–Imbolc link.
+- [2] O'Donovan, John, transl.; Stokes, Whitley, ed., *Sanas Cormaic / Cormac's Glossary* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868). — entry for *Óimelc*.
+- [3] Hutton, Ronald, *The Stations of the Sun: A History of the Ritual Year in Britain* (Oxford University Press 1996). — covers Imbolc in the context of the British and Irish ritual year.
+- [4] MacNeill, Máire, *The Festival of Lughnasa* (Oxford University Press 1962). — foundational study of Irish seasonal festivals; comparative framework for Imbolc.
+- [5] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
