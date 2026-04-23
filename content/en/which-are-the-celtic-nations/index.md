@@ -6,7 +6,7 @@ slug: "which-are-the-celtic-nations"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -52,7 +52,7 @@ While reportedly sharing fundamental Celtic characteristics, each nation develop
 *W.Y. Evans-Wentz, Frowde*
 > From the Age of Stone to the civilized era of to-day, the Isle of Man has been, in succession, the home of every known race and people who have flourished in Western Europe; and though subject, in turn, to the Irish Gael and to the Welsh Brython, to Northmen and to Danes, to Scots and to English.
 
-***Ancient Irish Tales*** *(1936)*
+***Ancient Irish Tales — Editorial Introduction*** *(1936)*
 *Cross & Slover, Holt*
 > From the meager evidence at our disposal we infer that the ancient Celts worshipped the sun and natural objects such as trees and waters, but just what gods they adored or what religious rituals they practiced is largely a matter of speculation.
 
@@ -69,14 +69,14 @@ While reportedly sharing fundamental Celtic characteristics, each nation develop
 > We remember that Gruffudd ap Cynan, the founder of Gwynedd's greatness in the twelfth century, came from Ireland, from a Dublin where the Danish settlers were in process of becoming Irishmen, more Irish than the Irish; we remember that both he and his grandson, the poet Hywel ab Owain, had Irish mothers and intimate experience of Irish courts and political life.
 
 ## Sources & Further Reading
-- [1] Celtic League official website and documentation
-- [2] Davies, John, *A History of Wales* (Penguin 2007)
-- [3] Celtic League founding documents (1961)
+- [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
+- [2] Davies, John, *A History of Wales* (revised ed. Penguin 2007; first English ed. Allen Lane 1993)
+- [3] Price, Glanville, ed., *Languages in Britain and Ireland* (Blackwell 2000).
 - [4] Price, Glanville, *The Languages of Britain* (Edward Arnold 1984)
 - [5] MacKillop, James, *A Dictionary of Celtic Mythology* (Oxford University Press 2004)
 - [6] Cunliffe, Barry, *The Celts: A Very Short Introduction* (Oxford University Press 2003)
 - [7] Hindley, Reg, *The Death of the Irish Language* (Routledge 1990)
-- [8] Celtic Congress proceedings and resolutions
+- [8] Jackson, Kenneth H., *Language and History in Early Britain* (Edinburgh University Press 1953).
 - [9] Meek, Donald E., *The Quest for Celtic Christianity* (Handsel Press 2000)
 - [10] Jackson, Kenneth H., *Language and History in Early Britain* (Edinburgh University Press 1953)
 - [11] Crystal, David, *Language Death* (Cambridge University Press 2000)

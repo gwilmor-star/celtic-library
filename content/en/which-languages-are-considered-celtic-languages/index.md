@@ -6,7 +6,7 @@ slug: "which-languages-are-considered-celtic-languages"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -85,9 +85,9 @@ The study of Celtic languages has advanced significantly through modern scholars
 
 - [1] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [2] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
-- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Penguin 1951/1971).
+- [3] Jackson, Kenneth Hurlstone, transl., *A Celtic Miscellany* (Routledge & Kegan Paul, 1951; revised Penguin edition 1971).
 - [4] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [5] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [6] Mac Cana, Proinsias, *The Learned Tales of Medieval Ireland* (DIAS 1980).
 - [7] Dillon, Myles, *Early Irish Literature* (University of Chicago Press 1948).
-- [8] Kinsella, Thomas, transl., *The Táin* (Oxford University Press 1969/2002).
+- [8] Kinsella, Thomas, transl., *The Táin* (Dolmen Press 1969; Oxford University Press 1970; OUP paperback reissue 2002).

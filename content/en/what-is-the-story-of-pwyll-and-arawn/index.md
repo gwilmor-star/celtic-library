@@ -6,7 +6,7 @@ slug: "what-is-the-story-of-pwyll-and-arawn"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -42,7 +42,7 @@ The two kings reunite at the original meeting place in Glyn Cuch, where each exp
 
 ### The Otherworld Setting and Annwfn
 
-Annwfn represents the Celtic Otherworld, derived from Welsh an ('in, inside') + dwfn ('world'). In this tale, rather than being a distant island or underground realm, Annwfn appears as a territory within or adjacent to Pwyll's realm of Dyfed. Arawn rules this supernatural kingdom with all the trappings of earthly monarchy—a court, retinue, and wife. The Otherworld court displays remarkable splendour, with "the most beautifully adorned buildings that anyone had seen" and attendants who serve with perfect protocol.
+Annwfn represents the Celtic Otherworld, derived from Welsh an- (either an intensifying prefix giving 'very deep/the abyss,' or a privative prefix giving 'not-world') combined with dwfn ('deep' or 'world'). In this tale, rather than being a distant island or underground realm, Annwfn appears as a territory within or adjacent to Pwyll's realm of Dyfed. Arawn rules this supernatural kingdom with all the trappings of earthly monarchy—a court, retinue, and wife. The Otherworld court displays remarkable splendour, with "the most beautifully adorned buildings that anyone had seen" and attendants who serve with perfect protocol.
 
 ### The Combat with Hafgan
 

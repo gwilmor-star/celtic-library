@@ -6,7 +6,7 @@ slug: "what-mythical-creatures-such-as-unicorns-or-dragons-appear-i"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -17,13 +17,13 @@ Celtic folklore features a rich array of mythical creatures ranging from shape-s
 - Celtic mythical creatures include water-bulls and water-horses known across Scotland and the Isle of Man, with progeny identifiable by their short ears.
 - The Boobrie, a gigantic bird-like creature with webbed feet, inhabits the freshwater and sea lochs of Argyllshire, gobbling up sheep and cows.
 - Welsh fairy classifications include five main types: Ellyllon (elves), Coblynau (mine fairies), Bwbachod (household fairies), Gwragedd Annwn (lake spirits), and Gwyllion (mountain fairies).
-- Celtic folklore preserves mythical lions called "Cu Seang," possibly derived from the Sanskrit word "Sing" meaning lion.
+- Celtic folklore occasionally preserves references to lions as exotic or mythical beasts, reflecting contact with wider European storytelling traditions.
 - Ravens, cats, foxes, otters, wolves, and bears all appear in mythical characters throughout Highland tales, often as transformed beings or divine messengers.
 
 ## Q&A Sections
 
 ### What types of water spirits appear in Celtic mythology?
-Celtic waters are inhabited by various supernatural beings, including water-bulls and water-horses found throughout Scotland and the Isle of Man. The Gwragedd Annwn represent Welsh lake and stream fairies. Breton traditions include Morgans, described as water-spirits who steal mortal children. These aquatic creatures often possess the ability to shape-shift and interact with humans, sometimes producing hybrid offspring recognizable by distinctive physical features.
+Celtic waters are inhabited by various supernatural beings, including water-bulls and water-horses found throughout Scotland and the Isle of Man. The Gwragedd Annwn represent Welsh lake and stream fairies. Breton traditions include Korrigans, described as supernatural beings who steal mortal children, and Morgans (Mari-Morgans), sea-dwelling water-spirits who lure mortals — particularly sailors — to their deaths. These aquatic creatures often possess the ability to shape-shift and interact with humans, sometimes producing hybrid offspring recognizable by distinctive physical features.
 
 ### Which birds hold mythical significance in Celtic folklore?
 Birds serve as important supernatural figures in Celtic tradition, particularly as soothsayers and divine messengers. Ravens appear as Odin-like messengers, while birds of prey including ravens, hoodies, and falcons frequently bring aid to mortals. The Badb, a Celtic war goddess, appears as a prophetic bird-woman, sometimes standing on one foot with one eye closed in a bird's posture while uttering prophecies. The massive Boobrie of Argyllshire represents a more threatening avian presence, described as gigantic and ravenous.
@@ -86,12 +86,13 @@ Breton tradition creates parallel distinctions between different supernatural ca
 *transl. in: Campbell, J.F., Edmonston & Douglas*
 > The serpent, then, would seem to be an emblem of evil and wisdom in Celtic popular mythology. There is something mysterious about rushes. The fairies are found in a bush of rushes; the great caldron of the Feen is hid under a bush of rushes; and in a great many other instances TOM LUACHARACH appears.
 
-***Welsh Folk-Lore*** *(c. 1896)*
+***British Goblins*** *(1880)*
 *transl. in: Owen, Elias, Oswestry*
 > The fairies of Wales may be divided into five classes, if analogy be not too sharply insisted on. Thus we have, I. The Ellyllon, or elves; 2. The Coblynau, or mine fairies; 3. The Bwbachod, or household fairies; 4. The Gwragedd Annwn, or fairies of the lakes and streams; and 5. The Gwyllion, or mountain fairies. The modern Welsh name for fairies is y Tylwyth Teg, the fair folk or family.
 
 ## Sources & Further Reading
 
 - [1] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
-- [2] Owen, Elias, *Welsh Folk-Lore* (Oswestry 1896).
+- [2] Sikes, Wirt, *British Goblins: Welsh Folk Lore, Fairy Mythology, Legends and Traditions* (Sampson Low, London, 1880).
+- [4] Owen, Elias, *Welsh Folk-Lore* (Woodall, Minshall & Co., Oswestry 1896).
 - [3] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).

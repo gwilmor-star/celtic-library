@@ -6,7 +6,7 @@ slug: "what-primary-sources-of-celtic-myth-can-i-read-online"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -105,6 +105,6 @@ The medieval Irish learned tradition reveals additional complexity in how mythol
 - [3] Murphy, Gerard, *Early Irish Lyrics: Eighth to Twelfth Century* (Oxford: Clarendon Press 1956).
 - [4] Bromwich, Rachel, *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [5] Campbell, J.F., *Popular Tales of the West Highlands vol. 4* (Edmonston & Douglas 1860–62).
-- [6] Mackay Wilson, et al., *More West Highland Tales* (Oliver & Boyd 1940).
+- [6] McKay, John G., ed., *More West Highland Tales* (Oliver & Boyd 1940).
 - [7] Mac Cana, Proinsias, *The Learned Tales of Medieval Ireland* (DIAS 1980).
 - [8] Meyer, Kuno, *Voyage of Bran* (Nutt 1895).

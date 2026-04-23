@@ -6,7 +6,7 @@ slug: "who-is-cernunnos"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -42,7 +42,7 @@ While the specific religious practices associated with Cernunnos remain largely 
 
 ### Archaeological Evidence and Geographic Distribution
 
-The archaeological record for Cernunnos spans from Gaul to Britain, indicating a widespread but not necessarily uniform cult [^source-A]. The Gundestrup cauldron, discovered in Denmark but of probable Gaulish manufacture, represents the most elaborate artistic treatment of the horned god motif [^source-A]. The Parisian monument provides the crucial textual evidence, as it explicitly names the deity in a Roman-period Gaulish context [^source-A]. British examples, including the Cirencester relief and Hampshire coin, demonstrate the transmission of this iconographic tradition across the Channel [^source-A].
+The archaeological record for Cernunnos spans from Gaul to Britain, indicating a widespread but not necessarily uniform cult [^source-A]. The Gundestrup cauldron, discovered in Denmark but of debated origin — Thracian or south-eastern European manufacture on Celtic commission is a leading hypothesis, though Gaulish origin is also argued, represents the most elaborate artistic treatment of the horned god motif [^source-A]. The Parisian monument provides the crucial textual evidence, as it explicitly names the deity in a Roman-period Gaulish context [^source-A]. British examples, including the Cirencester relief and Hampshire coin, demonstrate the transmission of this iconographic tradition across the Channel [^source-A].
 
 ### Iconographic Analysis and Symbolism
 

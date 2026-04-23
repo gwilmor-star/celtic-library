@@ -6,7 +6,7 @@ slug: "what-roles-did-druids-filid-and-bards-have-in-ancient-celtic"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -96,4 +96,5 @@ Celtic learned professionals maintained important religious and mystical roles b
 - [6] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
 - [7] Campbell, J.F., *Popular Tales of the West Highlands* vol. 3-4 (Edmonston & Douglas 1860–62).
 - [8] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
-- [9] Meyer, Kuno & Gwynn, Edward J., *Voyage of Bran; Metrical Dindshenchas* (Nutt 1895 / RIA 1903–24).
+- [9] Meyer, Kuno, ed. & transl., *The Voyage of Bran Son of Febal to the Land of the Living*, 2 vols. (David Nutt 1895–97).
+- [10] Gwynn, Edward J., ed. & transl., *The Metrical Dindshenchas*, 5 vols. (Royal Irish Academy, 1903–1935).

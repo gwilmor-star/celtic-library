@@ -6,7 +6,7 @@ slug: "who-is-cu-chulainn-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Cú Chulainn (also spelled Cuchulainn) is the legendary hero of the Ulster Cycle
 ## Q&A Sections
 
 ### What were Cú Chulainn's supernatural abilities and characteristics?
-Cú Chulainn possessed extraordinary physical features and abilities that marked him as a hero beyond ordinary mortals. He had seven pupils in his eyes—four in one eye and three in the other—along with seven fingers on each hand and seven toes on each foot. His many gifts included prudence, feats of arms, chess-playing, calculating, soothsaying, discernment, and beauty. The women of Ulster loved him greatly for his dexterity, nimbleness, wisdom, sweet speech, and beautiful appearance.
+Cú Chulainn possessed extraordinary physical features and abilities that marked him as a hero beyond ordinary mortals. He had seven pupils in his eyes — four in one eye and three in the other, per Cross & Slover's translation (other editions, including Kinsella's, give seven pupils in each eye)—along with seven fingers on each hand and seven toes on each foot. His many gifts included prudence, feats of arms, chess-playing, calculating, soothsaying, discernment, and beauty. The women of Ulster loved him greatly for his dexterity, nimbleness, wisdom, sweet speech, and beautiful appearance.
 
 ### How did Cú Chulainn defend Ulster single-handedly?
 During the Cattle Raid of Cooley (Táin Bó Cúailnge), Cú Chulainn defended Ulster alone while the other warriors were afflicted by a debilitating curse. The asymmetrical nature of this conflict required his single-handed defense against the invading Connacht forces. He engaged in numerous single combats at fords, preventing the army from taking the cattle away, and remained an obstacle even when the invaders captured the bull and took it into their encampment.

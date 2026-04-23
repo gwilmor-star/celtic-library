@@ -6,7 +6,7 @@ slug: "what-is-the-story-of-tain-bo-cuailnge-the-cattle-raid-of-cool"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -88,5 +88,6 @@ The epic reflects early Irish social structures through its detailed attention t
 
 - [1] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [2] Gwynn, Edward J., transl., *Metrical Dindshenchas* (Royal Irish Academy 1903–24).
-- [3] Meyer, Kuno, transl., *Voyage of Bran* (Nutt 1895).
-- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (Cutter 1868).
+- [3] Meyer, Kuno, ed. & transl., *The Voyage of Bran Son of Febal to the Land of the Living*, 2 vols. (David Nutt 1895–97).
+- [4b] Gwynn, Edward J., ed. & transl., *The Metrical Dindshenchas*, 5 vols. (Royal Irish Academy, Todd Lecture Series, 1903–1935).
+- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary (Sanas Cormaic)* (O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).

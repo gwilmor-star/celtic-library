@@ -6,7 +6,7 @@ slug: "who-is-brigid-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -28,7 +28,7 @@ Brigit held dominion over multiple interconnected spheres of Celtic life. Accord
 
 ### How does Brigit appear in the mythological narrative Cath Maige Tuired?
 
-In the Second Battle of Mag Tuired, Brigit appears as a mediating figure between opposing supernatural forces. She was "the wife of the Fomorian king, Bres" despite belonging to the Tuath Dé, creating a crucial alliance between the divine tribes. Their union produced a son named Ruadán, who was killed attempting to murder the divine smith Goibniu. Significantly, "Bríg's lament over her dead son is reported to be the first keening heard in Ireland," establishing her as the originator of this distinctive Irish mourning practice.
+In the Second Battle of Mag Tuired, Brigit appears as a mediating figure between opposing supernatural forces. She was the wife of Bres — son of a Fomorian father and a Tuath Dé mother, who became king of the Tuatha Dé Danann before later allying with the Fomoire — despite Brigit herself belonging to the Tuath Dé, creating a crucial alliance between the divine tribes. Their union produced a son named Ruadán, who was killed attempting to murder the divine smith Goibniu. Significantly, "Bríg's lament over her dead son is reported to be the first keening heard in Ireland," establishing her as the originator of this distinctive Irish mourning practice.
 
 ### What is the relationship between the goddess Brigit and Saint Brigid?
 
@@ -99,4 +99,4 @@ The sacred geography of Kildare further demonstrates this continuity, with "beau
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Ó hAodha, Donncha, ed. & transl., *Bethu Brigte* (Dublin Institute for Advanced Studies 1978).
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: Cutter 1868).
+- [4] O'Donovan, John, transl.; Stokes, Whitley, ed., *Cormac's Glossary* (Calcutta: O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
