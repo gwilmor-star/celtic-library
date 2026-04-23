@@ -6,7 +6,7 @@ slug: "why-is-lughnasadh-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 

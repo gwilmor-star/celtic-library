@@ -6,7 +6,7 @@ slug: "why-is-beltane-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -84,5 +84,5 @@ This modern revival spans multiple spiritual movements, including "neo-pagan, Ne
 
 - [1] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).
 - [2] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [3] Nagy, Joseph Falaky, *Fenian Heroes and Their Rites of Passage* (University of California Press 1986).
+- [3] Nagy, Joseph Falaky, *The Wisdom of the Outlaw: The Boyhood Deeds of Finn in Gaelic Narrative Tradition* (University of California Press 1985).
 - [4] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).

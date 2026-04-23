@@ -6,7 +6,7 @@ slug: "why-is-samhain-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -17,8 +17,8 @@ Samhain (also spelled Samain) represents the most significant festival in the Ce
 - Samhain was celebrated on 31 October to 1 November and marked the beginning of winter, known as "the calends of winter" in Brythonic tradition.
 - The festival represented a transitional period between years or seasons when boundaries between the mundane world and the Otherworld were more likely to be crossed.
 - Magical events and supernatural beings were more likely to be encountered on Samhain, with the dead, fairies, and witches all abroad during this time.
-- Men of Ulster held festival for three days before Samhain, three days after, and on Samhain itself, engaging in sports, marketings, splendors, pomps, feasting and eating.
-- Samhain was the great Celtic feast of the dead when offerings or sacrifice were made to ancestral spirits and to the Tuatha Dé Danann.
+- Men of Ulster held festival for three days before Samhain, three days after, and on Samhain itself, engaging in "sports, marketings, splendors, pomps, feasting and eating" (from Serglige Con Culainn, as translated by A.H. Leahy, Heroic Romances of Ireland, 1905–06).
+- Samhain was associated with the dead and the supernatural, with later tradition describing it as a time when ancestral spirits and the Tuatha Dé Danann were active — though the "great feast of the dead" framing is primarily a Victorian scholarly construct, and the Tuatha Dé are actors within Samhain narratives rather than recipients of propitiation.
 
 ## Q&A Sections
 

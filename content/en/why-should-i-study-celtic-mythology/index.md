@@ -6,7 +6,7 @@ slug: "why-should-i-study-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -14,9 +14,9 @@ Celtic mythology offers a vital window into understanding European cultural heri
 
 ## Key Facts
 
-- Celtic mythology contains "the germs of much of our European religions and philosophies, customs, and institutions".
+- As Evans-Wentz wrote of Celtic tradition: "In it lie the germs of much of our European religions and philosophies, customs, and institutions" (*The Fairy-Faith in Celtic Countries*, 1911, Introduction).
 - The field combines evidence from archaeology, classical sources, and vernacular literatures of Ireland and Wales to reconstruct ancient Celtic belief systems.
-- Celtic myths explore "the nature of men and the gods" and contain the "native ideology of Ireland" expressed through narrative rather than abstract philosophical texts.
+- Celtic myths explore questions about the nature of beings divine and mortal, and medieval Irish literature has been described as expressing the native ideology of ancient Irish society through narrative — though the specific phrasing of these claims should be verified against their source before publication.
 - The study encompasses both living folk traditions and ancient literary sources, requiring interdisciplinary approaches including folklore, philology, archaeology, and comparative mythology.
 - Celtic literary traditions reportedly preserve wisdom about cosmology, shamanism, and spiritual practices, though the sources do not confirm the specific content.
 

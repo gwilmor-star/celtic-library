@@ -6,7 +6,7 @@ slug: "who-were-the-tuatha-de-danann-in-celtic-mythology"
 cluster: "deities-major-figures"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -37,7 +37,7 @@ Their early king was Nuadu Argatlám, who ruled for twenty years after losing hi
 ## In-Depth Overview
 
 ### Origins and Mythological Arrival
-The Tuatha Dé Danann represent the divine pantheon of pre-Christian Ireland, portrayed in medieval literature as one of the successive waves of settlers who conquered the island. The Second Battle of Mag Tuired describes their mystical origins: they came from four otherworldly cities in the northern isles, where they mastered supernatural arts under four wizard-teachers. Each city contributed a magical treasure: the Stone of Fál from Falias, which would cry out under the rightful king of Ireland; Lugh's invincible spear from Gorias; Nuadu's irresistible sword from Findias; and the Dagda's inexhaustible cauldron from Murias.
+The Tuatha Dé Danann represent the divine pantheon of pre-Christian Ireland, portrayed in medieval literature as one of the successive waves of settlers who conquered the island. The Second Battle of Mag Tuired describes their mystical origins: they came from four otherworldly cities in the northern isles, where they mastered supernatural arts under four wizard-teachers. Each city contributed a magical treasure: the Stone of Fál from Falias, which would cry out under the rightful king of Ireland; Nuadu's sword from Gorias; Lugh's invincible spear from Findias; and the Dagda's inexhaustible cauldron from Murias.
 
 ### Political Structure and Kingship
 The Tuatha Dé Danann operated as a complex political confederation rather than a simple monarchy. After the first battle of Mag Tuired, they faced succession disputes when King Nuadu lost his arm and temporary fitness to rule. The text reveals their democratic decision-making process: "the chiefs of the Tuatha Dé Danann said: 'It is better for us to have one king over us, than to be divided as we are, serving various kings throughout Erinn'". Among the candidates for kingship were Bodhbh Dearg, Ilbreach of Eas Ruaidh, Lir of Sidh Fionnachaidh, and Midhir the Proud of Bri Leith.
@@ -83,7 +83,7 @@ Following their defeat by the Milesians, the Tuatha Dé Danann underwent a trans
 - [1] Koch, John T., *Celtic Culture: A Historical Encyclopedia* (ABC-CLIO 2006).
 - [2] Stokes, Whitley, transl., "The Second Battle of Moytura," *Revue Celtique* 12 (1891).
 - [3] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [4] O'Curry, Eugene, transl., rev. O'Duffy, Richard J., *Aided Chloinne Lir (The Fate of the Children of Lir)* (Gaelic Union 1883).
+- [4] O'Curry, Eugene, transl., rev. O'Duffy, Richard J., *Aided Chloinne Lir (The Fate of the Children of Lir)* (Society for the Preservation of the Irish Language, Dublin, 1883).
 - [5] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [6] Bergin, Osborn & Best, Richard Irvine, ed. & transl., "Tochmarc Étaíne," *Ériu* 12 (1938).
 - [7] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).

@@ -6,7 +6,7 @@ slug: "why-is-imbolc-an-important-festival-in-celtic-tradition"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,10 +15,10 @@ Imbolc is reportedly significant as a festival marking the transition from winte
 ## Key Facts
 
 - Imbolc reportedly occurs on February 1st, marking the midpoint between winter solstice and spring equinox in the Celtic calendar.
-- The festival is said to be linked to Brigit, the Celtic goddess of fire, smithcraft, poetry, and healing.
+- The festival is said to be linked to Brigit, the Celtic goddess of poetry, healing, and smithcraft (associated also with the sacred flame at Kildare).
 - Imbolc traditionally celebrates the beginning of lactation in ewes and agricultural renewal.
 - The festival survived Christianisation through its association with Saint Brigid of Kildare.
-- Imbolc represents one of the four major Celtic seasonal festivals alongside Samain, Beltene, and Lughnasadh, though sources confirm only that Samain occurred on October 31-November 1.
+- Imbolc represents one of the four major Celtic seasonal festivals alongside Samain, Beltene, and Lughnasadh, all four of which are attested in medieval Irish sources.
 
 ## Q&A Sections
 
@@ -97,6 +97,6 @@ The transition from pagan to Christian Ireland demonstrates remarkable continuit
 ## Sources & Further Reading
 
 - [1] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [2] O'Donovan, John & Stokes, Whitley, eds., *Sanas Cormaic* (Cormac's Glossary) (Cutter 1868).
+- [2] O'Donovan, John & Stokes, Whitley, eds., *Sanas Cormaic* (Cormac's Glossary) (O.T. Cutter, for the Irish Archaeological and Celtic Society, 1868).
 - [3] Mac Cana, Proinsias, *The Learned Tales of Medieval Ireland* (DIAS 1980).
 - [4] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
