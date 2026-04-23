@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 lang: en
 title: "What is the story of Táin Bó Cúailnge (the Cattle Raid of Cooley)?"
-slug: "what-is-the-story-of-t-in-b-c-ailnge-the-cattle-raid-of-cool"
+slug: "what-is-the-story-of-tain-bo-cuailnge-the-cattle-raid-of-cool"
 cluster: "mythic-cosmology-concepts"
 type: "entity-page"
 datePublished: "2026-04-22"

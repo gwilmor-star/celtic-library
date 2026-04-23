@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 lang: en
 title: "What does sídhe mean?"
-slug: "what-does-s-dhe-mean"
+slug: "what-does-sidhe-mean"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
