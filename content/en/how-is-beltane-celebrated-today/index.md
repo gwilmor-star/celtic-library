@@ -6,7 +6,7 @@ slug: "how-is-beltane-celebrated-today"
 cluster: "symbols-material-culture"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -15,7 +15,7 @@ Beltane today is celebrated through neo-pagan, druidic, and New Age spiritual pr
 ## Key Facts
 
 - Modern Beltane celebrations are part of a reconstructed "Celtic calendar" observed by neo-pagans, New Age practitioners, and contemporary druidic groups [^source-A].
-- Rituals are frequently performed at sites regarded as Celtic sacred places, such as Stonehenge and Amesbury [^source-A].
+- Rituals are frequently performed at sites regarded as sacred by modern practitioners, most notably Stonehenge (which lies within the parish of Amesbury) [^source-A]. It should be noted that Stonehenge predates the Celts by over a millennium — it was built c. 3000–1500 BCE — and its association with druids and Celtic tradition was an invention of 17th–18th century antiquarians.
 - Contemporary practitioners view following the Wheel of the Year as fostering awareness of nature, seasons, and the cycle of life, death, and rebirth [^source-A].
 - Reincarnation is widely regarded as a Celtic belief among modern neo-pagan, New Age, druidic, and some Celtic Christian circles [^source-A].
 - The celebration represents both "revived" and invented customs related to the ancient Celtic festival calendar [^source-A].
@@ -24,11 +24,11 @@ Beltane today is celebrated through neo-pagan, druidic, and New Age spiritual pr
 
 ### What is the modern "Wheel of the Year" and how does it include Beltane?
 
-Contemporary Celtic spiritual practitioners follow what they call the "Wheel of the Year," which includes eight major festivals: Samain (Halloween), Beltaine (May Day), Lugnasad or Lammas (Harvest), summer and winter solstices, and spring and autumn equinoxes [^source-A]. Modern practitioners believe the Celtic year started on 1 November, and customs have been both "revived" and invented in relation to this reconstructed calendar [^source-A]. This framework provides the foundation for modern Beltane celebrations.
+Contemporary Celtic spiritual practitioners follow what they call the "Wheel of the Year," which includes eight festivals: Samain (Halloween), Imbolc (early February), Beltaine (May Day), Lugnasad (early August), the summer and winter solstices, and the spring and autumn equinoxes [^source-A]. Note that Lammas (Old English *hlafmaesse*, "loaf mass") is a distinct Anglo-Saxon Christian harvest festival that coincides in date with Lughnasadh but has separate origins. Modern practitioners typically hold that the Celtic year began at Samhain (around 1 November), and customs have been both "revived" and invented in relation to this reconstructed calendar [^source-A]. This "new year" framing is contested in current scholarship: the evidence is inconclusive, and it is possible that ancient Celtic peoples did not conceive of a distinct "beginning of the year" at all, experiencing time instead as a continuous cycle of phases rather than a linear sequence with a fixed starting point. This framework provides the foundation for modern Beltane celebrations.
 
 ### Where do contemporary Beltane celebrations take place?
 
-Modern Beltane rituals are frequently performed at sites regarded as Celtic sacred places, including Stonehenge and Amesbury [^source-A]. These ancient locations are chosen because contemporary practitioners view them as spiritually significant sites connected to Celtic heritage and tradition.
+Modern Beltane rituals are frequently performed at sites regarded as sacred by contemporary practitioners, most prominently Stonehenge [^source-A]. These locations are chosen because practitioners view them as spiritually significant and connected to Celtic heritage — though Stonehenge itself predates any Celtic presence in Britain and its druidic associations derive from early modern antiquarianism rather than ancient practice.
 
 ### What spiritual beliefs underpin modern Beltane celebrations?
 
@@ -46,7 +46,7 @@ Contemporary Beltane celebration has been significantly shaped by modern neo-pag
 
 ### Sacred Site Observances
 
-Modern practitioners frequently choose ancient sites believed to have Celtic significance for their Beltane rituals, including well-known locations like Stonehenge and Amesbury [^source-A]. These gatherings reflect a contemporary desire to connect with perceived ancestral traditions through the physical landscape of ancient Britain and Ireland.
+Modern practitioners frequently choose sites believed to have Celtic significance for their Beltane rituals, most prominently Stonehenge [^source-A]. These gatherings reflect a contemporary desire to connect with perceived ancestral traditions through the physical landscape of ancient Britain and Ireland.
 
 ### Spiritual Philosophy and Seasonal Awareness
 

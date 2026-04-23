@@ -6,7 +6,7 @@ slug: "are-irish-and-scottish-mythologies-the-same"
 cluster: "peoples-languages-geography"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -36,7 +36,7 @@ Geographical separation allowed distinct regional developments in both mythologi
 
 ### How did religious authorities view these mythological traditions?
 
-Religious instructors in both countries opposed traditional storytelling, seeing it as competition with Christian teaching. Bishop Carswell complained in 1567 about those who spent time "concerning Tuath de dannan, Fionn MacCumhail and his heroes, rather than write and teach and maintain the faithful words of God". This religious opposition was consistent across both Irish and Scottish contexts, indicating the powerful hold these mythologies maintained over Celtic populations.
+Religious instructors in both countries opposed traditional storytelling, seeing it as competition with Christian teaching. John Carswell (Séon Carsuel), Superintendent of Argyll and Bishop of the Isles, complained in 1567 about those who spent time "concerning Tuath de dannan, Fionn MacCumhail and his heroes, rather than write and teach and maintain the faithful words of God". This religious opposition was consistent across both Irish and Scottish contexts, indicating the powerful hold these mythologies maintained over Celtic populations.
 
 ## In-Depth Overview
 
@@ -97,5 +97,5 @@ Both Irish and Scottish communities preserved their mythological traditions thro
 - [3] Campbell, J.F., *Popular Tales of the West Highlands* (Edmonston & Douglas 1860–62).
 - [4] Murphy, Gerard, ed. & transl., *Early Irish Lyrics: Eighth to Twelfth Century* (Oxford: Clarendon Press 1956).
 - [5] Yeats, W.B., ed., *Fairy and Folk Tales of the Irish Peasantry* (Scott 1888).
-- [6] Dillon, Myles, *Lebor Gabála Érenn* study (DIAS 1956).
+- [6] Macalister, R.A. Stewart, ed. & transl., *Lebor Gabála Érenn*, 5 vols. (Irish Texts Society, 1938–1956).
 - [7] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).

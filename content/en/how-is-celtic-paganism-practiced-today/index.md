@@ -6,7 +6,7 @@ slug: "how-is-celtic-paganism-practiced-today"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -74,7 +74,7 @@ The movement demonstrates what Evans-Wentz identified as evidence that "the Fair
 *transl. in: The Celtic Heroic Age*
 > In particular they (the Druids) wish to inculcate this idea, that souls do not die, but pass from one body to another. The Gauls declare that they have all sprung from their father Dis (or Pluto), and this they say was delivered to them by the Druids.
 
-***Pharsalia*** *(c. 65 AD)*
+***Pharsalia*** *(begun c. 61 AD; unfinished at Lucan's death, 65 AD)*
 *transl. in: The Celtic Heroic Age*
 > If you know what you sing, death is the centre of a long life. Happy the folk upon whom the Bear looks down, happy in this error, whom of fears the greatest moves not, the dread of death. Hence their warrior's heart hurls them against the steel, hence their ready welcome of death, and the thought that it were a coward's part to grudge a life sure of its return.
 
@@ -82,12 +82,12 @@ The movement demonstrates what Evans-Wentz identified as evidence that "the Fair
 *transl. in: The Celtic Heroic Age*
 > The Druids-as their magicians are called-hold nothing more sacred than this plant [the mistletoe] and the tree on which it grows, as if it grew only on oaks. They choose only groves of oak and perform no rites unless a branch of that tree is present. Thus it seems that Druids are so called from the Greek name of the oak.
 
-***De Situ Orbis*** *(c. 37-50 AD)*
+***De Situ Orbis*** *(c. 43–44 AD)*
 *transl. in: The Celtic Heroic Age*
 > They teach, in caves or hidden groves, many things to the nobles in a course of instruction lasting up to twenty years. One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead.
 
-***Geographica*** *(c. 20 AD)*
-*transl. in: The Celtic Heroic Age*
+***Library of History*** *(c. 60–30 BC)*
+*Diodorus Siculus, transl. in: The Celtic Heroic Age*
 > When seeking knowledge of great importance, they use a strange and unbelievable method: they choose a person for death and stab him or her in the chest above the diaphragm. By the convulsion of the victim's limbs and spurting of blood, they foretell the future, trusting in this ancient method.
 
 ***Geographica*** *(c. 20 AD)*
@@ -104,5 +104,5 @@ The movement demonstrates what Evans-Wentz identified as evidence that "the Fair
 - [2] Evans-Wentz, W.Y., *The Fairy-Faith in Celtic Countries* (Frowde 1911).
 - [3] Ó Cathasaigh, Tomás, *Coire Sois: The Cauldron of Knowledge* (University of Notre Dame Press 2014).
 - [4] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
-- [5] Carr-Gomm, Philip, *The Druid Renaissance* (London 1996).
+- [5] Carr-Gomm, Philip, ed., *The Druid Renaissance: The Voice of Druidry Today* (London: Thorsons/HarperCollins, 1996).
 - [6] Bowman, Marion, *Belief Beyond Boundaries* (Open University 2002).

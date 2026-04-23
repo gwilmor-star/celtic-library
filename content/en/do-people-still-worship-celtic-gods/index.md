@@ -6,7 +6,7 @@ slug: "do-people-still-worship-celtic-gods"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -68,7 +68,7 @@ Sacred trees, particularly oaks, remain central to Celtic spiritual practice. An
 
 ## Primary Sources
 
-***Pomponius Mela*** *(c. AD 37-50)*
+***Pomponius Mela*** *(c. AD 43–44)*
 *De Situ Orbis, in: The Celtic Heroic Age*
 > They teach, in caves or hidden groves, many things to the nobles in a course of instruction lasting up to twenty years. One of their doctrines has become commonly known to the populace so that warriors might fight more bravely, that the spirit is eternal and another life awaits the spirits of the dead.
 
@@ -84,7 +84,7 @@ Sacred trees, particularly oaks, remain central to Celtic spiritual practice. An
 *transl. in: Ó hAodha edition (1978)*
 > 'Look for us', said the druid to his maternal uncle, 'how our girl is, for I do not dare to do so since I am not a Christian.' He saw her lying in a crossvigil and she was praying. 'Go again', said the druid, 'and ask her something this time, for she will say something to you now.'
 
-***Vita Columbae*** *(c. 690 AD)*
+***Vita Columbae*** *(c. 697–700 AD)*
 *Adomnán, transl. in: Reeves edition (1874)*
 > Druids, coming near to them, did all they could to prevent God's praises being sung in the midst of a pagan nation. On seeing this, the saint began to sing the 44th Psalm, and at the same moment so wonderfully loud, like pealing thunder, did his voice become, that king and people were struck with terror and amazement.
 

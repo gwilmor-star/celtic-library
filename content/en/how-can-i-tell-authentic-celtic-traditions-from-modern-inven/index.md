@@ -6,7 +6,7 @@ slug: "how-can-i-tell-authentic-celtic-traditions-from-modern-inven"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -23,7 +23,7 @@ Distinguishing authentic Celtic traditions from modern inventions requires under
 ## Q&A Sections
 
 ### What role did 19th-century Romanticism play in creating false Celtic traditions?
-The Romantic movement sparked "Celtomania" across Europe, leading to widespread enthusiasm for Celtic culture but also fabrications. This period saw the popularization of ideas like the Gauls being true ancestors of the French, while attention turned from 'Gaulois' to 'Celtic' through popular equation of modern Bretons with ancient Celts. The coining of 'Celtomanie' as a pejorative label around 1838 demonstrates how this fashion also generated significant skepticism.
+The Romantic movement sparked "Celtomania" across Europe, leading to widespread enthusiasm for Celtic culture but also fabrications. This period saw the popularization of ideas like the Gauls being true ancestors of the French, while attention turned from 'Gaulois' to 'Celtic' through popular equation of modern Bretons with ancient Celts. The term 'Celtomanie' as a pejorative label was in circulation from at least the early 19th century, in the context of criticism of the Paris-based Académie celtique (founded 1805), demonstrating how this fashion also generated significant skepticism from its outset.
 
 ### How can we identify authentic ancient sources versus modern interpretations?
 Scholars examine medieval manuscripts and early historical accounts for documentation patterns, though the sources do not establish clear chronological cutoffs. Modern Celtic mysticism often shows surprising parallels to East Indian metaphysical systems, suggesting Oriental influence rather than genuine druidic origin. The most reliable approach examines how traditions present themselves scientifically, recognizing that exoteric fairy beliefs show considerable degeneration from what must have been highly developed ancient animistic creeds.
@@ -37,7 +37,7 @@ Scholars reportedly examine the historical development and documentation of trad
 ## In-Depth Overview
 
 ### Historical Context of Celtic Revival
-The 19th-century Celtic revival emerged during Romanticism, creating unprecedented interest in Celtic civilization and languages. This period saw extraordinary activity from historians like Comte de Boulainvilliers, Guizot, the Thierry brothers, Henri Martin, and Michelet, who popularized connections between ancient Gauls and modern French identity. The movement gained momentum through literary works like Chateaubriand's druidic adventures in Les Martyrs (1809) and Walter Scott's Romantic Celtophilia, alongside the pan-European Ossianic cult diffused through Goethe's Werther.
+The 19th-century Celtic revival emerged during Romanticism, creating unprecedented interest in Celtic civilization and languages. This period saw extraordinary activity from historians like Guizot, the Thierry brothers (Augustin Thierry's *Histoire des Gaulois*, 1828), Henri Martin, and Michelet, who popularized connections between ancient Gauls and modern French identity. An earlier precursor, Henri de Boulainvilliers (1658–1722), had paradoxically used the Gaul/Frank distinction to argue for Frankish aristocratic privilege over a Gaulish common people — a framework later historians inverted. The movement gained momentum through literary works like Chateaubriand's druidic adventures in Les Martyrs (1809) and Walter Scott's Romantic Celtophilia, alongside the pan-European Ossianic cult diffused through Goethe's Werther.
 
 ### Source Authentication Methods
 Authentic Celtic traditions require verification through pre-medieval documentation and analysis of transmission patterns. Scholars must distinguish between genuine pagan survivals and later Christian or modern influences, examining how beliefs developed over time. The most reliable sources include early Irish literature, ancient historical accounts, and archaeological evidence that predates the Romantic revival period.
@@ -54,7 +54,7 @@ The Fairy-Faith demonstrates both authentic ancient elements and later degenerat
 *transl. in: The Celtic Heroic Age*
 > In particular they (the Druids) wish to inculcate this idea, that souls do not die, but pass from one body to another. The Gauls declare that they have all sprung from their father Dis (or Pluto), and this they say was delivered to them by the Druids.
 
-***Pharsalia*** *(c. 65 AD)*
+***Pharsalia*** *(begun c. 61 AD; unfinished at Lucan's death, 65 AD)*
 *transl. in: The Fairy-Faith in Celtic Countries*
 > If you know what you sing, death is the centre of a long life. Happy the folk upon whom the Bear looks down, happy in this error, whom of fears the greatest moves not, the dread of death. Hence their warrior's heart hurls them against the steel, hence their ready welcome of death, and the thought that it were a coward's part to grudge a life sure of its return.
 

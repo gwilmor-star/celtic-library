@@ -6,7 +6,7 @@ slug: "how-can-celtic-mythology-be-used-for-personal-growth-or-spir"
 cluster: "christianity-syncretism-historicity"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -42,9 +42,9 @@ Celtic mythology offers practical spiritual guidance through its understanding o
 
 ### Ancient Foundations of Celtic Spiritual Practice
 
-The Celtic spiritual tradition emphasizes the fundamental principle of soul immortality as taught by the ancient Druids. Caesar recorded that the Druids wished to "inculcate this idea, that souls do not die, but pass from one body to another". This teaching formed the cornerstone of Celtic spirituality, providing warriors and students alike with courage and motivation for spiritual development. Pomponius Mela further documented that the Druids taught "the movements of the heavens and stars, and the will of the gods" in "caves or hidden groves" during "a course of instruction lasting up to twenty years".
+The Celtic spiritual tradition emphasizes the fundamental principle of soul immortality as taught by the ancient Druids. Caesar recorded that the Druids wished to "inculcate this idea, that souls do not die, but pass from one body to another". This teaching formed the cornerstone of Celtic spirituality, providing warriors and students alike with courage and motivation for spiritual development. Pomponius Mela further documented that the Druids taught "the movements of the heavens and stars, and the will of the gods" in caves or inaccessible woods during a course of instruction lasting up to twenty years (*De Situ Orbis* 3.2).
 
-The educational approach of the Druids prioritized experiential learning and memory development over written instruction. They deliberately avoided committing their teachings to writing, believing that this approach fostered deeper engagement with sacred knowledge, though the sources do not explicitly confirm their specific reasoning about encouraging "diligence in memory and thorough learning". This methodology suggests that spiritual development requires deep internalization of wisdom rather than superficial academic study.
+The educational approach of the Druids prioritized experiential learning and memory development over written instruction. They deliberately avoided committing their teachings to writing. Caesar gives two explicit reasons: they did not wish the teachings to become common property beyond initiates, and they did not want students to rely on writing and thereby neglect the cultivation of memory (De Bello Gallico VI.14). This methodology suggests that spiritual development requires deep internalization of wisdom rather than superficial academic study.
 
 ### Contemporary Revival and Adaptation
 

@@ -6,7 +6,7 @@ slug: "how-do-i-start-learning-celtic-mythology"
 cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-04-22"
-dateModified: "2026-04-22"
+dateModified: "2026-04-23"
 status: "draft"
 ---
 
@@ -47,7 +47,7 @@ Students should begin with foundational works that provide both primary source a
 
 ## Primary Sources
 
-***Book of Taliesin*** *(c. 6th-10th century)*
+***Book of Taliesin*** *(Peniarth MS 2, MS c. early 14th century, c. 1300–1325; the poems within it may be considerably older, some possibly 9th–10th century or earlier)*
 *transl. in: Haycock, Marged, ed. & transl., Legendary Poems from the Book of Taliesin (2007)*
 > Wyf bard neuad 'I'm a poet in the hall'; keint yr yn bychan 'I've sung from infancy'; Nyt mi wyf herd uut 'I'm not mute of song'; wyf kyfreu lawen 'I am joyful of song'. Of course, court poets frequently do this; but unlike them, Taliesin professes to be a sage who knows about science, materia medica
 
@@ -69,6 +69,6 @@ Students should begin with foundational works that provide both primary source a
 - [7] Koch, John T. & Carey, John, eds., *The Celtic Heroic Age* (Celtic Studies Publications 2003).
 - [8] Campbell, J.F., *Popular Tales of the West Highlands vol. 3* (Edmonston & Douglas 1860–62).
 - [9] Campbell, John Gregorson, *Witchcraft and Second Sight in the Highlands and Islands of Scotland* (MacLehose 1902).
-- [10] Dillon, Myles, *Lebor Gabála Érenn* study (DIAS 1956).
+- [10] Macalister, R.A. Stewart, ed. & transl., *Lebor Gabála Érenn*, 5 vols. (Irish Texts Society, 1938–1956).
 - [11] Dillon, Myles, *Early Irish Literature* (University of Chicago Press 1948).
 - [12] Bromwich, Rachel, ed. & transl., *Trioedd Ynys Prydein (Triads of the Island of Britain)* (University of Wales Press 2006).
