@@ -26,6 +26,21 @@ module.exports = function (eleventyConfig) {
 </figure>`;
   });
 
+  // ---- activeClusters collection ----------------------------------------
+  // Returns the subset of clusters.json that has at least one published entry.
+  // Used by both the homepage cluster list and the cluster-hubs template so
+  // that empty clusters stay hidden until their first entry lands.
+  eleventyConfig.addCollection("activeClusters", function (collectionApi) {
+    const clusters = require("./_data/clusters.json");
+    const usedIds = new Set();
+    collectionApi.getAll().forEach((item) => {
+      if (item.data.cluster && item.data.lang === "en") {
+        usedIds.add(item.data.cluster);
+      }
+    });
+    return clusters.filter((c) => usedIds.has(c.id));
+  });
+
   return {
     dir: {
       input: "content",
