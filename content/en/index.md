@@ -20,8 +20,8 @@ The library is organised into six categories. Each category lists the entries it
 {%- endfor -%}
 </ul>
 
-The library is in active development. If you spot an error, a misattributed quote, a wrong page number, a misreading of a source, please [tell us](https://celticsource.online/Contact).
+The library is in active development. If you spot an error, a misattributed quote, a wrong page number, a misreading of a source, please <a href="https://celticsource.online/Contact" target="_blank" rel="noopener noreferrer">tell us</a>.
 
 ## Related work
 
-- The wider [Celtic Source](https://celticsource.online) project, including video lectures, the community forum, and other resources.
+- The wider <a href="https://celticsource.online" target="_blank" rel="noopener noreferrer">Celtic Source</a> project, including video lectures, the community forum, and other resources.
