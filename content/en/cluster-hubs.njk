@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+lang: en
+pagination:
+  data: collections.activeClusters
+  size: 1
+  alias: cluster
+permalink: "/en/{{ cluster.id }}/"
+eleventyComputed:
+  title: "{{ cluster.name_en }} — Celtic Source Library"
+  description: "{{ cluster.intro_en }}"
+---
+<article>
+  <h1>{{ cluster.name_en }}</h1>
+  {% if cluster.intro_en %}<p>{{ cluster.intro_en }}</p>{% endif %}
+
+  <hr>
+
+  <ul class="cluster-list">
+    {%- for entry in collections.all -%}
+      {%- if entry.data.cluster == cluster.id and entry.data.lang == "en" -%}
+        <li><a href="{{ entry.url }}">{{ entry.data.title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+
+  <p class="cluster-status"><em>More entries in this category will be added regularly.</em></p>
+</article>
