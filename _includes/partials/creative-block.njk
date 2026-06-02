@@ -1,0 +1,37 @@
+{# Creative Block partial — renders front-matter `creative_block:` as a float-right card.
+   Expects creative_block.type to be either "image" or "poem".
+   See voice-and-format / creative-block / schema.md for the full field spec.
+#}
+<aside class="creative-block" aria-label="Creative work accompanying this entry">
+  <div class="creative-block__square">
+    {%- if creative_block.type == 'image' -%}
+      <img
+        class="creative-block__image"
+        src="{{ creative_block.src }}"
+        alt="{{ creative_block.alt }}"
+        loading="lazy"
+        decoding="async"
+        width="340"
+        height="340">
+    {%- elif creative_block.type == 'poem' -%}
+      <div class="creative-block__poem">
+        <div class="creative-block__poem-inner">{{ creative_block.poem | trim }}</div>
+      </div>
+    {%- endif -%}
+  </div>
+
+  {%- if creative_block.creator or creative_block.title or creative_block.url -%}
+    <div class="creative-block__credit">
+      {%- if creative_block.creator or creative_block.title -%}
+        <span class="creative-block__byline">
+          {%- if creative_block.creator %}{{ creative_block.creator }}{% endif -%}
+          {%- if creative_block.creator and creative_block.title %} — {% endif -%}
+          {%- if creative_block.title %}<em>{{ creative_block.title }}</em>{% endif -%}
+        </span>
+      {%- endif -%}
+      {%- if creative_block.url -%}
+        <a class="creative-block__url" href="{{ creative_block.url }}" target="_blank" rel="noopener noreferrer">{{ creative_block.url | replace("https://", "") | replace("http://", "") }}</a>
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+</aside>
