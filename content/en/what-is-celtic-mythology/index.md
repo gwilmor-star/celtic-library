@@ -3,7 +3,7 @@ layout: layouts/page.njk
 lang: en
 title: "What is Celtic mythology?"
 slug: "what-is-celtic-mythology"
-cluster: "Foundations & Definitions"
+cluster: "foundations-definitions"
 type: "entity-page"
 datePublished: "2026-06-01"
 dateModified: "2026-06-01"
@@ -11,18 +11,17 @@ status: "draft"
 creative_block:
   type: poem
   poem: |
-Old words were a spoken sound, 
-no pen held them, no page bound — 
-yet they linger all around.
+    Old words were a spoken sound,
+    no pen held them, no page bound—
+    yet they linger all around.
 
-Old words made the land a queen —
-walking sunwise, dressed in green,
-dwelling in that place unseen.
+    Old words made the land a queen—
+    walking sunwise, dressed in green,
+    dwelling in that place unseen.
 
-Old words endured, like the king 
-in his cave — hidden, sleeping,
-waiting for the bell to ring.
-
+    Old words endured, like the king
+    in his cave — hidden, sleeping,
+    waiting for the bell to ring.
   creator: GMB
   title: Old Words
   url: https://gwilymmorus.com
