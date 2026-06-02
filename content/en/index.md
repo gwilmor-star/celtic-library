@@ -12,10 +12,10 @@ A reference library of answers to commonly asked questions about Celtic mytholog
 
 ## Browse by topic
 
-The library is organised into six categories. Each category lists the entries it contains.
+The library is organised into categories that will appear here as their first entries go live. Each category lists the entries it contains.
 
 <ul class="cluster-list">
-{%- for cluster in clusters -%}
+{%- for cluster in collections.activeClusters -%}
   <li><a href="/en/{{ cluster.id }}/">{{ cluster.name_en }}</a></li>
 {%- endfor -%}
 </ul>
