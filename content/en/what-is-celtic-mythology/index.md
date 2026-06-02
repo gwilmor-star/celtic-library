@@ -77,6 +77,12 @@ So what we call Celtic mythology is really several traditions laid over one anot
 
 **Deeper reading:** Notice why no single one of these strands can stand in for Celtic mythology on its own. The carved stone is solid and real, but mute, it hands you an object and no story. The manuscript hands you the story, but no promise it's old rather than something a monk made up. The matching god-names prove that something ancient came through, but on their own they're just a list. Each kind of evidence is strong in exactly the place where the others are weak. That's why scholars read them against each other rather than crowning a favourite: each strand covers the others' blind spots, and only together do they add up to anything you could fairly call Celtic mythology.
 
+## My own thoughts . . .
+
+What is Celtic mythology today and can we really pin it down? This is an attempt to ask the awkward question underneath the usual answers, following the tradition from medieval manuscripts into far stranger territory: why most of it now happens in English, the long shadow of Tolkien, and a sprawling modern world that has grown into the living definition. The lines are blurry, and what Celtic mythology is today may be moving out of our hands entirely.
+
+{% videoEmbed "SyMPC-7LeMU", "What is Celtic mythology?" %}
+
 ## Notes
 
 (1) Patricia Monaghan, *The Encyclopedia of Celtic Mythology and Folklore*, (2004), p. 363.
