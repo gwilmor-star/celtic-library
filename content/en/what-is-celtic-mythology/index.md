@@ -15,9 +15,9 @@ creative_block:
     no pen held them, no page bound—
     yet they linger all around.
 
-    Old words made the land a queen—
+    Old words journeyed like the queen
     walking sunwise, dressed in green,
-    dwelling in that place unseen.
+    rising from that place unseen.
 
     Old words endured, like the king
     in his cave — hidden, sleeping,
