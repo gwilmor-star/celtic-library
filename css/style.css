@@ -303,3 +303,125 @@ li {
 .community-footer a {
   font-weight: bold;
 }
+
+/* =========================================================
+   Site-wide tweaks + Creative Block + Video Embed
+   ========================================================= */
+
+:root {
+  --max-width: 1000px;
+  --line-height: 1.3;
+}
+
+/* --- Creative Block --- */
+
+.creative-block {
+  float: right;
+  width: 340px;
+  margin: 0.25rem 0 1.25rem 1.5rem;
+  font-family: var(--font-main);
+}
+
+.creative-block__square {
+  width: 340px;
+  height: 340px;
+  position: relative;
+  overflow: hidden;
+  background-color: #efdab0;
+  border-radius: 2px;
+}
+
+.creative-block__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.creative-block__poem {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  padding: 0.625rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.creative-block__poem-inner {
+  font-family: var(--font-main);
+  font-size: 17px;
+  line-height: 1.3;
+  color: #000;
+  white-space: pre-line;
+  text-align: left;
+  max-width: 100%;
+  margin: 0;
+}
+
+.creative-block__credit {
+  padding: 0.6rem 0.25rem 0;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #5a5550;
+  text-align: center;
+}
+
+.creative-block__byline {
+  display: block;
+}
+
+.creative-block__byline em {
+  font-style: italic;
+}
+
+.creative-block__url {
+  display: block;
+  font-size: 12.5px;
+  word-break: break-word;
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.creative-block__url:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  .creative-block {
+    float: none;
+    width: 100%;
+    max-width: 340px;
+    margin: 1.5rem auto 2rem;
+  }
+  .creative-block__square {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}
+
+/* --- Video Embed --- */
+
+.video-embed {
+  margin: 2.5rem 0;
+  padding: 0;
+}
+
+.video-embed__frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.video-embed__frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
