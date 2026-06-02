@@ -1,8 +1,86 @@
 [
-  {"id": "deities-major-figures", "name_en": "Deities & Major Figures", "name_cy": "Duwiau a Ffigurau Mawr"},
-  {"id": "christianity-syncretism-historicity", "name_en": "Christianity, Syncretism & Historicity", "name_cy": "Cristnogaeth, Syncretiaeth a Hanesyddoldeb"},
-  {"id": "foundations-definitions", "name_en": "Foundations & Definitions", "name_cy": "Sylfeini a Diffiniadau"},
-  {"id": "mythic-cosmology-concepts", "name_en": "Mythic Cosmology & Concepts", "name_cy": "Cosmoleg a Chysyniadau Mythig"},
-  {"id": "peoples-languages-geography", "name_en": "Peoples, Languages & Geography", "name_cy": "Pobloedd, Ieithoedd a Daearyddiaeth"},
-  {"id": "symbols-material-culture", "name_en": "Symbols & Material Culture", "name_cy": "Symbolau a Diwylliant Materol"}
+  {
+    "id": "foundations-definitions",
+    "name_en": "Foundations & Definitions",
+    "name_cy": "Sylfeini a Diffiniadau",
+    "intro_en": "Working definitions, terminology, and starting points. What 'Celtic' means, what counts as Celtic mythology, key terms like sídhe, Annwfn, Awen, and Tuatha Dé Danann — plus practical guidance on how to read the field and where to begin.",
+    "intro_cy": ""
+  },
+  {
+    "id": "deities-major-figures",
+    "name_en": "Deities & Major Figures",
+    "name_cy": "Duwiau a Ffigurau Mawr",
+    "intro_en": "Gods, goddesses, heroes, and the divine peoples and dynasties they belong to. From Brigid and Lugh to the Tuatha Dé Danann and the heroes of the Ulster and Fenian cycles — the named figures around whom Celtic mythological narrative is built.",
+    "intro_cy": ""
+  },
+  {
+    "id": "mythic-cosmology-concepts",
+    "name_en": "Mythic Cosmology & Concepts",
+    "name_cy": "Cosmoleg a Chysyniadau Mythig",
+    "intro_en": "The structures, concepts, and stories that hold Celtic mythology together. The Otherworld in its many names, the four cycles of Irish saga, foundational tales, the creatures that move between worlds, and the underlying logic of geasa and prophecy.",
+    "intro_cy": ""
+  },
+  {
+    "id": "symbols-material-culture",
+    "name_en": "Symbols & Material Culture",
+    "name_cy": "Symbolau a Diwylliant Materol",
+    "intro_en": "Objects, motifs, festivals, and ritual practices. From the triskele and the torc to the seasonal festivals of Imbolc, Beltane, Lughnasadh, and Samhain — the physical and embodied stuff of Celtic tradition, what survives in artefacts as well as in texts.",
+    "intro_cy": ""
+  },
+  {
+    "id": "peoples-languages-geography",
+    "name_en": "Peoples, Languages & Geography",
+    "name_cy": "Pobloedd, Ieithoedd a Daearyddiaeth",
+    "intro_en": "The Celtic-speaking peoples, the languages they spoke, the regions they inhabited, and the manuscript traditions in which their myths survive. How geographic and linguistic boundaries map — imperfectly — onto the mythological traditions we study.",
+    "intro_cy": ""
+  },
+  {
+    "id": "sacred-sites-pilgrimage",
+    "name_en": "Sacred Sites & Pilgrimage",
+    "name_cy": "Safleoedd Sanctaidd a Phererindod",
+    "intro_en": "Places where Celtic myth meets the landscape — the sites where these stories were first told, the burial mounds and stone monuments still woven into them, and the sacred wells and hilltops still visited today.",
+    "intro_cy": ""
+  },
+  {
+    "id": "christianity-syncretism-historicity",
+    "name_en": "Christianity, Syncretism & Historicity",
+    "name_cy": "Cristnogaeth, Syncretiaeth a Hanesyddoldeb",
+    "intro_en": "How Celtic tradition meets and clashes with other belief systems across time. Medieval Christian retellings of pagan material, Roman writers' accounts, the Victorian Revival, and modern reception — Wicca, contemporary paganism, and the ongoing argument about what counts as Celtic.",
+    "intro_cy": ""
+  },
+  {
+    "id": "interpreting-celtic-myth",
+    "name_en": "Interpreting Celtic Myth",
+    "name_cy": "Dehongli Myth Geltaidd",
+    "intro_en": "Theoretical frameworks scholars use to read Celtic mythology. Comparative and Indo-European approaches, Dumézil's tripartite theory, Lévi-Strauss, Jung's archetypes, Campbell's hero's journey, and recurring motifs like the sovereignty goddess, the cattle-raid, and the cauldron of rebirth.",
+    "intro_cy": ""
+  },
+  {
+    "id": "comparisons-distinctions",
+    "name_en": "Comparisons & Distinctions",
+    "name_cy": "Cymariaethau a Gwahaniaethau",
+    "intro_en": "Side-by-side comparisons that clarify what makes Celtic mythology distinctive — within itself (Irish vs Welsh, Druidry vs modern Wicca) and across traditions (Cernunnos vs Pan, banshee vs valkyrie). Where the lines are sharp and where they blur.",
+    "intro_cy": ""
+  },
+  {
+    "id": "modern-connections-pop-culture",
+    "name_en": "Modern Connections & Pop Culture",
+    "name_cy": "Cysylltiadau Modern a Diwylliant Poblogaidd",
+    "intro_en": "How Celtic mythology shapes modern fantasy, film, and games — from Tolkien and C.S. Lewis to The Witcher, Outlander, and Disney's Brave. Where the borrowings are accurate, where they're inventive, and what the borrowing tells us about why this material still travels.",
+    "intro_cy": ""
+  },
+  {
+    "id": "beginner-misconceptions",
+    "name_en": "Beginner Misconceptions",
+    "name_cy": "Camsyniadau Cyffredin",
+    "intro_en": "Common myths about Celtic mythology — what's evidence-backed, what's modern invention, and what falls in between. The Druids didn't build Stonehenge; the Wheel of the Year is largely modern; the 'triple goddess' has a complicated history.",
+    "intro_cy": ""
+  }
+  {
+  "id": "member-contributions",
+  "name_en": "Member Contributions",
+  "name_cy": "Cyfraniadau Aelodau",
+  "intro_en": "Articles, essays, and reflections by members of the Celtic Source community. Pieces written by readers and contributors that sit alongside the library's main entries, offering different angles and personal perspectives on Celtic material.",
+  "intro_cy": ""
+}
 ]
