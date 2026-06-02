@@ -4,6 +4,12 @@ layout: layouts/base.njk
 <article>
   <h1>{{ title }}</h1>
   {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
-  <hr>
+
+  {%- if creative_block -%}
+    {% include "partials/creative-block.njk" %}
+  {%- else -%}
+    <hr>
+  {%- endif -%}
+
   {{ content | safe }}
 </article>
