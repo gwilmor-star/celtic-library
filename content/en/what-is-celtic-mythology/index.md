@@ -13,13 +13,13 @@ creative_block:
     - type: poem
       poem: |
         Old words were a spoken sound,
-        no pen held them, no page bound —
+        no pen held them, no page bound—
         yet they linger all around.
-        
+
         Old words journeyed like the queen
         walking sunwise, dressed in green,
         rising from that place unseen.
-        
+
         Old words endured, like the king
         in his cave — hidden, sleeping,
         waiting for the bell to ring.
@@ -99,18 +99,12 @@ What is Celtic mythology today and can we really pin it down? This is an attempt
 ## Notes
 
 (1) Patricia Monaghan, *The Encyclopedia of Celtic Mythology and Folklore*, (2004), p. 363.
-
 (2) James MacKillop, *Dictionary of Celtic Mythology*, (1998), p. 20.
-
 (3) Igor Sitnikov, *Chapter II: Evidence of Particular Symbols Stability in Eurasian Peoples' Mythologies*, (2022), p. 6.
-
 (4) ed. Elizabeth Gray / trans. Elizabeth Gray, *Cath Maige Tuired (The Second Battle of Mag Tuired)*, (1982), p. 25.
-
 (5) Carl Lindahl, John McNamara, John Lindow (eds.), *Medieval Folklore: A Guide to Myths, Legends, Tales, Beliefs, and Customs*, (2002), p. 91.
-
 (6) MacKillop, *Dictionary of Celtic Mythology*, p. 20.
-
 (7) Sharon Paice Macleod, *Celtic Myth and Religion A Study of Traditional Belief, with Newly Translated Prayers, Poems and Songs*, (2011), p. 18.
-(8) Maxim Fomin, *Studying Celtic Mythology and Celtic Figures of Divine…*
+(8) Maxim Fomin, *Studying Celtic Mythology and Celtic Figures of Divine Status in Light of Recent Archaeological Discoveries*, (2025), pp. 190-200.
 (9) Fomin, *Studying Celtic Mythology and Celtic Figures of Divine…*
 (10) Fomin, *Studying Celtic Mythology and Celtic Figures of Divine…*
