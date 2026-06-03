@@ -1,37 +1,90 @@
 {# Creative Block partial — renders front-matter `creative_block:` as a float-right card.
-   Expects creative_block.type to be either "image" or "poem".
-   See voice-and-format / creative-block / schema.md for the full field spec.
-#}
-<aside class="creative-block" aria-label="Creative work accompanying this entry">
-  <div class="creative-block__square">
-    {%- if creative_block.type == 'image' -%}
-      <img
-        class="creative-block__image"
-        src="{{ creative_block.src }}"
-        alt="{{ creative_block.alt }}"
-        loading="lazy"
-        decoding="async"
-        width="340"
-        height="340">
-    {%- elif creative_block.type == 'poem' -%}
-      <div class="creative-block__poem">
-        <div class="creative-block__poem-inner">{{ creative_block.poem | trim }}</div>
-      </div>
-    {%- endif -%}
-  </div>
+   Supports both single-item (legacy) and multi-item carousel shapes:
 
-  {%- if creative_block.creator or creative_block.title or creative_block.url -%}
-    <div class="creative-block__credit">
-      {%- if creative_block.creator or creative_block.title -%}
-        <span class="creative-block__byline">
-          {%- if creative_block.creator %}{{ creative_block.creator }}{% endif -%}
-          {%- if creative_block.creator and creative_block.title %} — {% endif -%}
-          {%- if creative_block.title %}<em>{{ creative_block.title }}</em>{% endif -%}
-        </span>
-      {%- endif -%}
-      {%- if creative_block.url -%}
-        <a class="creative-block__url" href="{{ creative_block.url }}" target="_blank" rel="noopener noreferrer">{{ creative_block.url | replace("https://", "") | replace("http://", "") }}</a>
+   Single (legacy):
+     creative_block:
+       type: poem | image
+       poem / src / alt / creator / title / url
+
+   Multi-item (carousel):
+     creative_block:
+       items:
+         - type: poem | image
+           poem / src / alt / creator / title / url
+         - type: ...
+         - ...
+
+   Carousel uses CSS-only radio-button pattern — no JavaScript.
+   Up to 10 items supported by the CSS rule sets.
+#}
+
+{%- if creative_block.items -%}
+  {%- set items = creative_block.items -%}
+{%- else -%}
+  {%- set items = [creative_block] -%}
+{%- endif -%}
+
+{%- set carouselId = slug or page.fileSlug or "cb" -%}
+{%- set isCarousel = items.length > 1 -%}
+
+<aside class="creative-block{% if isCarousel %} creative-block--carousel{% endif %}" aria-label="Creative work accompanying this entry">
+
+  {%- if isCarousel -%}
+    {%- for item in items -%}
+      <input type="radio"
+             name="cb-{{ carouselId }}"
+             id="cb-{{ carouselId }}-{{ loop.index0 }}"
+             data-cb-idx="{{ loop.index0 }}"
+             class="creative-block__radio"
+             {% if loop.first %}checked{% endif %}>
+    {%- endfor -%}
+  {%- endif -%}
+
+  {%- for item in items -%}
+    <div class="creative-block__pane" data-cb-idx="{{ loop.index0 }}">
+      <div class="creative-block__square">
+        {%- if item.type == 'image' -%}
+          <img
+            class="creative-block__image"
+            src="{{ item.src }}"
+            alt="{{ item.alt }}"
+            loading="lazy"
+            decoding="async"
+            width="340"
+            height="340">
+        {%- elif item.type == 'poem' -%}
+          <div class="creative-block__poem">
+            <div class="creative-block__poem-inner">{{ item.poem | trim }}</div>
+          </div>
+        {%- endif -%}
+      </div>
+
+      {%- if item.creator or item.title or item.url -%}
+        <div class="creative-block__credit">
+          {%- if item.creator or item.title -%}
+            <span class="creative-block__byline">
+              {%- if item.creator %}{{ item.creator }}{% endif -%}
+              {%- if item.creator and item.title %} — {% endif -%}
+              {%- if item.title %}<em>{{ item.title }}</em>{% endif -%}
+            </span>
+          {%- endif -%}
+          {%- if item.url -%}
+            <a class="creative-block__url" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.url | replace("https://", "") | replace("http://", "") }}</a>
+          {%- endif -%}
+        </div>
       {%- endif -%}
     </div>
+  {%- endfor -%}
+
+  {%- if isCarousel -%}
+    <div class="creative-block__dots" role="group" aria-label="Choose a creative work">
+      {%- for item in items -%}
+        <label for="cb-{{ carouselId }}-{{ loop.index0 }}"
+               data-cb-idx="{{ loop.index0 }}"
+               class="creative-block__dot"
+               aria-label="Show item {{ loop.index }}{% if item.creator %} by {{ item.creator }}{% endif %}{% if item.title %}: {{ item.title }}{% endif %}"></label>
+      {%- endfor -%}
+    </div>
   {%- endif -%}
+
 </aside>
