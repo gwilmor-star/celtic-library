@@ -3,6 +3,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_shared-assets");
   // Pass through entry-folder image assets (e.g. Creative Block JPEGs)
   eleventyConfig.addPassthroughCopy("content/**/*.jpg");
+  eleventyConfig.addPassthroughCopy("content/**/*.jpeg");
 
   // ---- YouTube video embed shortcode -----------------------------------
   // Usage in markdown:
