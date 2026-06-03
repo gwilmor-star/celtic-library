@@ -25,6 +25,18 @@ creative_block:
   creator: GMB
   title: Old Words
   url: https://gwilymmorus.com
+- type: image
+  src: creative-1.jpeg
+  alt: "An old woman's mouth speaking."
+  creator: GMB
+  title: She Speaks
+  url: https://gwilymmorus.com
+- type: image
+  src: creative-2.jpeg
+  alt: "A scribe's hand writing on parchment."
+  creator: GMB
+  title: "The Scribe's Hand"
+  url: https://gwilymmorus.com
 ---
 
 Celtic mythology is the collection of stories, beliefs, and gods that come down to us from the ancient Celtic-speaking peoples of Ireland, Britain, and mainland Europe. The Iron Age Celts never kept a written record of their own, so nearly everything we have was written down later by Christian scribes in medieval Ireland and Wales, centuries after the world that made these myths had changed beyond recognition. What we're left with is still the real thing, old and rich and strange, but it's also been filtered, reshaped, and at times deliberately covered over.
