@@ -504,3 +504,11 @@ li {
   outline: 2px solid var(--color-link);
   outline-offset: 2px;
 }
+
+.creative-block__hint {
+  margin: 0.4rem 0 0;
+  font-size: 12px;
+  text-align: center;
+  color: #8a7f6e;
+  font-style: italic;
+}
