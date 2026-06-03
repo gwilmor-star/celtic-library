@@ -85,8 +85,6 @@ What is Celtic mythology today and can we really pin it down? This is an attempt
 
 ## Notes
 
-## Notes
-
 (1) Patricia Monaghan, *The Encyclopedia of Celtic Mythology and Folklore*, (2004), p. 363.
 
 (2) James MacKillop, *Dictionary of Celtic Mythology*, (1998), p. 20.
