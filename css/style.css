@@ -425,3 +425,82 @@ li {
   height: 100%;
   border: 0;
 }
+
+/* =========================================================
+   Creative Block — carousel additions
+   ========================================================= */
+
+.creative-block__radio {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+  margin: -1px;
+}
+
+.creative-block--carousel .creative-block__pane {
+  display: none;
+}
+
+.creative-block--carousel input[data-cb-idx="0"]:checked ~ .creative-block__pane[data-cb-idx="0"],
+.creative-block--carousel input[data-cb-idx="1"]:checked ~ .creative-block__pane[data-cb-idx="1"],
+.creative-block--carousel input[data-cb-idx="2"]:checked ~ .creative-block__pane[data-cb-idx="2"],
+.creative-block--carousel input[data-cb-idx="3"]:checked ~ .creative-block__pane[data-cb-idx="3"],
+.creative-block--carousel input[data-cb-idx="4"]:checked ~ .creative-block__pane[data-cb-idx="4"],
+.creative-block--carousel input[data-cb-idx="5"]:checked ~ .creative-block__pane[data-cb-idx="5"],
+.creative-block--carousel input[data-cb-idx="6"]:checked ~ .creative-block__pane[data-cb-idx="6"],
+.creative-block--carousel input[data-cb-idx="7"]:checked ~ .creative-block__pane[data-cb-idx="7"],
+.creative-block--carousel input[data-cb-idx="8"]:checked ~ .creative-block__pane[data-cb-idx="8"],
+.creative-block--carousel input[data-cb-idx="9"]:checked ~ .creative-block__pane[data-cb-idx="9"] {
+  display: block;
+}
+
+.creative-block__dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.75rem 0 0;
+}
+
+.creative-block__dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background-color: #c9c2b8;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.15s;
+}
+
+.creative-block__dot:hover {
+  background-color: #8a7f6e;
+  transform: scale(1.15);
+}
+
+.creative-block--carousel input[data-cb-idx="0"]:checked ~ .creative-block__dots label[data-cb-idx="0"],
+.creative-block--carousel input[data-cb-idx="1"]:checked ~ .creative-block__dots label[data-cb-idx="1"],
+.creative-block--carousel input[data-cb-idx="2"]:checked ~ .creative-block__dots label[data-cb-idx="2"],
+.creative-block--carousel input[data-cb-idx="3"]:checked ~ .creative-block__dots label[data-cb-idx="3"],
+.creative-block--carousel input[data-cb-idx="4"]:checked ~ .creative-block__dots label[data-cb-idx="4"],
+.creative-block--carousel input[data-cb-idx="5"]:checked ~ .creative-block__dots label[data-cb-idx="5"],
+.creative-block--carousel input[data-cb-idx="6"]:checked ~ .creative-block__dots label[data-cb-idx="6"],
+.creative-block--carousel input[data-cb-idx="7"]:checked ~ .creative-block__dots label[data-cb-idx="7"],
+.creative-block--carousel input[data-cb-idx="8"]:checked ~ .creative-block__dots label[data-cb-idx="8"],
+.creative-block--carousel input[data-cb-idx="9"]:checked ~ .creative-block__dots label[data-cb-idx="9"] {
+  background-color: #2d2a26;
+}
+
+.creative-block--carousel input[data-cb-idx="0"]:focus-visible ~ .creative-block__dots label[data-cb-idx="0"],
+.creative-block--carousel input[data-cb-idx="1"]:focus-visible ~ .creative-block__dots label[data-cb-idx="1"],
+.creative-block--carousel input[data-cb-idx="2"]:focus-visible ~ .creative-block__dots label[data-cb-idx="2"],
+.creative-block--carousel input[data-cb-idx="3"]:focus-visible ~ .creative-block__dots label[data-cb-idx="3"],
+.creative-block--carousel input[data-cb-idx="4"]:focus-visible ~ .creative-block__dots label[data-cb-idx="4"],
+.creative-block--carousel input[data-cb-idx="5"]:focus-visible ~ .creative-block__dots label[data-cb-idx="5"],
+.creative-block--carousel input[data-cb-idx="6"]:focus-visible ~ .creative-block__dots label[data-cb-idx="6"],
+.creative-block--carousel input[data-cb-idx="7"]:focus-visible ~ .creative-block__dots label[data-cb-idx="7"],
+.creative-block--carousel input[data-cb-idx="8"]:focus-visible ~ .creative-block__dots label[data-cb-idx="8"],
+.creative-block--carousel input[data-cb-idx="9"]:focus-visible ~ .creative-block__dots label[data-cb-idx="9"] {
+  outline: 2px solid var(--color-link);
+  outline-offset: 2px;
+}
