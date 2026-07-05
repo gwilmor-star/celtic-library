@@ -8,6 +8,12 @@ type: "entity-page"
 datePublished: "2026-05-24"
 dateModified: "2026-05-24"
 status: "draft"
+creative_block:
+  type: "image"
+  src: "creative-brigid.jpg"
+  alt: "Red-haired Brigid in profile cupping a flame in her hand, beside a woven Brigid's cross and Celtic knotwork."
+  creator: "Tracey Evans"
+  url: "https://www.instagram.com/tracey_evans_art/"
 ---
 
 Brigid is one of the best-recorded deities in the Celtic world. Her name means "the exalted one," and she oversees poetry, healing, metalwork, and kingship. We find her in the oldest Irish myths, she leaves her mark on place-names and tribal names across Britain and Europe, and shows up again as Saint Brigit of Kildare, whose feast day on 1 February still marks the start of spring. Where does the goddess stop and the saint begin? Scholars have argued about that for generations, and the question is still open.
