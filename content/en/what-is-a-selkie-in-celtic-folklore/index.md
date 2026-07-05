@@ -8,6 +8,12 @@ type: "entity-page"
 datePublished: "2026-06-12"
 dateModified: "2026-06-12"
 status: "draft"
+creative_block:
+  type: "image"
+  src: "creative-selkie.jpg"
+  alt: "A woman's face emerging from a grey seal's skin worn as a hood, wrapped in the sealskin, against grey water."
+  creator: "Tracey Evans"
+  url: "https://www.instagram.com/tracey_evans_art/"
 ---
 
 A selkie is a seal that can turn into a person. In the coastal folklore of Scotland and Ireland, a selkie slips off its seal-skin to walk on land in human shape, and it has to return to the sea the moment that skin is found and taken back. It belongs to the wider Celtic family of shape-shifting fairy beings, and for hundreds of years it shaped the family trees, the taboos, and the fireside tales of people who lived by the sea. One thing sets the selkie apart from the other fairy figures. It's not only the trick with the skin, it's the feeling that runs through the tales: longing, being held somewhere against your will, and a love that can never quite join two worlds.
