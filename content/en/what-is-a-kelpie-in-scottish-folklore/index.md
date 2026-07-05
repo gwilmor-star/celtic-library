@@ -8,6 +8,12 @@ type: "entity-page"
 datePublished: "2026-06-12"
 dateModified: "2026-06-12"
 status: "draft"
+creative_block:
+  type: "image"
+  src: "creative-kelpie.jpg"
+  alt: "Black-and-white ink drawing of a kelpie water-horse surging from the waves, its mane streaming like kelp."
+  creator: "Tracey Evans"
+  url: "https://www.instagram.com/tracey_evans_art/"
 ---
 
 The kelpie is a shape-shifting water-spirit from Scottish folklore, and it means you harm. It usually shows up as a horse, standing calm at the edge of a river, waiting for someone to climb on so it can drag them down into the water to drown. The name comes from the Scottish Gaelic *colpach* or *calpach*, which means a heifer, a bullock, or a colt (1). It belongs to a whole family of dangerous water-horses found right across the Celtic-speaking world. But the kelpie is more than a monster. The old stories give it a strange depth: it can be caught and put to work, it can be wronged, and when it's wronged it takes a very particular kind of revenge.
